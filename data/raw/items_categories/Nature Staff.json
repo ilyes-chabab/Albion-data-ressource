@@ -1,0 +1,652 @@
+{
+  "data": [
+    {
+      "id": 320,
+      "name": "Journeyman's Nature Staff",
+      "tier": "3.0",
+      "item_power": 500,
+      "identifier": "T3_MAIN_NATURESTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T3_MAIN_NATURESTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 12,
+        "name": "Nature Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 321,
+      "name": "Adept's Nature Staff",
+      "tier": "4.0",
+      "item_power": 700,
+      "identifier": "T4_MAIN_NATURESTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T4_MAIN_NATURESTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 12,
+        "name": "Nature Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 322,
+      "name": "Adept's Wild Staff",
+      "tier": "4.0",
+      "item_power": 700,
+      "identifier": "T4_2H_WILDSTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T4_2H_WILDSTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 12,
+        "name": "Nature Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 323,
+      "name": "Adept's Great Nature Staff",
+      "tier": "4.0",
+      "item_power": 700,
+      "identifier": "T4_2H_NATURESTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T4_2H_NATURESTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 12,
+        "name": "Nature Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 324,
+      "name": "Adept's Druidic Staff",
+      "tier": "4.0",
+      "item_power": 725,
+      "identifier": "T4_MAIN_NATURESTAFF_KEEPER",
+      "icon": "https://render.albiononline.com/v1/item/T4_MAIN_NATURESTAFF_KEEPER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 12,
+        "name": "Nature Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 325,
+      "name": "Adept's Blight Staff",
+      "tier": "4.0",
+      "item_power": 750,
+      "identifier": "T4_2H_NATURESTAFF_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T4_2H_NATURESTAFF_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 12,
+        "name": "Nature Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 326,
+      "name": "Adept's Rampant Staff",
+      "tier": "4.0",
+      "item_power": 775,
+      "identifier": "T4_2H_NATURESTAFF_KEEPER",
+      "icon": "https://render.albiononline.com/v1/item/T4_2H_NATURESTAFF_KEEPER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 12,
+        "name": "Nature Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 327,
+      "name": "Adept's Ironroot Staff",
+      "tier": "4.0",
+      "item_power": 800,
+      "identifier": "T4_MAIN_NATURESTAFF_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T4_MAIN_NATURESTAFF_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 12,
+        "name": "Nature Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 328,
+      "name": "Expert's Nature Staff",
+      "tier": "5.0",
+      "item_power": 800,
+      "identifier": "T5_MAIN_NATURESTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T5_MAIN_NATURESTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 12,
+        "name": "Nature Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 329,
+      "name": "Expert's Wild Staff",
+      "tier": "5.0",
+      "item_power": 800,
+      "identifier": "T5_2H_WILDSTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T5_2H_WILDSTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 12,
+        "name": "Nature Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 330,
+      "name": "Expert's Great Nature Staff",
+      "tier": "5.0",
+      "item_power": 800,
+      "identifier": "T5_2H_NATURESTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T5_2H_NATURESTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 12,
+        "name": "Nature Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 331,
+      "name": "Expert's Druidic Staff",
+      "tier": "5.0",
+      "item_power": 825,
+      "identifier": "T5_MAIN_NATURESTAFF_KEEPER",
+      "icon": "https://render.albiononline.com/v1/item/T5_MAIN_NATURESTAFF_KEEPER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 12,
+        "name": "Nature Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 332,
+      "name": "Expert's Blight Staff",
+      "tier": "5.0",
+      "item_power": 850,
+      "identifier": "T5_2H_NATURESTAFF_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T5_2H_NATURESTAFF_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 12,
+        "name": "Nature Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 333,
+      "name": "Expert's Rampant Staff",
+      "tier": "5.0",
+      "item_power": 875,
+      "identifier": "T5_2H_NATURESTAFF_KEEPER",
+      "icon": "https://render.albiononline.com/v1/item/T5_2H_NATURESTAFF_KEEPER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 12,
+        "name": "Nature Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 334,
+      "name": "Expert's Ironroot Staff",
+      "tier": "5.0",
+      "item_power": 900,
+      "identifier": "T5_MAIN_NATURESTAFF_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T5_MAIN_NATURESTAFF_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 12,
+        "name": "Nature Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 335,
+      "name": "Master's Great Nature Staff",
+      "tier": "6.0",
+      "item_power": 900,
+      "identifier": "T6_2H_NATURESTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T6_2H_NATURESTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 12,
+        "name": "Nature Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 336,
+      "name": "Master's Wild Staff",
+      "tier": "6.0",
+      "item_power": 900,
+      "identifier": "T6_2H_WILDSTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T6_2H_WILDSTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 12,
+        "name": "Nature Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 337,
+      "name": "Master's Nature Staff",
+      "tier": "6.0",
+      "item_power": 900,
+      "identifier": "T6_MAIN_NATURESTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T6_MAIN_NATURESTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 12,
+        "name": "Nature Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 338,
+      "name": "Master's Druidic Staff",
+      "tier": "6.0",
+      "item_power": 925,
+      "identifier": "T6_MAIN_NATURESTAFF_KEEPER",
+      "icon": "https://render.albiononline.com/v1/item/T6_MAIN_NATURESTAFF_KEEPER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 12,
+        "name": "Nature Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 339,
+      "name": "Master's Blight Staff",
+      "tier": "6.0",
+      "item_power": 950,
+      "identifier": "T6_2H_NATURESTAFF_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T6_2H_NATURESTAFF_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 12,
+        "name": "Nature Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 340,
+      "name": "Master's Rampant Staff",
+      "tier": "6.0",
+      "item_power": 975,
+      "identifier": "T6_2H_NATURESTAFF_KEEPER",
+      "icon": "https://render.albiononline.com/v1/item/T6_2H_NATURESTAFF_KEEPER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 12,
+        "name": "Nature Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 341,
+      "name": "Master's Ironroot Staff",
+      "tier": "6.0",
+      "item_power": 1000,
+      "identifier": "T6_MAIN_NATURESTAFF_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T6_MAIN_NATURESTAFF_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 12,
+        "name": "Nature Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 342,
+      "name": "Grandmaster's Nature Staff",
+      "tier": "7.0",
+      "item_power": 1000,
+      "identifier": "T7_MAIN_NATURESTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T7_MAIN_NATURESTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 12,
+        "name": "Nature Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 343,
+      "name": "Grandmaster's Wild Staff",
+      "tier": "7.0",
+      "item_power": 1000,
+      "identifier": "T7_2H_WILDSTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T7_2H_WILDSTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 12,
+        "name": "Nature Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 344,
+      "name": "Grandmaster's Great Nature Staff",
+      "tier": "7.0",
+      "item_power": 1000,
+      "identifier": "T7_2H_NATURESTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T7_2H_NATURESTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 12,
+        "name": "Nature Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 345,
+      "name": "Grandmaster's Druidic Staff",
+      "tier": "7.0",
+      "item_power": 1025,
+      "identifier": "T7_MAIN_NATURESTAFF_KEEPER",
+      "icon": "https://render.albiononline.com/v1/item/T7_MAIN_NATURESTAFF_KEEPER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 12,
+        "name": "Nature Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 346,
+      "name": "Grandmaster's Blight Staff",
+      "tier": "7.0",
+      "item_power": 1050,
+      "identifier": "T7_2H_NATURESTAFF_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T7_2H_NATURESTAFF_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 12,
+        "name": "Nature Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 347,
+      "name": "Grandmaster's Rampant Staff",
+      "tier": "7.0",
+      "item_power": 1075,
+      "identifier": "T7_2H_NATURESTAFF_KEEPER",
+      "icon": "https://render.albiononline.com/v1/item/T7_2H_NATURESTAFF_KEEPER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 12,
+        "name": "Nature Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 348,
+      "name": "Grandmaster's Ironroot Staff",
+      "tier": "7.0",
+      "item_power": 1100,
+      "identifier": "T7_MAIN_NATURESTAFF_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T7_MAIN_NATURESTAFF_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 12,
+        "name": "Nature Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 349,
+      "name": "Elder's Great Nature Staff",
+      "tier": "8.0",
+      "item_power": 1100,
+      "identifier": "T8_2H_NATURESTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T8_2H_NATURESTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 12,
+        "name": "Nature Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 350,
+      "name": "Elder's Wild Staff",
+      "tier": "8.0",
+      "item_power": 1100,
+      "identifier": "T8_2H_WILDSTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T8_2H_WILDSTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 12,
+        "name": "Nature Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 351,
+      "name": "Elder's Nature Staff",
+      "tier": "8.0",
+      "item_power": 1100,
+      "identifier": "T8_MAIN_NATURESTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T8_MAIN_NATURESTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 12,
+        "name": "Nature Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 352,
+      "name": "Elder's Druidic Staff",
+      "tier": "8.0",
+      "item_power": 1125,
+      "identifier": "T8_MAIN_NATURESTAFF_KEEPER",
+      "icon": "https://render.albiononline.com/v1/item/T8_MAIN_NATURESTAFF_KEEPER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 12,
+        "name": "Nature Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 353,
+      "name": "Elder's Blight Staff",
+      "tier": "8.0",
+      "item_power": 1150,
+      "identifier": "T8_2H_NATURESTAFF_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T8_2H_NATURESTAFF_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 12,
+        "name": "Nature Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 354,
+      "name": "Elder's Rampant Staff",
+      "tier": "8.0",
+      "item_power": 1175,
+      "identifier": "T8_2H_NATURESTAFF_KEEPER",
+      "icon": "https://render.albiononline.com/v1/item/T8_2H_NATURESTAFF_KEEPER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 12,
+        "name": "Nature Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 355,
+      "name": "Elder's Ironroot Staff",
+      "tier": "8.0",
+      "item_power": 1200,
+      "identifier": "T8_MAIN_NATURESTAFF_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T8_MAIN_NATURESTAFF_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 12,
+        "name": "Nature Staff",
+        "type": "weapon"
+      }
+    }
+  ]
+}

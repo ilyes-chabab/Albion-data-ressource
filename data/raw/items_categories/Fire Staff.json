@@ -1,0 +1,652 @@
+{
+  "data": [
+    {
+      "id": 434,
+      "name": "Novice's Fire Staff",
+      "tier": "2.0",
+      "item_power": 300,
+      "identifier": "T2_MAIN_FIRESTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T2_MAIN_FIRESTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 17,
+        "name": "Fire Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 435,
+      "name": "Journeyman's Fire Staff",
+      "tier": "3.0",
+      "item_power": 500,
+      "identifier": "T3_MAIN_FIRESTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T3_MAIN_FIRESTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 17,
+        "name": "Fire Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 436,
+      "name": "Adept's Fire Staff",
+      "tier": "4.0",
+      "item_power": 700,
+      "identifier": "T4_MAIN_FIRESTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T4_MAIN_FIRESTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 17,
+        "name": "Fire Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 437,
+      "name": "Adept's Great Fire Staff",
+      "tier": "4.0",
+      "item_power": 700,
+      "identifier": "T4_2H_FIRESTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T4_2H_FIRESTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 17,
+        "name": "Fire Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 438,
+      "name": "Adept's Infernal Staff",
+      "tier": "4.0",
+      "item_power": 700,
+      "identifier": "T4_2H_INFERNOSTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T4_2H_INFERNOSTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 17,
+        "name": "Fire Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 439,
+      "name": "Adept's Wildfire Staff",
+      "tier": "4.0",
+      "item_power": 725,
+      "identifier": "T4_MAIN_FIRESTAFF_KEEPER",
+      "icon": "https://render.albiononline.com/v1/item/T4_MAIN_FIRESTAFF_KEEPER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 17,
+        "name": "Fire Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 440,
+      "name": "Adept's Brimstone Staff",
+      "tier": "4.0",
+      "item_power": 750,
+      "identifier": "T4_2H_FIRESTAFF_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T4_2H_FIRESTAFF_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 17,
+        "name": "Fire Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 441,
+      "name": "Adept's Blazing Staff",
+      "tier": "4.0",
+      "item_power": 775,
+      "identifier": "T4_2H_INFERNOSTAFF_MORGANA",
+      "icon": "https://render.albiononline.com/v1/item/T4_2H_INFERNOSTAFF_MORGANA@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 17,
+        "name": "Fire Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 442,
+      "name": "Adept's Dawnsong",
+      "tier": "4.0",
+      "item_power": 800,
+      "identifier": "T4_2H_FIRE_RINGPAIR_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T4_2H_FIRE_RINGPAIR_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 17,
+        "name": "Fire Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 443,
+      "name": "Expert's Infernal Staff",
+      "tier": "5.0",
+      "item_power": 800,
+      "identifier": "T5_2H_INFERNOSTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T5_2H_INFERNOSTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 17,
+        "name": "Fire Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 444,
+      "name": "Expert's Great Fire Staff",
+      "tier": "5.0",
+      "item_power": 800,
+      "identifier": "T5_2H_FIRESTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T5_2H_FIRESTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 17,
+        "name": "Fire Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 445,
+      "name": "Expert's Fire Staff",
+      "tier": "5.0",
+      "item_power": 800,
+      "identifier": "T5_MAIN_FIRESTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T5_MAIN_FIRESTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 17,
+        "name": "Fire Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 446,
+      "name": "Expert's Wildfire Staff",
+      "tier": "5.0",
+      "item_power": 825,
+      "identifier": "T5_MAIN_FIRESTAFF_KEEPER",
+      "icon": "https://render.albiononline.com/v1/item/T5_MAIN_FIRESTAFF_KEEPER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 17,
+        "name": "Fire Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 447,
+      "name": "Expert's Brimstone Staff",
+      "tier": "5.0",
+      "item_power": 850,
+      "identifier": "T5_2H_FIRESTAFF_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T5_2H_FIRESTAFF_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 17,
+        "name": "Fire Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 448,
+      "name": "Expert's Dawnsong",
+      "tier": "5.0",
+      "item_power": 900,
+      "identifier": "T5_2H_FIRE_RINGPAIR_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T5_2H_FIRE_RINGPAIR_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 17,
+        "name": "Fire Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 449,
+      "name": "Master's Fire Staff",
+      "tier": "6.0",
+      "item_power": 900,
+      "identifier": "T6_MAIN_FIRESTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T6_MAIN_FIRESTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 17,
+        "name": "Fire Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 450,
+      "name": "Master's Infernal Staff",
+      "tier": "6.0",
+      "item_power": 900,
+      "identifier": "T6_2H_INFERNOSTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T6_2H_INFERNOSTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 17,
+        "name": "Fire Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 451,
+      "name": "Master's Great Fire Staff",
+      "tier": "6.0",
+      "item_power": 900,
+      "identifier": "T6_2H_FIRESTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T6_2H_FIRESTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 17,
+        "name": "Fire Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 452,
+      "name": "Master's Wildfire Staff",
+      "tier": "6.0",
+      "item_power": 925,
+      "identifier": "T6_MAIN_FIRESTAFF_KEEPER",
+      "icon": "https://render.albiononline.com/v1/item/T6_MAIN_FIRESTAFF_KEEPER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 17,
+        "name": "Fire Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 453,
+      "name": "Master's Brimstone Staff",
+      "tier": "6.0",
+      "item_power": 950,
+      "identifier": "T6_2H_FIRESTAFF_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T6_2H_FIRESTAFF_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 17,
+        "name": "Fire Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 454,
+      "name": "Master's Blazing Staff",
+      "tier": "6.0",
+      "item_power": 975,
+      "identifier": "T6_2H_INFERNOSTAFF_MORGANA",
+      "icon": "https://render.albiononline.com/v1/item/T6_2H_INFERNOSTAFF_MORGANA@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 17,
+        "name": "Fire Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 455,
+      "name": "Master's Dawnsong",
+      "tier": "6.0",
+      "item_power": 1000,
+      "identifier": "T6_2H_FIRE_RINGPAIR_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T6_2H_FIRE_RINGPAIR_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 17,
+        "name": "Fire Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 456,
+      "name": "Grandmaster's Infernal Staff",
+      "tier": "7.0",
+      "item_power": 1000,
+      "identifier": "T7_2H_INFERNOSTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T7_2H_INFERNOSTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 17,
+        "name": "Fire Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 457,
+      "name": "Grandmaster's Great Fire Staff",
+      "tier": "7.0",
+      "item_power": 1000,
+      "identifier": "T7_2H_FIRESTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T7_2H_FIRESTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 17,
+        "name": "Fire Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 458,
+      "name": "Grandmaster's Fire Staff",
+      "tier": "7.0",
+      "item_power": 1000,
+      "identifier": "T7_MAIN_FIRESTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T7_MAIN_FIRESTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 17,
+        "name": "Fire Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 459,
+      "name": "Grandmaster's Wildfire Staff",
+      "tier": "7.0",
+      "item_power": 1025,
+      "identifier": "T7_MAIN_FIRESTAFF_KEEPER",
+      "icon": "https://render.albiononline.com/v1/item/T7_MAIN_FIRESTAFF_KEEPER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 17,
+        "name": "Fire Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 460,
+      "name": "Grandmaster's Brimstone Staff",
+      "tier": "7.0",
+      "item_power": 1050,
+      "identifier": "T7_2H_FIRESTAFF_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T7_2H_FIRESTAFF_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 17,
+        "name": "Fire Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 461,
+      "name": "Grandmaster's Blazing Staff",
+      "tier": "7.0",
+      "item_power": 1075,
+      "identifier": "T7_2H_INFERNOSTAFF_MORGANA",
+      "icon": "https://render.albiononline.com/v1/item/T7_2H_INFERNOSTAFF_MORGANA@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 17,
+        "name": "Fire Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 462,
+      "name": "Grandmaster's Dawnsong",
+      "tier": "7.0",
+      "item_power": 1100,
+      "identifier": "T7_2H_FIRE_RINGPAIR_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T7_2H_FIRE_RINGPAIR_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 17,
+        "name": "Fire Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 463,
+      "name": "Elder's Fire Staff",
+      "tier": "8.0",
+      "item_power": 1100,
+      "identifier": "T8_MAIN_FIRESTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T8_MAIN_FIRESTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 17,
+        "name": "Fire Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 464,
+      "name": "Vendetta's Wrath",
+      "tier": "8.0",
+      "item_power": 1100,
+      "identifier": "T8_2H_FIRESTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T8_2H_FIRESTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 17,
+        "name": "Fire Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 465,
+      "name": "Elder's Infernal Staff",
+      "tier": "8.0",
+      "item_power": 1100,
+      "identifier": "T8_2H_INFERNOSTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T8_2H_INFERNOSTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 17,
+        "name": "Fire Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 466,
+      "name": "Elder's Wildfire Staff",
+      "tier": "8.0",
+      "item_power": 1125,
+      "identifier": "T8_MAIN_FIRESTAFF_KEEPER",
+      "icon": "https://render.albiononline.com/v1/item/T8_MAIN_FIRESTAFF_KEEPER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 17,
+        "name": "Fire Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 467,
+      "name": "Elder's Brimstone Staff",
+      "tier": "8.0",
+      "item_power": 1150,
+      "identifier": "T8_2H_FIRESTAFF_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T8_2H_FIRESTAFF_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 17,
+        "name": "Fire Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 468,
+      "name": "Elder's Blazing Staff",
+      "tier": "8.0",
+      "item_power": 1175,
+      "identifier": "T8_2H_INFERNOSTAFF_MORGANA",
+      "icon": "https://render.albiononline.com/v1/item/T8_2H_INFERNOSTAFF_MORGANA@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 17,
+        "name": "Fire Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 469,
+      "name": "Elder's Dawnsong",
+      "tier": "8.0",
+      "item_power": 1200,
+      "identifier": "T8_2H_FIRE_RINGPAIR_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T8_2H_FIRE_RINGPAIR_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 17,
+        "name": "Fire Staff",
+        "type": "weapon"
+      }
+    }
+  ]
+}

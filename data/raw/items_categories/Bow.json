@@ -1,0 +1,670 @@
+{
+  "data": [
+    {
+      "id": 247,
+      "name": "Novice's Bow",
+      "tier": "2.0",
+      "item_power": 300,
+      "identifier": "T2_2H_BOW",
+      "icon": "https://render.albiononline.com/v1/item/T2_2H_BOW@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 10,
+        "name": "Bow",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 248,
+      "name": "Journeyman's Bow",
+      "tier": "3.0",
+      "item_power": 500,
+      "identifier": "T3_2H_BOW",
+      "icon": "https://render.albiononline.com/v1/item/T3_2H_BOW@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 10,
+        "name": "Bow",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 249,
+      "name": "Adept's Bow",
+      "tier": "4.0",
+      "item_power": 700,
+      "identifier": "T4_2H_BOW",
+      "icon": "https://render.albiononline.com/v1/item/T4_2H_BOW@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 10,
+        "name": "Bow",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 250,
+      "name": "Adept's Warbow",
+      "tier": "4.0",
+      "item_power": 700,
+      "identifier": "T4_2H_WARBOW",
+      "icon": "https://render.albiononline.com/v1/item/T4_2H_WARBOW@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 10,
+        "name": "Bow",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 251,
+      "name": "Adept's Longbow",
+      "tier": "4.0",
+      "item_power": 700,
+      "identifier": "T4_2H_LONGBOW",
+      "icon": "https://render.albiononline.com/v1/item/T4_2H_LONGBOW@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 10,
+        "name": "Bow",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 252,
+      "name": "Adept's Whispering Bow",
+      "tier": "4.0",
+      "item_power": 725,
+      "identifier": "T4_2H_LONGBOW_UNDEAD",
+      "icon": "https://render.albiononline.com/v1/item/T4_2H_LONGBOW_UNDEAD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 10,
+        "name": "Bow",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 253,
+      "name": "Adept's Wailing Bow",
+      "tier": "4.0",
+      "item_power": 750,
+      "identifier": "T4_2H_BOW_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T4_2H_BOW_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 10,
+        "name": "Bow",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 254,
+      "name": "Adept's Bow of Badon",
+      "tier": "4.0",
+      "item_power": 775,
+      "identifier": "T4_2H_BOW_KEEPER",
+      "icon": "https://render.albiononline.com/v1/item/T4_2H_BOW_KEEPER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 10,
+        "name": "Bow",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 255,
+      "name": "Adept's Mistpiercer",
+      "tier": "4.0",
+      "item_power": 800,
+      "identifier": "T4_2H_BOW_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T4_2H_BOW_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 10,
+        "name": "Bow",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 256,
+      "name": "Expert's Bow",
+      "tier": "5.0",
+      "item_power": 800,
+      "identifier": "T5_2H_BOW",
+      "icon": "https://render.albiononline.com/v1/item/T5_2H_BOW@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 10,
+        "name": "Bow",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 257,
+      "name": "Expert's Warbow",
+      "tier": "5.0",
+      "item_power": 800,
+      "identifier": "T5_2H_WARBOW",
+      "icon": "https://render.albiononline.com/v1/item/T5_2H_WARBOW@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 10,
+        "name": "Bow",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 258,
+      "name": "Expert's Longbow",
+      "tier": "5.0",
+      "item_power": 800,
+      "identifier": "T5_2H_LONGBOW",
+      "icon": "https://render.albiononline.com/v1/item/T5_2H_LONGBOW@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 10,
+        "name": "Bow",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 259,
+      "name": "Expert's Whispering Bow",
+      "tier": "5.0",
+      "item_power": 825,
+      "identifier": "T5_2H_LONGBOW_UNDEAD",
+      "icon": "https://render.albiononline.com/v1/item/T5_2H_LONGBOW_UNDEAD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 10,
+        "name": "Bow",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 260,
+      "name": "Expert's Wailing Bow",
+      "tier": "5.0",
+      "item_power": 850,
+      "identifier": "T5_2H_BOW_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T5_2H_BOW_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 10,
+        "name": "Bow",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 261,
+      "name": "Expert's Bow of Badon",
+      "tier": "5.0",
+      "item_power": 875,
+      "identifier": "T5_2H_BOW_KEEPER",
+      "icon": "https://render.albiononline.com/v1/item/T5_2H_BOW_KEEPER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 10,
+        "name": "Bow",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 262,
+      "name": "Expert's Mistpiercer",
+      "tier": "5.0",
+      "item_power": 900,
+      "identifier": "T5_2H_BOW_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T5_2H_BOW_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 10,
+        "name": "Bow",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 263,
+      "name": "Master's Longbow",
+      "tier": "6.0",
+      "item_power": 900,
+      "identifier": "T6_2H_LONGBOW",
+      "icon": "https://render.albiononline.com/v1/item/T6_2H_LONGBOW@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 10,
+        "name": "Bow",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 264,
+      "name": "Master's Warbow",
+      "tier": "6.0",
+      "item_power": 900,
+      "identifier": "T6_2H_WARBOW",
+      "icon": "https://render.albiononline.com/v1/item/T6_2H_WARBOW@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 10,
+        "name": "Bow",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 265,
+      "name": "Master's Bow",
+      "tier": "6.0",
+      "item_power": 900,
+      "identifier": "T6_2H_BOW",
+      "icon": "https://render.albiononline.com/v1/item/T6_2H_BOW@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 10,
+        "name": "Bow",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 266,
+      "name": "Master's Whispering Bow",
+      "tier": "6.0",
+      "item_power": 925,
+      "identifier": "T6_2H_LONGBOW_UNDEAD",
+      "icon": "https://render.albiononline.com/v1/item/T6_2H_LONGBOW_UNDEAD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 10,
+        "name": "Bow",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 267,
+      "name": "Master's Wailing Bow",
+      "tier": "6.0",
+      "item_power": 950,
+      "identifier": "T6_2H_BOW_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T6_2H_BOW_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 10,
+        "name": "Bow",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 268,
+      "name": "Master's Bow of Badon",
+      "tier": "6.0",
+      "item_power": 975,
+      "identifier": "T6_2H_BOW_KEEPER",
+      "icon": "https://render.albiononline.com/v1/item/T6_2H_BOW_KEEPER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 10,
+        "name": "Bow",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 269,
+      "name": "Master's Mistpiercer",
+      "tier": "6.0",
+      "item_power": 1000,
+      "identifier": "T6_2H_BOW_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T6_2H_BOW_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 10,
+        "name": "Bow",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 270,
+      "name": "Grandmaster's Longbow",
+      "tier": "7.0",
+      "item_power": 1000,
+      "identifier": "T7_2H_LONGBOW",
+      "icon": "https://render.albiononline.com/v1/item/T7_2H_LONGBOW@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 10,
+        "name": "Bow",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 271,
+      "name": "Grandmaster's Warbow",
+      "tier": "7.0",
+      "item_power": 1000,
+      "identifier": "T7_2H_WARBOW",
+      "icon": "https://render.albiononline.com/v1/item/T7_2H_WARBOW@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 10,
+        "name": "Bow",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 272,
+      "name": "Grandmaster's Bow",
+      "tier": "7.0",
+      "item_power": 1000,
+      "identifier": "T7_2H_BOW",
+      "icon": "https://render.albiononline.com/v1/item/T7_2H_BOW@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 10,
+        "name": "Bow",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 273,
+      "name": "Grandmaster's Whispering Bow",
+      "tier": "7.0",
+      "item_power": 1025,
+      "identifier": "T7_2H_LONGBOW_UNDEAD",
+      "icon": "https://render.albiononline.com/v1/item/T7_2H_LONGBOW_UNDEAD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 10,
+        "name": "Bow",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 274,
+      "name": "Grandmaster's Wailing Bow",
+      "tier": "7.0",
+      "item_power": 1050,
+      "identifier": "T7_2H_BOW_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T7_2H_BOW_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 10,
+        "name": "Bow",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 275,
+      "name": "Grandmaster's Bow of Badon",
+      "tier": "7.0",
+      "item_power": 1075,
+      "identifier": "T7_2H_BOW_KEEPER",
+      "icon": "https://render.albiononline.com/v1/item/T7_2H_BOW_KEEPER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 10,
+        "name": "Bow",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 276,
+      "name": "Grandmaster's Mistpiercer",
+      "tier": "7.0",
+      "item_power": 1100,
+      "identifier": "T7_2H_BOW_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T7_2H_BOW_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 10,
+        "name": "Bow",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 277,
+      "name": "Elder's Warbow",
+      "tier": "8.0",
+      "item_power": 1100,
+      "identifier": "T8_2H_WARBOW",
+      "icon": "https://render.albiononline.com/v1/item/T8_2H_WARBOW@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 10,
+        "name": "Bow",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 278,
+      "name": "Elder's Bow",
+      "tier": "8.0",
+      "item_power": 1100,
+      "identifier": "T8_2H_BOW",
+      "icon": "https://render.albiononline.com/v1/item/T8_2H_BOW@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 10,
+        "name": "Bow",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 279,
+      "name": "Elder's Longbow",
+      "tier": "8.0",
+      "item_power": 1100,
+      "identifier": "T8_2H_LONGBOW",
+      "icon": "https://render.albiononline.com/v1/item/T8_2H_LONGBOW@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 10,
+        "name": "Bow",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 280,
+      "name": "Elder's Whispering Bow",
+      "tier": "8.0",
+      "item_power": 1125,
+      "identifier": "T8_2H_LONGBOW_UNDEAD",
+      "icon": "https://render.albiononline.com/v1/item/T8_2H_LONGBOW_UNDEAD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 10,
+        "name": "Bow",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 281,
+      "name": "Elder's Wailing Bow",
+      "tier": "8.0",
+      "item_power": 1150,
+      "identifier": "T8_2H_BOW_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T8_2H_BOW_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 10,
+        "name": "Bow",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 282,
+      "name": "Elder's Bow of Badon",
+      "tier": "8.0",
+      "item_power": 1175,
+      "identifier": "T8_2H_BOW_KEEPER",
+      "icon": "https://render.albiononline.com/v1/item/T8_2H_BOW_KEEPER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 10,
+        "name": "Bow",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 283,
+      "name": "Elder's Mistpiercer",
+      "tier": "8.0",
+      "item_power": 1200,
+      "identifier": "T8_2H_BOW_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T8_2H_BOW_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 10,
+        "name": "Bow",
+        "type": "weapon"
+      }
+    }
+  ]
+}

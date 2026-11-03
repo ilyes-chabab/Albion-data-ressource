@@ -1,0 +1,652 @@
+{
+  "data": [
+    {
+      "id": 356,
+      "name": "Journeyman's Dagger",
+      "tier": "3.0",
+      "item_power": 500,
+      "identifier": "T3_MAIN_DAGGER",
+      "icon": "https://render.albiononline.com/v1/item/T3_MAIN_DAGGER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 13,
+        "name": "Dagger",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 357,
+      "name": "Adept's Dagger",
+      "tier": "4.0",
+      "item_power": 700,
+      "identifier": "T4_MAIN_DAGGER",
+      "icon": "https://render.albiononline.com/v1/item/T4_MAIN_DAGGER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 13,
+        "name": "Dagger",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 358,
+      "name": "Adept's Dagger Pair",
+      "tier": "4.0",
+      "item_power": 700,
+      "identifier": "T4_2H_DAGGERPAIR",
+      "icon": "https://render.albiononline.com/v1/item/T4_2H_DAGGERPAIR@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 13,
+        "name": "Dagger",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 359,
+      "name": "Adept's Claws",
+      "tier": "4.0",
+      "item_power": 700,
+      "identifier": "T4_2H_CLAWPAIR",
+      "icon": "https://render.albiononline.com/v1/item/T4_2H_CLAWPAIR@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 13,
+        "name": "Dagger",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 360,
+      "name": "Adept's Bloodletter",
+      "tier": "4.0",
+      "item_power": 725,
+      "identifier": "T4_MAIN_RAPIER_MORGANA",
+      "icon": "https://render.albiononline.com/v1/item/T4_MAIN_RAPIER_MORGANA@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 13,
+        "name": "Dagger",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 361,
+      "name": "Adept's Demonfang",
+      "tier": "4.0",
+      "item_power": 750,
+      "identifier": "T4_MAIN_DAGGER_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T4_MAIN_DAGGER_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 13,
+        "name": "Dagger",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 362,
+      "name": "Adept's Deathgivers",
+      "tier": "4.0",
+      "item_power": 775,
+      "identifier": "T4_2H_DUALSICKLE_UNDEAD",
+      "icon": "https://render.albiononline.com/v1/item/T4_2H_DUALSICKLE_UNDEAD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 13,
+        "name": "Dagger",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 363,
+      "name": "Adept's Bridled Fury",
+      "tier": "4.0",
+      "item_power": 800,
+      "identifier": "T4_2H_DAGGER_KATAR_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T4_2H_DAGGER_KATAR_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 13,
+        "name": "Dagger",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 364,
+      "name": "Expert's Dagger",
+      "tier": "5.0",
+      "item_power": 800,
+      "identifier": "T5_MAIN_DAGGER",
+      "icon": "https://render.albiononline.com/v1/item/T5_MAIN_DAGGER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 13,
+        "name": "Dagger",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 365,
+      "name": "Expert's Dagger Pair",
+      "tier": "5.0",
+      "item_power": 800,
+      "identifier": "T5_2H_DAGGERPAIR",
+      "icon": "https://render.albiononline.com/v1/item/T5_2H_DAGGERPAIR@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 13,
+        "name": "Dagger",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 366,
+      "name": "Expert's Claws",
+      "tier": "5.0",
+      "item_power": 800,
+      "identifier": "T5_2H_CLAWPAIR",
+      "icon": "https://render.albiononline.com/v1/item/T5_2H_CLAWPAIR@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 13,
+        "name": "Dagger",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 367,
+      "name": "Expert's Bloodletter",
+      "tier": "5.0",
+      "item_power": 825,
+      "identifier": "T5_MAIN_RAPIER_MORGANA",
+      "icon": "https://render.albiononline.com/v1/item/T5_MAIN_RAPIER_MORGANA@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 13,
+        "name": "Dagger",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 368,
+      "name": "Expert's Demonfang",
+      "tier": "5.0",
+      "item_power": 850,
+      "identifier": "T5_MAIN_DAGGER_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T5_MAIN_DAGGER_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 13,
+        "name": "Dagger",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 369,
+      "name": "Expert's Deathgivers",
+      "tier": "5.0",
+      "item_power": 875,
+      "identifier": "T5_2H_DUALSICKLE_UNDEAD",
+      "icon": "https://render.albiononline.com/v1/item/T5_2H_DUALSICKLE_UNDEAD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 13,
+        "name": "Dagger",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 370,
+      "name": "Expert's Bridled Fury",
+      "tier": "5.0",
+      "item_power": 900,
+      "identifier": "T5_2H_DAGGER_KATAR_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T5_2H_DAGGER_KATAR_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 13,
+        "name": "Dagger",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 371,
+      "name": "Master's Claws",
+      "tier": "6.0",
+      "item_power": 900,
+      "identifier": "T6_2H_CLAWPAIR",
+      "icon": "https://render.albiononline.com/v1/item/T6_2H_CLAWPAIR@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 13,
+        "name": "Dagger",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 372,
+      "name": "Master's Dagger",
+      "tier": "6.0",
+      "item_power": 900,
+      "identifier": "T6_MAIN_DAGGER",
+      "icon": "https://render.albiononline.com/v1/item/T6_MAIN_DAGGER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 13,
+        "name": "Dagger",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 373,
+      "name": "Master's Dagger Pair",
+      "tier": "6.0",
+      "item_power": 900,
+      "identifier": "T6_2H_DAGGERPAIR",
+      "icon": "https://render.albiononline.com/v1/item/T6_2H_DAGGERPAIR@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 13,
+        "name": "Dagger",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 374,
+      "name": "Master's Bloodletter",
+      "tier": "6.0",
+      "item_power": 925,
+      "identifier": "T6_MAIN_RAPIER_MORGANA",
+      "icon": "https://render.albiononline.com/v1/item/T6_MAIN_RAPIER_MORGANA@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 13,
+        "name": "Dagger",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 375,
+      "name": "Master's Demonfang",
+      "tier": "6.0",
+      "item_power": 950,
+      "identifier": "T6_MAIN_DAGGER_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T6_MAIN_DAGGER_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 13,
+        "name": "Dagger",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 376,
+      "name": "Master's Deathgivers",
+      "tier": "6.0",
+      "item_power": 975,
+      "identifier": "T6_2H_DUALSICKLE_UNDEAD",
+      "icon": "https://render.albiononline.com/v1/item/T6_2H_DUALSICKLE_UNDEAD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 13,
+        "name": "Dagger",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 377,
+      "name": "Master's Bridled Fury",
+      "tier": "6.0",
+      "item_power": 1000,
+      "identifier": "T6_2H_DAGGER_KATAR_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T6_2H_DAGGER_KATAR_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 13,
+        "name": "Dagger",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 378,
+      "name": "Grandmaster's Claws",
+      "tier": "7.0",
+      "item_power": 1000,
+      "identifier": "T7_2H_CLAWPAIR",
+      "icon": "https://render.albiononline.com/v1/item/T7_2H_CLAWPAIR@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 13,
+        "name": "Dagger",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 379,
+      "name": "Grandmaster's Dagger",
+      "tier": "7.0",
+      "item_power": 1000,
+      "identifier": "T7_MAIN_DAGGER",
+      "icon": "https://render.albiononline.com/v1/item/T7_MAIN_DAGGER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 13,
+        "name": "Dagger",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 380,
+      "name": "Grandmaster's Dagger Pair",
+      "tier": "7.0",
+      "item_power": 1000,
+      "identifier": "T7_2H_DAGGERPAIR",
+      "icon": "https://render.albiononline.com/v1/item/T7_2H_DAGGERPAIR@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 13,
+        "name": "Dagger",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 381,
+      "name": "Grandmaster's Bloodletter",
+      "tier": "7.0",
+      "item_power": 1025,
+      "identifier": "T7_MAIN_RAPIER_MORGANA",
+      "icon": "https://render.albiononline.com/v1/item/T7_MAIN_RAPIER_MORGANA@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 13,
+        "name": "Dagger",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 382,
+      "name": "Grandmaster's Demonfang",
+      "tier": "7.0",
+      "item_power": 1050,
+      "identifier": "T7_MAIN_DAGGER_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T7_MAIN_DAGGER_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 13,
+        "name": "Dagger",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 383,
+      "name": "Grandmaster's Deathgivers",
+      "tier": "7.0",
+      "item_power": 1075,
+      "identifier": "T7_2H_DUALSICKLE_UNDEAD",
+      "icon": "https://render.albiononline.com/v1/item/T7_2H_DUALSICKLE_UNDEAD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 13,
+        "name": "Dagger",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 384,
+      "name": "Grandmaster's Bridled Fury",
+      "tier": "7.0",
+      "item_power": 1100,
+      "identifier": "T7_2H_DAGGER_KATAR_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T7_2H_DAGGER_KATAR_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 13,
+        "name": "Dagger",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 385,
+      "name": "Elder's Claws",
+      "tier": "8.0",
+      "item_power": 1100,
+      "identifier": "T8_2H_CLAWPAIR",
+      "icon": "https://render.albiononline.com/v1/item/T8_2H_CLAWPAIR@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 13,
+        "name": "Dagger",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 386,
+      "name": "Elder's Dagger",
+      "tier": "8.0",
+      "item_power": 1100,
+      "identifier": "T8_MAIN_DAGGER",
+      "icon": "https://render.albiononline.com/v1/item/T8_MAIN_DAGGER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 13,
+        "name": "Dagger",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 387,
+      "name": "Elder's Dagger Pair",
+      "tier": "8.0",
+      "item_power": 1100,
+      "identifier": "T8_2H_DAGGERPAIR",
+      "icon": "https://render.albiononline.com/v1/item/T8_2H_DAGGERPAIR@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 13,
+        "name": "Dagger",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 388,
+      "name": "Elder's Bloodletter",
+      "tier": "8.0",
+      "item_power": 1125,
+      "identifier": "T8_MAIN_RAPIER_MORGANA",
+      "icon": "https://render.albiononline.com/v1/item/T8_MAIN_RAPIER_MORGANA@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 13,
+        "name": "Dagger",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 389,
+      "name": "Elder's Demonfang",
+      "tier": "8.0",
+      "item_power": 1150,
+      "identifier": "T8_MAIN_DAGGER_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T8_MAIN_DAGGER_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 13,
+        "name": "Dagger",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 390,
+      "name": "Elder's Deathgivers",
+      "tier": "8.0",
+      "item_power": 1175,
+      "identifier": "T8_2H_DUALSICKLE_UNDEAD",
+      "icon": "https://render.albiononline.com/v1/item/T8_2H_DUALSICKLE_UNDEAD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 13,
+        "name": "Dagger",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 391,
+      "name": "Elder's Bridled Fury",
+      "tier": "8.0",
+      "item_power": 1200,
+      "identifier": "T8_2H_DAGGER_KATAR_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T8_2H_DAGGER_KATAR_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 13,
+        "name": "Dagger",
+        "type": "weapon"
+      }
+    }
+  ]
+}

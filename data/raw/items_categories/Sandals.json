@@ -1,0 +1,850 @@
+{
+  "data": [
+    {
+      "id": 333,
+      "name": "Novice's Scholar Sandals",
+      "tier": "2.0",
+      "item_power": 300,
+      "identifier": "T2_SHOES_CLOTH_SET1",
+      "icon": "https://render.albiononline.com/v1/item/T2_SHOES_CLOTH_SET1@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 26,
+        "name": "Sandals",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 334,
+      "name": "Journeyman's Scholar Sandals",
+      "tier": "3.0",
+      "item_power": 500,
+      "identifier": "T3_SHOES_CLOTH_SET1",
+      "icon": "https://render.albiononline.com/v1/item/T3_SHOES_CLOTH_SET1@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 26,
+        "name": "Sandals",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 335,
+      "name": "Adept's Cleric Sandals",
+      "tier": "4.0",
+      "item_power": 700,
+      "identifier": "T4_SHOES_CLOTH_SET2",
+      "icon": "https://render.albiononline.com/v1/item/T4_SHOES_CLOTH_SET2@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 26,
+        "name": "Sandals",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 336,
+      "name": "Adept's Cultist Sandals",
+      "tier": "4.0",
+      "item_power": 775,
+      "identifier": "T4_SHOES_CLOTH_MORGANA",
+      "icon": "https://render.albiononline.com/v1/item/T4_SHOES_CLOTH_MORGANA@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 26,
+        "name": "Sandals",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 337,
+      "name": "Adept's Druid Sandals",
+      "tier": "4.0",
+      "item_power": 725,
+      "identifier": "T4_SHOES_CLOTH_KEEPER",
+      "icon": "https://render.albiononline.com/v1/item/T4_SHOES_CLOTH_KEEPER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 26,
+        "name": "Sandals",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 338,
+      "name": "Adept's Feyscale Sandals",
+      "tier": "4.0",
+      "item_power": 775,
+      "identifier": "T4_SHOES_CLOTH_FEY",
+      "icon": "https://render.albiononline.com/v1/item/T4_SHOES_CLOTH_FEY@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 26,
+        "name": "Sandals",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 339,
+      "name": "Adept's Fiend Sandals",
+      "tier": "4.0",
+      "item_power": 750,
+      "identifier": "T4_SHOES_CLOTH_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T4_SHOES_CLOTH_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 26,
+        "name": "Sandals",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 340,
+      "name": "Adept's Mage Sandals",
+      "tier": "4.0",
+      "item_power": 700,
+      "identifier": "T4_SHOES_CLOTH_SET3",
+      "icon": "https://render.albiononline.com/v1/item/T4_SHOES_CLOTH_SET3@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 26,
+        "name": "Sandals",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 341,
+      "name": "Adept's Royal Sandals",
+      "tier": "4.0",
+      "item_power": 725,
+      "identifier": "T4_SHOES_CLOTH_ROYAL",
+      "icon": "https://render.albiononline.com/v1/item/T4_SHOES_CLOTH_ROYAL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 26,
+        "name": "Sandals",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 342,
+      "name": "Adept's Sandals of Purity",
+      "tier": "4.0",
+      "item_power": 800,
+      "identifier": "T4_SHOES_CLOTH_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T4_SHOES_CLOTH_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 26,
+        "name": "Sandals",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 343,
+      "name": "Adept's Scholar Sandals",
+      "tier": "4.0",
+      "item_power": 700,
+      "identifier": "T4_SHOES_CLOTH_SET1",
+      "icon": "https://render.albiononline.com/v1/item/T4_SHOES_CLOTH_SET1@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 26,
+        "name": "Sandals",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 344,
+      "name": "Expert's Cleric Sandals",
+      "tier": "5.0",
+      "item_power": 800,
+      "identifier": "T5_SHOES_CLOTH_SET2",
+      "icon": "https://render.albiononline.com/v1/item/T5_SHOES_CLOTH_SET2@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 26,
+        "name": "Sandals",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 345,
+      "name": "Expert's Cultist Sandals",
+      "tier": "5.0",
+      "item_power": 875,
+      "identifier": "T5_SHOES_CLOTH_MORGANA",
+      "icon": "https://render.albiononline.com/v1/item/T5_SHOES_CLOTH_MORGANA@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 26,
+        "name": "Sandals",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 346,
+      "name": "Expert's Druid Sandals",
+      "tier": "5.0",
+      "item_power": 825,
+      "identifier": "T5_SHOES_CLOTH_KEEPER",
+      "icon": "https://render.albiononline.com/v1/item/T5_SHOES_CLOTH_KEEPER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 26,
+        "name": "Sandals",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 347,
+      "name": "Expert's Feyscale Sandals",
+      "tier": "5.0",
+      "item_power": 875,
+      "identifier": "T5_SHOES_CLOTH_FEY",
+      "icon": "https://render.albiononline.com/v1/item/T5_SHOES_CLOTH_FEY@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 26,
+        "name": "Sandals",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 348,
+      "name": "Expert's Fiend Sandals",
+      "tier": "5.0",
+      "item_power": 850,
+      "identifier": "T5_SHOES_CLOTH_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T5_SHOES_CLOTH_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 26,
+        "name": "Sandals",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 349,
+      "name": "Expert's Mage Sandals",
+      "tier": "5.0",
+      "item_power": 800,
+      "identifier": "T5_SHOES_CLOTH_SET3",
+      "icon": "https://render.albiononline.com/v1/item/T5_SHOES_CLOTH_SET3@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 26,
+        "name": "Sandals",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 350,
+      "name": "Expert's Royal Sandals",
+      "tier": "5.0",
+      "item_power": 825,
+      "identifier": "T5_SHOES_CLOTH_ROYAL",
+      "icon": "https://render.albiononline.com/v1/item/T5_SHOES_CLOTH_ROYAL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 26,
+        "name": "Sandals",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 351,
+      "name": "Expert's Sandals of Purity",
+      "tier": "5.0",
+      "item_power": 900,
+      "identifier": "T5_SHOES_CLOTH_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T5_SHOES_CLOTH_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 26,
+        "name": "Sandals",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 352,
+      "name": "Expert's Scholar Sandals",
+      "tier": "5.0",
+      "item_power": 800,
+      "identifier": "T5_SHOES_CLOTH_SET1",
+      "icon": "https://render.albiononline.com/v1/item/T5_SHOES_CLOTH_SET1@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 26,
+        "name": "Sandals",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 353,
+      "name": "Master's Cleric Sandals",
+      "tier": "6.0",
+      "item_power": 900,
+      "identifier": "T6_SHOES_CLOTH_SET2",
+      "icon": "https://render.albiononline.com/v1/item/T6_SHOES_CLOTH_SET2@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 26,
+        "name": "Sandals",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 354,
+      "name": "Master's Cultist Sandals",
+      "tier": "6.0",
+      "item_power": 975,
+      "identifier": "T6_SHOES_CLOTH_MORGANA",
+      "icon": "https://render.albiononline.com/v1/item/T6_SHOES_CLOTH_MORGANA@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 26,
+        "name": "Sandals",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 355,
+      "name": "Master's Druid Sandals",
+      "tier": "6.0",
+      "item_power": 925,
+      "identifier": "T6_SHOES_CLOTH_KEEPER",
+      "icon": "https://render.albiononline.com/v1/item/T6_SHOES_CLOTH_KEEPER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 26,
+        "name": "Sandals",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 356,
+      "name": "Master's Feyscale Sandals",
+      "tier": "6.0",
+      "item_power": 975,
+      "identifier": "T6_SHOES_CLOTH_FEY",
+      "icon": "https://render.albiononline.com/v1/item/T6_SHOES_CLOTH_FEY@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 26,
+        "name": "Sandals",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 357,
+      "name": "Master's Fiend Sandals",
+      "tier": "6.0",
+      "item_power": 950,
+      "identifier": "T6_SHOES_CLOTH_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T6_SHOES_CLOTH_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 26,
+        "name": "Sandals",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 358,
+      "name": "Master's Mage Sandals",
+      "tier": "6.0",
+      "item_power": 900,
+      "identifier": "T6_SHOES_CLOTH_SET3",
+      "icon": "https://render.albiononline.com/v1/item/T6_SHOES_CLOTH_SET3@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 26,
+        "name": "Sandals",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 359,
+      "name": "Master's Royal Sandals",
+      "tier": "6.0",
+      "item_power": 925,
+      "identifier": "T6_SHOES_CLOTH_ROYAL",
+      "icon": "https://render.albiononline.com/v1/item/T6_SHOES_CLOTH_ROYAL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 26,
+        "name": "Sandals",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 360,
+      "name": "Master's Sandals of Purity",
+      "tier": "6.0",
+      "item_power": 1000,
+      "identifier": "T6_SHOES_CLOTH_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T6_SHOES_CLOTH_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 26,
+        "name": "Sandals",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 361,
+      "name": "Master's Scholar Sandals",
+      "tier": "6.0",
+      "item_power": 900,
+      "identifier": "T6_SHOES_CLOTH_SET1",
+      "icon": "https://render.albiononline.com/v1/item/T6_SHOES_CLOTH_SET1@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 26,
+        "name": "Sandals",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 362,
+      "name": "Grandmaster's Cleric Sandals",
+      "tier": "7.0",
+      "item_power": 1000,
+      "identifier": "T7_SHOES_CLOTH_SET2",
+      "icon": "https://render.albiononline.com/v1/item/T7_SHOES_CLOTH_SET2@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 26,
+        "name": "Sandals",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 363,
+      "name": "Grandmaster's Cultist Sandals",
+      "tier": "7.0",
+      "item_power": 1075,
+      "identifier": "T7_SHOES_CLOTH_MORGANA",
+      "icon": "https://render.albiononline.com/v1/item/T7_SHOES_CLOTH_MORGANA@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 26,
+        "name": "Sandals",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 364,
+      "name": "Grandmaster's Druid Sandals",
+      "tier": "7.0",
+      "item_power": 1025,
+      "identifier": "T7_SHOES_CLOTH_KEEPER",
+      "icon": "https://render.albiononline.com/v1/item/T7_SHOES_CLOTH_KEEPER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 26,
+        "name": "Sandals",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 365,
+      "name": "Grandmaster's Feyscale Sandals",
+      "tier": "7.0",
+      "item_power": 1075,
+      "identifier": "T7_SHOES_CLOTH_FEY",
+      "icon": "https://render.albiononline.com/v1/item/T7_SHOES_CLOTH_FEY@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 26,
+        "name": "Sandals",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 366,
+      "name": "Grandmaster's Fiend Sandals",
+      "tier": "7.0",
+      "item_power": 1050,
+      "identifier": "T7_SHOES_CLOTH_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T7_SHOES_CLOTH_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 26,
+        "name": "Sandals",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 367,
+      "name": "Grandmaster's Mage Sandals",
+      "tier": "7.0",
+      "item_power": 1000,
+      "identifier": "T7_SHOES_CLOTH_SET3",
+      "icon": "https://render.albiononline.com/v1/item/T7_SHOES_CLOTH_SET3@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 26,
+        "name": "Sandals",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 368,
+      "name": "Grandmaster's Royal Sandals",
+      "tier": "7.0",
+      "item_power": 1025,
+      "identifier": "T7_SHOES_CLOTH_ROYAL",
+      "icon": "https://render.albiononline.com/v1/item/T7_SHOES_CLOTH_ROYAL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 26,
+        "name": "Sandals",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 369,
+      "name": "Grandmaster's Sandals of Purity",
+      "tier": "7.0",
+      "item_power": 1100,
+      "identifier": "T7_SHOES_CLOTH_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T7_SHOES_CLOTH_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 26,
+        "name": "Sandals",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 370,
+      "name": "Grandmaster's Scholar Sandals",
+      "tier": "7.0",
+      "item_power": 1000,
+      "identifier": "T7_SHOES_CLOTH_SET1",
+      "icon": "https://render.albiononline.com/v1/item/T7_SHOES_CLOTH_SET1@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 26,
+        "name": "Sandals",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 371,
+      "name": "Elder's Cleric Sandals",
+      "tier": "8.0",
+      "item_power": 1100,
+      "identifier": "T8_SHOES_CLOTH_SET2",
+      "icon": "https://render.albiononline.com/v1/item/T8_SHOES_CLOTH_SET2@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 26,
+        "name": "Sandals",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 372,
+      "name": "Elder's Cultist Sandals",
+      "tier": "8.0",
+      "item_power": 1175,
+      "identifier": "T8_SHOES_CLOTH_MORGANA",
+      "icon": "https://render.albiononline.com/v1/item/T8_SHOES_CLOTH_MORGANA@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 26,
+        "name": "Sandals",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 373,
+      "name": "Elder's Druid Sandals",
+      "tier": "8.0",
+      "item_power": 1125,
+      "identifier": "T8_SHOES_CLOTH_KEEPER",
+      "icon": "https://render.albiononline.com/v1/item/T8_SHOES_CLOTH_KEEPER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 26,
+        "name": "Sandals",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 374,
+      "name": "Elder's Feyscale Sandals",
+      "tier": "8.0",
+      "item_power": 1175,
+      "identifier": "T8_SHOES_CLOTH_FEY",
+      "icon": "https://render.albiononline.com/v1/item/T8_SHOES_CLOTH_FEY@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 26,
+        "name": "Sandals",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 375,
+      "name": "Elder's Fiend Sandals",
+      "tier": "8.0",
+      "item_power": 1150,
+      "identifier": "T8_SHOES_CLOTH_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T8_SHOES_CLOTH_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 26,
+        "name": "Sandals",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 376,
+      "name": "Elder's Mage Sandals",
+      "tier": "8.0",
+      "item_power": 1100,
+      "identifier": "T8_SHOES_CLOTH_SET3",
+      "icon": "https://render.albiononline.com/v1/item/T8_SHOES_CLOTH_SET3@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 26,
+        "name": "Sandals",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 377,
+      "name": "Elder's Royal Sandals",
+      "tier": "8.0",
+      "item_power": 1125,
+      "identifier": "T8_SHOES_CLOTH_ROYAL",
+      "icon": "https://render.albiononline.com/v1/item/T8_SHOES_CLOTH_ROYAL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 26,
+        "name": "Sandals",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 378,
+      "name": "Elder's Sandals of Purity",
+      "tier": "8.0",
+      "item_power": 1200,
+      "identifier": "T8_SHOES_CLOTH_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T8_SHOES_CLOTH_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 26,
+        "name": "Sandals",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 379,
+      "name": "Elder's Scholar Sandals",
+      "tier": "8.0",
+      "item_power": 1100,
+      "identifier": "T8_SHOES_CLOTH_SET1",
+      "icon": "https://render.albiononline.com/v1/item/T8_SHOES_CLOTH_SET1@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 26,
+        "name": "Sandals",
+        "type": "armor"
+      }
+    }
+  ]
+}

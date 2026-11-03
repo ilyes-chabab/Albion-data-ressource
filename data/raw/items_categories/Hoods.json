@@ -1,0 +1,868 @@
+{
+  "data": [
+    {
+      "id": 96,
+      "name": "Beginner's Mercenary Hood",
+      "tier": "1.0",
+      "item_power": 100,
+      "identifier": "T1_HEAD_LEATHER_SET1",
+      "icon": "https://render.albiononline.com/v1/item/T1_HEAD_LEATHER_SET1@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 29,
+        "name": "Hoods",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 97,
+      "name": "Novice's Mercenary Hood",
+      "tier": "2.0",
+      "item_power": 300,
+      "identifier": "T2_HEAD_LEATHER_SET1",
+      "icon": "https://render.albiononline.com/v1/item/T2_HEAD_LEATHER_SET1@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 29,
+        "name": "Hoods",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 98,
+      "name": "Journeyman's Mercenary Hood",
+      "tier": "3.0",
+      "item_power": 500,
+      "identifier": "T3_HEAD_LEATHER_SET1",
+      "icon": "https://render.albiononline.com/v1/item/T3_HEAD_LEATHER_SET1@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 29,
+        "name": "Hoods",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 99,
+      "name": "Adept's Assassin Hood",
+      "tier": "4.0",
+      "item_power": 700,
+      "identifier": "T4_HEAD_LEATHER_SET3",
+      "icon": "https://render.albiononline.com/v1/item/T4_HEAD_LEATHER_SET3@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 29,
+        "name": "Hoods",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 100,
+      "name": "Adept's Hellion Hood",
+      "tier": "4.0",
+      "item_power": 750,
+      "identifier": "T4_HEAD_LEATHER_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T4_HEAD_LEATHER_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 29,
+        "name": "Hoods",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 101,
+      "name": "Adept's Hood of Tenacity",
+      "tier": "4.0",
+      "item_power": 800,
+      "identifier": "T4_HEAD_LEATHER_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T4_HEAD_LEATHER_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 29,
+        "name": "Hoods",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 102,
+      "name": "Adept's Hunter Hood",
+      "tier": "4.0",
+      "item_power": 700,
+      "identifier": "T4_HEAD_LEATHER_SET2",
+      "icon": "https://render.albiononline.com/v1/item/T4_HEAD_LEATHER_SET2@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 29,
+        "name": "Hoods",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 103,
+      "name": "Adept's Mercenary Hood",
+      "tier": "4.0",
+      "item_power": 700,
+      "identifier": "T4_HEAD_LEATHER_SET1",
+      "icon": "https://render.albiononline.com/v1/item/T4_HEAD_LEATHER_SET1@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 29,
+        "name": "Hoods",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 104,
+      "name": "Adept's Mistwalker Hood",
+      "tier": "4.0",
+      "item_power": 775,
+      "identifier": "T4_HEAD_LEATHER_FEY",
+      "icon": "https://render.albiononline.com/v1/item/T4_HEAD_LEATHER_FEY@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 29,
+        "name": "Hoods",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 105,
+      "name": "Adept's Royal Hood",
+      "tier": "4.0",
+      "item_power": 725,
+      "identifier": "T4_HEAD_LEATHER_ROYAL",
+      "icon": "https://render.albiononline.com/v1/item/T4_HEAD_LEATHER_ROYAL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 29,
+        "name": "Hoods",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 106,
+      "name": "Adept's Specter Hood",
+      "tier": "4.0",
+      "item_power": 775,
+      "identifier": "T4_HEAD_LEATHER_UNDEAD",
+      "icon": "https://render.albiononline.com/v1/item/T4_HEAD_LEATHER_UNDEAD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 29,
+        "name": "Hoods",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 107,
+      "name": "Adept's Stalker Hood",
+      "tier": "4.0",
+      "item_power": 725,
+      "identifier": "T4_HEAD_LEATHER_MORGANA",
+      "icon": "https://render.albiononline.com/v1/item/T4_HEAD_LEATHER_MORGANA@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 29,
+        "name": "Hoods",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 108,
+      "name": "Expert's Assassin Hood",
+      "tier": "5.0",
+      "item_power": 800,
+      "identifier": "T5_HEAD_LEATHER_SET3",
+      "icon": "https://render.albiononline.com/v1/item/T5_HEAD_LEATHER_SET3@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 29,
+        "name": "Hoods",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 109,
+      "name": "Expert's Hellion Hood",
+      "tier": "5.0",
+      "item_power": 850,
+      "identifier": "T5_HEAD_LEATHER_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T5_HEAD_LEATHER_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 29,
+        "name": "Hoods",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 110,
+      "name": "Expert's Hood of Tenacity",
+      "tier": "5.0",
+      "item_power": 900,
+      "identifier": "T5_HEAD_LEATHER_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T5_HEAD_LEATHER_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 29,
+        "name": "Hoods",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 111,
+      "name": "Expert's Hunter Hood",
+      "tier": "5.0",
+      "item_power": 800,
+      "identifier": "T5_HEAD_LEATHER_SET2",
+      "icon": "https://render.albiononline.com/v1/item/T5_HEAD_LEATHER_SET2@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 29,
+        "name": "Hoods",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 112,
+      "name": "Expert's Mercenary Hood",
+      "tier": "5.0",
+      "item_power": 800,
+      "identifier": "T5_HEAD_LEATHER_SET1",
+      "icon": "https://render.albiononline.com/v1/item/T5_HEAD_LEATHER_SET1@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 29,
+        "name": "Hoods",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 113,
+      "name": "Expert's Mistwalker Hood",
+      "tier": "5.0",
+      "item_power": 875,
+      "identifier": "T5_HEAD_LEATHER_FEY",
+      "icon": "https://render.albiononline.com/v1/item/T5_HEAD_LEATHER_FEY@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 29,
+        "name": "Hoods",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 114,
+      "name": "Expert's Royal Hood",
+      "tier": "5.0",
+      "item_power": 825,
+      "identifier": "T5_HEAD_LEATHER_ROYAL",
+      "icon": "https://render.albiononline.com/v1/item/T5_HEAD_LEATHER_ROYAL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 29,
+        "name": "Hoods",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 115,
+      "name": "Expert's Specter Hood",
+      "tier": "5.0",
+      "item_power": 875,
+      "identifier": "T5_HEAD_LEATHER_UNDEAD",
+      "icon": "https://render.albiononline.com/v1/item/T5_HEAD_LEATHER_UNDEAD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 29,
+        "name": "Hoods",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 116,
+      "name": "Expert's Stalker Hood",
+      "tier": "5.0",
+      "item_power": 825,
+      "identifier": "T5_HEAD_LEATHER_MORGANA",
+      "icon": "https://render.albiononline.com/v1/item/T5_HEAD_LEATHER_MORGANA@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 29,
+        "name": "Hoods",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 117,
+      "name": "Master's Assassin Hood",
+      "tier": "6.0",
+      "item_power": 900,
+      "identifier": "T6_HEAD_LEATHER_SET3",
+      "icon": "https://render.albiononline.com/v1/item/T6_HEAD_LEATHER_SET3@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 29,
+        "name": "Hoods",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 118,
+      "name": "Master's Hellion Hood",
+      "tier": "6.0",
+      "item_power": 950,
+      "identifier": "T6_HEAD_LEATHER_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T6_HEAD_LEATHER_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 29,
+        "name": "Hoods",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 119,
+      "name": "Master's Hood of Tenacity",
+      "tier": "6.0",
+      "item_power": 1000,
+      "identifier": "T6_HEAD_LEATHER_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T6_HEAD_LEATHER_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 29,
+        "name": "Hoods",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 120,
+      "name": "Master's Hunter Hood",
+      "tier": "6.0",
+      "item_power": 900,
+      "identifier": "T6_HEAD_LEATHER_SET2",
+      "icon": "https://render.albiononline.com/v1/item/T6_HEAD_LEATHER_SET2@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 29,
+        "name": "Hoods",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 121,
+      "name": "Master's Mercenary Hood",
+      "tier": "6.0",
+      "item_power": 900,
+      "identifier": "T6_HEAD_LEATHER_SET1",
+      "icon": "https://render.albiononline.com/v1/item/T6_HEAD_LEATHER_SET1@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 29,
+        "name": "Hoods",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 122,
+      "name": "Master's Mistwalker Hood",
+      "tier": "6.0",
+      "item_power": 975,
+      "identifier": "T6_HEAD_LEATHER_FEY",
+      "icon": "https://render.albiononline.com/v1/item/T6_HEAD_LEATHER_FEY@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 29,
+        "name": "Hoods",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 123,
+      "name": "Master's Royal Hood",
+      "tier": "6.0",
+      "item_power": 925,
+      "identifier": "T6_HEAD_LEATHER_ROYAL",
+      "icon": "https://render.albiononline.com/v1/item/T6_HEAD_LEATHER_ROYAL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 29,
+        "name": "Hoods",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 124,
+      "name": "Master's Specter Hood",
+      "tier": "6.0",
+      "item_power": 975,
+      "identifier": "T6_HEAD_LEATHER_UNDEAD",
+      "icon": "https://render.albiononline.com/v1/item/T6_HEAD_LEATHER_UNDEAD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 29,
+        "name": "Hoods",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 125,
+      "name": "Master's Stalker Hood",
+      "tier": "6.0",
+      "item_power": 925,
+      "identifier": "T6_HEAD_LEATHER_MORGANA",
+      "icon": "https://render.albiononline.com/v1/item/T6_HEAD_LEATHER_MORGANA@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 29,
+        "name": "Hoods",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 126,
+      "name": "Grandmaster's Assassin Hood",
+      "tier": "7.0",
+      "item_power": 1000,
+      "identifier": "T7_HEAD_LEATHER_SET3",
+      "icon": "https://render.albiononline.com/v1/item/T7_HEAD_LEATHER_SET3@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 29,
+        "name": "Hoods",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 127,
+      "name": "Grandmaster's Hellion Hood",
+      "tier": "7.0",
+      "item_power": 1050,
+      "identifier": "T7_HEAD_LEATHER_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T7_HEAD_LEATHER_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 29,
+        "name": "Hoods",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 128,
+      "name": "Grandmaster's Hood of Tenacity",
+      "tier": "7.0",
+      "item_power": 1100,
+      "identifier": "T7_HEAD_LEATHER_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T7_HEAD_LEATHER_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 29,
+        "name": "Hoods",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 129,
+      "name": "Grandmaster's Hunter Hood",
+      "tier": "7.0",
+      "item_power": 1000,
+      "identifier": "T7_HEAD_LEATHER_SET2",
+      "icon": "https://render.albiononline.com/v1/item/T7_HEAD_LEATHER_SET2@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 29,
+        "name": "Hoods",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 130,
+      "name": "Grandmaster's Mercenary Hood",
+      "tier": "7.0",
+      "item_power": 1000,
+      "identifier": "T7_HEAD_LEATHER_SET1",
+      "icon": "https://render.albiononline.com/v1/item/T7_HEAD_LEATHER_SET1@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 29,
+        "name": "Hoods",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 131,
+      "name": "Grandmaster's Mistwalker Hood",
+      "tier": "7.0",
+      "item_power": 1075,
+      "identifier": "T7_HEAD_LEATHER_FEY",
+      "icon": "https://render.albiononline.com/v1/item/T7_HEAD_LEATHER_FEY@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 29,
+        "name": "Hoods",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 132,
+      "name": "Grandmaster's Royal Hood",
+      "tier": "7.0",
+      "item_power": 1025,
+      "identifier": "T7_HEAD_LEATHER_ROYAL",
+      "icon": "https://render.albiononline.com/v1/item/T7_HEAD_LEATHER_ROYAL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 29,
+        "name": "Hoods",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 133,
+      "name": "Grandmaster's Specter Hood",
+      "tier": "7.0",
+      "item_power": 1075,
+      "identifier": "T7_HEAD_LEATHER_UNDEAD",
+      "icon": "https://render.albiononline.com/v1/item/T7_HEAD_LEATHER_UNDEAD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 29,
+        "name": "Hoods",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 134,
+      "name": "Grandmaster's Stalker Hood",
+      "tier": "7.0",
+      "item_power": 1025,
+      "identifier": "T7_HEAD_LEATHER_MORGANA",
+      "icon": "https://render.albiononline.com/v1/item/T7_HEAD_LEATHER_MORGANA@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 29,
+        "name": "Hoods",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 135,
+      "name": "Elder's Assassin Hood",
+      "tier": "8.0",
+      "item_power": 1100,
+      "identifier": "T8_HEAD_LEATHER_SET3",
+      "icon": "https://render.albiononline.com/v1/item/T8_HEAD_LEATHER_SET3@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 29,
+        "name": "Hoods",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 136,
+      "name": "Elder's Hellion Hood",
+      "tier": "8.0",
+      "item_power": 1150,
+      "identifier": "T8_HEAD_LEATHER_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T8_HEAD_LEATHER_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 29,
+        "name": "Hoods",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 137,
+      "name": "Elder's Hood of Tenacity",
+      "tier": "8.0",
+      "item_power": 1200,
+      "identifier": "T8_HEAD_LEATHER_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T8_HEAD_LEATHER_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 29,
+        "name": "Hoods",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 138,
+      "name": "Elder's Hunter Hood",
+      "tier": "8.0",
+      "item_power": 1100,
+      "identifier": "T8_HEAD_LEATHER_SET2",
+      "icon": "https://render.albiononline.com/v1/item/T8_HEAD_LEATHER_SET2@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 29,
+        "name": "Hoods",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 139,
+      "name": "Elder's Mercenary Hood",
+      "tier": "8.0",
+      "item_power": 1100,
+      "identifier": "T8_HEAD_LEATHER_SET1",
+      "icon": "https://render.albiononline.com/v1/item/T8_HEAD_LEATHER_SET1@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 29,
+        "name": "Hoods",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 140,
+      "name": "Elder's Mistwalker Hood",
+      "tier": "8.0",
+      "item_power": 1175,
+      "identifier": "T8_HEAD_LEATHER_FEY",
+      "icon": "https://render.albiononline.com/v1/item/T8_HEAD_LEATHER_FEY@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 29,
+        "name": "Hoods",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 141,
+      "name": "Elder's Royal Hood",
+      "tier": "8.0",
+      "item_power": 1125,
+      "identifier": "T8_HEAD_LEATHER_ROYAL",
+      "icon": "https://render.albiononline.com/v1/item/T8_HEAD_LEATHER_ROYAL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 29,
+        "name": "Hoods",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 142,
+      "name": "Elder's Specter Hood",
+      "tier": "8.0",
+      "item_power": 1175,
+      "identifier": "T8_HEAD_LEATHER_UNDEAD",
+      "icon": "https://render.albiononline.com/v1/item/T8_HEAD_LEATHER_UNDEAD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 29,
+        "name": "Hoods",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 143,
+      "name": "Elder's Stalker Hood",
+      "tier": "8.0",
+      "item_power": 1125,
+      "identifier": "T8_HEAD_LEATHER_MORGANA",
+      "icon": "https://render.albiononline.com/v1/item/T8_HEAD_LEATHER_MORGANA@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 29,
+        "name": "Hoods",
+        "type": "armor"
+      }
+    }
+  ]
+}

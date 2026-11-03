@@ -1,0 +1,652 @@
+{
+  "data": [
+    {
+      "id": 183,
+      "name": "Journeyman's Brawler Gloves",
+      "tier": "3.0",
+      "item_power": 500,
+      "identifier": "T3_2H_KNUCKLES_SET1",
+      "icon": "https://render.albiononline.com/v1/item/T3_2H_KNUCKLES_SET1@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 7,
+        "name": "War Gloves",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 184,
+      "name": "Adept's Battle Bracers",
+      "tier": "4.0",
+      "item_power": 700,
+      "identifier": "T4_2H_KNUCKLES_SET2",
+      "icon": "https://render.albiononline.com/v1/item/T4_2H_KNUCKLES_SET2@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 7,
+        "name": "War Gloves",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 185,
+      "name": "Adept's Spiked Gauntlets",
+      "tier": "4.0",
+      "item_power": 700,
+      "identifier": "T4_2H_KNUCKLES_SET3",
+      "icon": "https://render.albiononline.com/v1/item/T4_2H_KNUCKLES_SET3@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 7,
+        "name": "War Gloves",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 186,
+      "name": "Adept's Brawler Gloves",
+      "tier": "4.0",
+      "item_power": 700,
+      "identifier": "T4_2H_KNUCKLES_SET1",
+      "icon": "https://render.albiononline.com/v1/item/T4_2H_KNUCKLES_SET1@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 7,
+        "name": "War Gloves",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 187,
+      "name": "Adept's Ursine Maulers",
+      "tier": "4.0",
+      "item_power": 725,
+      "identifier": "T4_2H_KNUCKLES_KEEPER",
+      "icon": "https://render.albiononline.com/v1/item/T4_2H_KNUCKLES_KEEPER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 7,
+        "name": "War Gloves",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 188,
+      "name": "Adept's Hellfire Hands",
+      "tier": "4.0",
+      "item_power": 750,
+      "identifier": "T4_2H_KNUCKLES_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T4_2H_KNUCKLES_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 7,
+        "name": "War Gloves",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 189,
+      "name": "Adept's Ravenstrike Cestus",
+      "tier": "4.0",
+      "item_power": 775,
+      "identifier": "T4_2H_KNUCKLES_MORGANA",
+      "icon": "https://render.albiononline.com/v1/item/T4_2H_KNUCKLES_MORGANA@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 7,
+        "name": "War Gloves",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 190,
+      "name": "Adept's Fists of Avalon",
+      "tier": "4.0",
+      "item_power": 800,
+      "identifier": "T4_2H_KNUCKLES_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T4_2H_KNUCKLES_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 7,
+        "name": "War Gloves",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 191,
+      "name": "Expert's Brawler Gloves",
+      "tier": "5.0",
+      "item_power": 800,
+      "identifier": "T5_2H_KNUCKLES_SET1",
+      "icon": "https://render.albiononline.com/v1/item/T5_2H_KNUCKLES_SET1@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 7,
+        "name": "War Gloves",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 192,
+      "name": "Expert's Spiked Gauntlets",
+      "tier": "5.0",
+      "item_power": 800,
+      "identifier": "T5_2H_KNUCKLES_SET3",
+      "icon": "https://render.albiononline.com/v1/item/T5_2H_KNUCKLES_SET3@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 7,
+        "name": "War Gloves",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 193,
+      "name": "Expert's Battle Bracers",
+      "tier": "5.0",
+      "item_power": 800,
+      "identifier": "T5_2H_KNUCKLES_SET2",
+      "icon": "https://render.albiononline.com/v1/item/T5_2H_KNUCKLES_SET2@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 7,
+        "name": "War Gloves",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 194,
+      "name": "Expert's Ursine Maulers",
+      "tier": "5.0",
+      "item_power": 825,
+      "identifier": "T5_2H_KNUCKLES_KEEPER",
+      "icon": "https://render.albiononline.com/v1/item/T5_2H_KNUCKLES_KEEPER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 7,
+        "name": "War Gloves",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 195,
+      "name": "Expert's Hellfire Hands",
+      "tier": "5.0",
+      "item_power": 850,
+      "identifier": "T5_2H_KNUCKLES_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T5_2H_KNUCKLES_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 7,
+        "name": "War Gloves",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 196,
+      "name": "Expert's Ravenstrike Cestus",
+      "tier": "5.0",
+      "item_power": 875,
+      "identifier": "T5_2H_KNUCKLES_MORGANA",
+      "icon": "https://render.albiononline.com/v1/item/T5_2H_KNUCKLES_MORGANA@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 7,
+        "name": "War Gloves",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 197,
+      "name": "Expert's Fists of Avalon",
+      "tier": "5.0",
+      "item_power": 900,
+      "identifier": "T5_2H_KNUCKLES_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T5_2H_KNUCKLES_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 7,
+        "name": "War Gloves",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 198,
+      "name": "Master's Battle Bracers",
+      "tier": "6.0",
+      "item_power": 900,
+      "identifier": "T6_2H_KNUCKLES_SET2",
+      "icon": "https://render.albiononline.com/v1/item/T6_2H_KNUCKLES_SET2@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 7,
+        "name": "War Gloves",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 199,
+      "name": "Master's Brawler Gloves",
+      "tier": "6.0",
+      "item_power": 900,
+      "identifier": "T6_2H_KNUCKLES_SET1",
+      "icon": "https://render.albiononline.com/v1/item/T6_2H_KNUCKLES_SET1@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 7,
+        "name": "War Gloves",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 200,
+      "name": "Master's Spiked Gauntlets",
+      "tier": "6.0",
+      "item_power": 900,
+      "identifier": "T6_2H_KNUCKLES_SET3",
+      "icon": "https://render.albiononline.com/v1/item/T6_2H_KNUCKLES_SET3@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 7,
+        "name": "War Gloves",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 201,
+      "name": "Master's Ursine Maulers",
+      "tier": "6.0",
+      "item_power": 925,
+      "identifier": "T6_2H_KNUCKLES_KEEPER",
+      "icon": "https://render.albiononline.com/v1/item/T6_2H_KNUCKLES_KEEPER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 7,
+        "name": "War Gloves",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 202,
+      "name": "Master's Hellfire Hands",
+      "tier": "6.0",
+      "item_power": 950,
+      "identifier": "T6_2H_KNUCKLES_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T6_2H_KNUCKLES_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 7,
+        "name": "War Gloves",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 203,
+      "name": "Master's Ravenstrike Cestus",
+      "tier": "6.0",
+      "item_power": 975,
+      "identifier": "T6_2H_KNUCKLES_MORGANA",
+      "icon": "https://render.albiononline.com/v1/item/T6_2H_KNUCKLES_MORGANA@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 7,
+        "name": "War Gloves",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 204,
+      "name": "Master's Fists of Avalon",
+      "tier": "6.0",
+      "item_power": 1000,
+      "identifier": "T6_2H_KNUCKLES_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T6_2H_KNUCKLES_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 7,
+        "name": "War Gloves",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 205,
+      "name": "Grandmaster's Spiked Gauntlets",
+      "tier": "7.0",
+      "item_power": 1000,
+      "identifier": "T7_2H_KNUCKLES_SET3",
+      "icon": "https://render.albiononline.com/v1/item/T7_2H_KNUCKLES_SET3@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 7,
+        "name": "War Gloves",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 206,
+      "name": "Grandmaster's Brawler Gloves",
+      "tier": "7.0",
+      "item_power": 1000,
+      "identifier": "T7_2H_KNUCKLES_SET1",
+      "icon": "https://render.albiononline.com/v1/item/T7_2H_KNUCKLES_SET1@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 7,
+        "name": "War Gloves",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 207,
+      "name": "Grandmaster's Battle Bracers",
+      "tier": "7.0",
+      "item_power": 1000,
+      "identifier": "T7_2H_KNUCKLES_SET2",
+      "icon": "https://render.albiononline.com/v1/item/T7_2H_KNUCKLES_SET2@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 7,
+        "name": "War Gloves",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 208,
+      "name": "Grandmaster's Ursine Maulers",
+      "tier": "7.0",
+      "item_power": 1025,
+      "identifier": "T7_2H_KNUCKLES_KEEPER",
+      "icon": "https://render.albiononline.com/v1/item/T7_2H_KNUCKLES_KEEPER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 7,
+        "name": "War Gloves",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 209,
+      "name": "Grandmaster's Hellfire Hands",
+      "tier": "7.0",
+      "item_power": 1050,
+      "identifier": "T7_2H_KNUCKLES_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T7_2H_KNUCKLES_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 7,
+        "name": "War Gloves",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 210,
+      "name": "Grandmaster's Ravenstrike Cestus",
+      "tier": "7.0",
+      "item_power": 1075,
+      "identifier": "T7_2H_KNUCKLES_MORGANA",
+      "icon": "https://render.albiononline.com/v1/item/T7_2H_KNUCKLES_MORGANA@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 7,
+        "name": "War Gloves",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 211,
+      "name": "Grandmaster's Fists of Avalon",
+      "tier": "7.0",
+      "item_power": 1100,
+      "identifier": "T7_2H_KNUCKLES_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T7_2H_KNUCKLES_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 7,
+        "name": "War Gloves",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 212,
+      "name": "Elder's Brawler Gloves",
+      "tier": "8.0",
+      "item_power": 1100,
+      "identifier": "T8_2H_KNUCKLES_SET1",
+      "icon": "https://render.albiononline.com/v1/item/T8_2H_KNUCKLES_SET1@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 7,
+        "name": "War Gloves",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 213,
+      "name": "Elder's Battle Bracers",
+      "tier": "8.0",
+      "item_power": 1100,
+      "identifier": "T8_2H_KNUCKLES_SET2",
+      "icon": "https://render.albiononline.com/v1/item/T8_2H_KNUCKLES_SET2@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 7,
+        "name": "War Gloves",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 214,
+      "name": "Elder's Spiked Gauntlets",
+      "tier": "8.0",
+      "item_power": 1100,
+      "identifier": "T8_2H_KNUCKLES_SET3",
+      "icon": "https://render.albiononline.com/v1/item/T8_2H_KNUCKLES_SET3@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 7,
+        "name": "War Gloves",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 215,
+      "name": "Elder's Ursine Maulers",
+      "tier": "8.0",
+      "item_power": 1125,
+      "identifier": "T8_2H_KNUCKLES_KEEPER",
+      "icon": "https://render.albiononline.com/v1/item/T8_2H_KNUCKLES_KEEPER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 7,
+        "name": "War Gloves",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 216,
+      "name": "Elder's Hellfire Hands",
+      "tier": "8.0",
+      "item_power": 1150,
+      "identifier": "T8_2H_KNUCKLES_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T8_2H_KNUCKLES_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 7,
+        "name": "War Gloves",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 217,
+      "name": "Elder's Ravenstrike Cestus",
+      "tier": "8.0",
+      "item_power": 1175,
+      "identifier": "T8_2H_KNUCKLES_MORGANA",
+      "icon": "https://render.albiononline.com/v1/item/T8_2H_KNUCKLES_MORGANA@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 7,
+        "name": "War Gloves",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 218,
+      "name": "Elder's Fists of Avalon",
+      "tier": "8.0",
+      "item_power": 1200,
+      "identifier": "T8_2H_KNUCKLES_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T8_2H_KNUCKLES_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 7,
+        "name": "War Gloves",
+        "type": "weapon"
+      }
+    }
+  ]
+}

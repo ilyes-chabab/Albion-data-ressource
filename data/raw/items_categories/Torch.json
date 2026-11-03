@@ -1,0 +1,472 @@
+{
+  "data": [
+    {
+      "id": 428,
+      "name": "  Journeyman's Torch",
+      "tier": "3.0",
+      "item_power": 500,
+      "identifier": "Journeyman's Torch",
+      "icon": "https://render.albiononline.com/v1/item/Journeyman's Torch@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 15,
+        "name": "Torch",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 429,
+      "name": "  Adept's Torch",
+      "tier": "4.0",
+      "item_power": 700,
+      "identifier": "Adept's Torch",
+      "icon": "https://render.albiononline.com/v1/item/Adept's Torch@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 15,
+        "name": "Torch",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 430,
+      "name": "  Expert's Torch",
+      "tier": "5.0",
+      "item_power": 800,
+      "identifier": "Expert's Torch",
+      "icon": "https://render.albiononline.com/v1/item/Expert's Torch@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 15,
+        "name": "Torch",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 431,
+      "name": "  Master's Torch",
+      "tier": "6.0",
+      "item_power": 900,
+      "identifier": "Master's Torch",
+      "icon": "https://render.albiononline.com/v1/item/Master's Torch@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 15,
+        "name": "Torch",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 432,
+      "name": "  Grandmaster's Torch",
+      "tier": "7.0",
+      "item_power": 1000,
+      "identifier": "Grandmaster's Torch",
+      "icon": "https://render.albiononline.com/v1/item/Grandmaster's Torch@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 15,
+        "name": "Torch",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 433,
+      "name": "  Elder's Torch",
+      "tier": "8.0",
+      "item_power": 1100,
+      "identifier": "Elder's Torch",
+      "icon": "https://render.albiononline.com/v1/item/Elder's Torch@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 15,
+        "name": "Torch",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 634,
+      "name": "Adept's Leering Cane",
+      "tier": "4.0",
+      "item_power": 750,
+      "identifier": "T4_OFF_JESTERCANE_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T4_OFF_JESTERCANE_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 15,
+        "name": "Torch",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 635,
+      "name": "Expert's Leering Cane",
+      "tier": "5.0",
+      "item_power": 850,
+      "identifier": "T5_OFF_JESTERCANE_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T5_OFF_JESTERCANE_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 15,
+        "name": "Torch",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 636,
+      "name": "Master's Leering Cane",
+      "tier": "6.0",
+      "item_power": 950,
+      "identifier": "T6_OFF_JESTERCANE_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T6_OFF_JESTERCANE_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 15,
+        "name": "Torch",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 637,
+      "name": "Grandmaster's Leering Cane",
+      "tier": "7.0",
+      "item_power": 1050,
+      "identifier": "T7_OFF_JESTERCANE_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T7_OFF_JESTERCANE_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 15,
+        "name": "Torch",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 638,
+      "name": "Elder's Leering Cane",
+      "tier": "8.0",
+      "item_power": 1150,
+      "identifier": "T8_OFF_JESTERCANE_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T8_OFF_JESTERCANE_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 15,
+        "name": "Torch",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 639,
+      "name": "Adept's Cryptcandle",
+      "tier": "4.0",
+      "item_power": 775,
+      "identifier": "T4_OFF_LAMP_UNDEAD",
+      "icon": "https://render.albiononline.com/v1/item/T4_OFF_LAMP_UNDEAD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 15,
+        "name": "Torch",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 640,
+      "name": "Expert's Cryptcandle",
+      "tier": "5.0",
+      "item_power": 875,
+      "identifier": "T5_OFF_LAMP_UNDEAD",
+      "icon": "https://render.albiononline.com/v1/item/T5_OFF_LAMP_UNDEAD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 15,
+        "name": "Torch",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 641,
+      "name": "Master's Cryptcandle",
+      "tier": "6.0",
+      "item_power": 975,
+      "identifier": "T6_OFF_LAMP_UNDEAD",
+      "icon": "https://render.albiononline.com/v1/item/T6_OFF_LAMP_UNDEAD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 15,
+        "name": "Torch",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 642,
+      "name": "Grandmaster's Cryptcandle",
+      "tier": "7.0",
+      "item_power": 1075,
+      "identifier": "T7_OFF_LAMP_UNDEAD",
+      "icon": "https://render.albiononline.com/v1/item/T7_OFF_LAMP_UNDEAD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 15,
+        "name": "Torch",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 643,
+      "name": "Elder's Cryptcandle",
+      "tier": "8.0",
+      "item_power": 1175,
+      "identifier": "T8_OFF_LAMP_UNDEAD",
+      "icon": "https://render.albiononline.com/v1/item/T8_OFF_LAMP_UNDEAD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 15,
+        "name": "Torch",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 644,
+      "name": "Adept's Sacred Scepter",
+      "tier": "4.0",
+      "item_power": 800,
+      "identifier": "T4_OFF_TALISMAN_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T4_OFF_TALISMAN_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 15,
+        "name": "Torch",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 645,
+      "name": "Expert's Sacred Scepter",
+      "tier": "5.0",
+      "item_power": 900,
+      "identifier": "T5_OFF_TALISMAN_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T5_OFF_TALISMAN_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 15,
+        "name": "Torch",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 646,
+      "name": "Master's Sacred Scepter",
+      "tier": "6.0",
+      "item_power": 1000,
+      "identifier": "T6_OFF_TALISMAN_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T6_OFF_TALISMAN_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 15,
+        "name": "Torch",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 647,
+      "name": "Grandmaster's Sacred Scepter",
+      "tier": "7.0",
+      "item_power": 1100,
+      "identifier": "T7_OFF_TALISMAN_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T7_OFF_TALISMAN_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 15,
+        "name": "Torch",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 648,
+      "name": "Elder's Sacred Scepter",
+      "tier": "8.0",
+      "item_power": 1200,
+      "identifier": "T8_OFF_TALISMAN_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T8_OFF_TALISMAN_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 15,
+        "name": "Torch",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 705,
+      "name": "Adept's Mistcaller",
+      "tier": "4.0",
+      "item_power": 725,
+      "identifier": "T4_OFF_HORN_KEEPER",
+      "icon": "https://render.albiononline.com/v1/item/T4_OFF_HORN_KEEPER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 15,
+        "name": "Torch",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 706,
+      "name": "Expert's Mistcaller",
+      "tier": "5.0",
+      "item_power": 825,
+      "identifier": "T5_OFF_HORN_KEEPER",
+      "icon": "https://render.albiononline.com/v1/item/T5_OFF_HORN_KEEPER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 15,
+        "name": "Torch",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 707,
+      "name": "Master's Mistcaller",
+      "tier": "6.0",
+      "item_power": 925,
+      "identifier": "T6_OFF_HORN_KEEPER",
+      "icon": "https://render.albiononline.com/v1/item/T6_OFF_HORN_KEEPER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 15,
+        "name": "Torch",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 708,
+      "name": "Grandmaster's Mistcaller",
+      "tier": "7.0",
+      "item_power": 1025,
+      "identifier": "T7_OFF_HORN_KEEPER",
+      "icon": "https://render.albiononline.com/v1/item/T7_OFF_HORN_KEEPER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 15,
+        "name": "Torch",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 709,
+      "name": "Elder's Mistcaller",
+      "tier": "8.0",
+      "item_power": 1125,
+      "identifier": "T8_OFF_HORN_KEEPER",
+      "icon": "https://render.albiononline.com/v1/item/T8_OFF_HORN_KEEPER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 15,
+        "name": "Torch",
+        "type": "weapon"
+      }
+    }
+  ]
+}

@@ -1,0 +1,652 @@
+{
+  "data": [
+    {
+      "id": 284,
+      "name": "Journeyman's Spear",
+      "tier": "3.0",
+      "item_power": 500,
+      "identifier": "T3_MAIN_SPEAR",
+      "icon": "https://render.albiononline.com/v1/item/T3_MAIN_SPEAR@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 11,
+        "name": "Spear",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 285,
+      "name": "Adept's Spear",
+      "tier": "4.0",
+      "item_power": 700,
+      "identifier": "T4_MAIN_SPEAR",
+      "icon": "https://render.albiononline.com/v1/item/T4_MAIN_SPEAR@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 11,
+        "name": "Spear",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 286,
+      "name": "Adept's Glaive",
+      "tier": "4.0",
+      "item_power": 700,
+      "identifier": "T4_2H_GLAIVE",
+      "icon": "https://render.albiononline.com/v1/item/T4_2H_GLAIVE@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 11,
+        "name": "Spear",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 287,
+      "name": "Adept's Pike",
+      "tier": "4.0",
+      "item_power": 700,
+      "identifier": "T4_2H_SPEAR",
+      "icon": "https://render.albiononline.com/v1/item/T4_2H_SPEAR@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 11,
+        "name": "Spear",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 288,
+      "name": "Adept's Heron Spear",
+      "tier": "4.0",
+      "item_power": 725,
+      "identifier": "T4_MAIN_SPEAR_KEEPER",
+      "icon": "https://render.albiononline.com/v1/item/T4_MAIN_SPEAR_KEEPER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 11,
+        "name": "Spear",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 289,
+      "name": "Adept's Spirithunter",
+      "tier": "4.0",
+      "item_power": 750,
+      "identifier": "T4_2H_HARPOON_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T4_2H_HARPOON_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 11,
+        "name": "Spear",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 290,
+      "name": "Adept's Trinity Spear",
+      "tier": "4.0",
+      "item_power": 775,
+      "identifier": "T4_2H_TRIDENT_UNDEAD",
+      "icon": "https://render.albiononline.com/v1/item/T4_2H_TRIDENT_UNDEAD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 11,
+        "name": "Spear",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 291,
+      "name": "Adept's Daybreaker",
+      "tier": "4.0",
+      "item_power": 800,
+      "identifier": "T4_MAIN_SPEAR_LANCE_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T4_MAIN_SPEAR_LANCE_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 11,
+        "name": "Spear",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 292,
+      "name": "Expert's Pike",
+      "tier": "5.0",
+      "item_power": 800,
+      "identifier": "T5_2H_SPEAR",
+      "icon": "https://render.albiononline.com/v1/item/T5_2H_SPEAR@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 11,
+        "name": "Spear",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 293,
+      "name": "Expert's Spear",
+      "tier": "5.0",
+      "item_power": 800,
+      "identifier": "T5_MAIN_SPEAR",
+      "icon": "https://render.albiononline.com/v1/item/T5_MAIN_SPEAR@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 11,
+        "name": "Spear",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 294,
+      "name": "Expert's Glaive",
+      "tier": "5.0",
+      "item_power": 800,
+      "identifier": "T5_2H_GLAIVE",
+      "icon": "https://render.albiononline.com/v1/item/T5_2H_GLAIVE@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 11,
+        "name": "Spear",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 295,
+      "name": "Expert's Heron Spear",
+      "tier": "5.0",
+      "item_power": 825,
+      "identifier": "T5_MAIN_SPEAR_KEEPER",
+      "icon": "https://render.albiononline.com/v1/item/T5_MAIN_SPEAR_KEEPER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 11,
+        "name": "Spear",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 296,
+      "name": "Expert's Spirithunter",
+      "tier": "5.0",
+      "item_power": 850,
+      "identifier": "T5_2H_HARPOON_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T5_2H_HARPOON_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 11,
+        "name": "Spear",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 297,
+      "name": "Expert's Trinity Spear",
+      "tier": "5.0",
+      "item_power": 875,
+      "identifier": "T5_2H_TRIDENT_UNDEAD",
+      "icon": "https://render.albiononline.com/v1/item/T5_2H_TRIDENT_UNDEAD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 11,
+        "name": "Spear",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 298,
+      "name": "Expert's Daybreaker",
+      "tier": "5.0",
+      "item_power": 900,
+      "identifier": "T5_MAIN_SPEAR_LANCE_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T5_MAIN_SPEAR_LANCE_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 11,
+        "name": "Spear",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 299,
+      "name": "Master's Spear",
+      "tier": "6.0",
+      "item_power": 900,
+      "identifier": "T6_MAIN_SPEAR",
+      "icon": "https://render.albiononline.com/v1/item/T6_MAIN_SPEAR@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 11,
+        "name": "Spear",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 300,
+      "name": "Master's Pike",
+      "tier": "6.0",
+      "item_power": 900,
+      "identifier": "T6_2H_SPEAR",
+      "icon": "https://render.albiononline.com/v1/item/T6_2H_SPEAR@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 11,
+        "name": "Spear",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 301,
+      "name": "Master's Glaive",
+      "tier": "6.0",
+      "item_power": 900,
+      "identifier": "T6_2H_GLAIVE",
+      "icon": "https://render.albiononline.com/v1/item/T6_2H_GLAIVE@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 11,
+        "name": "Spear",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 302,
+      "name": "Master's Heron Spear",
+      "tier": "6.0",
+      "item_power": 925,
+      "identifier": "T6_MAIN_SPEAR_KEEPER",
+      "icon": "https://render.albiononline.com/v1/item/T6_MAIN_SPEAR_KEEPER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 11,
+        "name": "Spear",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 303,
+      "name": "Master's Spirithunter",
+      "tier": "6.0",
+      "item_power": 950,
+      "identifier": "T6_2H_HARPOON_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T6_2H_HARPOON_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 11,
+        "name": "Spear",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 304,
+      "name": "Master's Trinity Spear",
+      "tier": "6.0",
+      "item_power": 975,
+      "identifier": "T6_2H_TRIDENT_UNDEAD",
+      "icon": "https://render.albiononline.com/v1/item/T6_2H_TRIDENT_UNDEAD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 11,
+        "name": "Spear",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 305,
+      "name": "Master's Daybreaker",
+      "tier": "6.0",
+      "item_power": 1000,
+      "identifier": "T6_MAIN_SPEAR_LANCE_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T6_MAIN_SPEAR_LANCE_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 11,
+        "name": "Spear",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 306,
+      "name": "Grandmaster's Glaive",
+      "tier": "7.0",
+      "item_power": 1000,
+      "identifier": "T7_2H_GLAIVE",
+      "icon": "https://render.albiononline.com/v1/item/T7_2H_GLAIVE@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 11,
+        "name": "Spear",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 307,
+      "name": "Grandmaster's Pike",
+      "tier": "7.0",
+      "item_power": 1000,
+      "identifier": "T7_2H_SPEAR",
+      "icon": "https://render.albiononline.com/v1/item/T7_2H_SPEAR@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 11,
+        "name": "Spear",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 308,
+      "name": "Grandmaster's Spear",
+      "tier": "7.0",
+      "item_power": 1000,
+      "identifier": "T7_MAIN_SPEAR",
+      "icon": "https://render.albiononline.com/v1/item/T7_MAIN_SPEAR@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 11,
+        "name": "Spear",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 309,
+      "name": "Grandmaster's Heron Spear",
+      "tier": "7.0",
+      "item_power": 1025,
+      "identifier": "T7_MAIN_SPEAR_KEEPER",
+      "icon": "https://render.albiononline.com/v1/item/T7_MAIN_SPEAR_KEEPER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 11,
+        "name": "Spear",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 310,
+      "name": "Grandmaster's Spirithunter",
+      "tier": "7.0",
+      "item_power": 1050,
+      "identifier": "T7_2H_HARPOON_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T7_2H_HARPOON_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 11,
+        "name": "Spear",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 311,
+      "name": "Grandmaster's Trinity Spear",
+      "tier": "7.0",
+      "item_power": 1075,
+      "identifier": "T7_2H_TRIDENT_UNDEAD",
+      "icon": "https://render.albiononline.com/v1/item/T7_2H_TRIDENT_UNDEAD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 11,
+        "name": "Spear",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 312,
+      "name": "Grandmaster's Daybreaker",
+      "tier": "7.0",
+      "item_power": 1100,
+      "identifier": "T7_MAIN_SPEAR_LANCE_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T7_MAIN_SPEAR_LANCE_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 11,
+        "name": "Spear",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 313,
+      "name": "Elder's Glaive",
+      "tier": "8.0",
+      "item_power": 1100,
+      "identifier": "T8_2H_GLAIVE",
+      "icon": "https://render.albiononline.com/v1/item/T8_2H_GLAIVE@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 11,
+        "name": "Spear",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 314,
+      "name": "Elder's Pike",
+      "tier": "8.0",
+      "item_power": 1100,
+      "identifier": "T8_2H_SPEAR",
+      "icon": "https://render.albiononline.com/v1/item/T8_2H_SPEAR@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 11,
+        "name": "Spear",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 315,
+      "name": "Elder's Spear",
+      "tier": "8.0",
+      "item_power": 1100,
+      "identifier": "T8_MAIN_SPEAR",
+      "icon": "https://render.albiononline.com/v1/item/T8_MAIN_SPEAR@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 11,
+        "name": "Spear",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 316,
+      "name": "Elder's Heron Spear",
+      "tier": "8.0",
+      "item_power": 1125,
+      "identifier": "T8_MAIN_SPEAR_KEEPER",
+      "icon": "https://render.albiononline.com/v1/item/T8_MAIN_SPEAR_KEEPER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 11,
+        "name": "Spear",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 317,
+      "name": "Elder's Spirithunter",
+      "tier": "8.0",
+      "item_power": 1150,
+      "identifier": "T8_2H_HARPOON_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T8_2H_HARPOON_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 11,
+        "name": "Spear",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 318,
+      "name": "Elder's Trinity Spear",
+      "tier": "8.0",
+      "item_power": 1175,
+      "identifier": "T8_2H_TRIDENT_UNDEAD",
+      "icon": "https://render.albiononline.com/v1/item/T8_2H_TRIDENT_UNDEAD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 11,
+        "name": "Spear",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 319,
+      "name": "Elder's Daybreaker",
+      "tier": "8.0",
+      "item_power": 1200,
+      "identifier": "T8_MAIN_SPEAR_LANCE_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T8_MAIN_SPEAR_LANCE_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 11,
+        "name": "Spear",
+        "type": "weapon"
+      }
+    }
+  ]
+}

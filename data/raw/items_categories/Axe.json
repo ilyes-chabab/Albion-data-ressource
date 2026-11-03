@@ -1,0 +1,652 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Journeyman's Battleaxe",
+      "tier": "3.0",
+      "item_power": 500,
+      "identifier": "T3_MAIN_AXE",
+      "icon": "https://render.albiononline.com/v1/item/T3_MAIN_AXE@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 2,
+        "name": "Axe",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Adept's Battleaxe",
+      "tier": "4.0",
+      "item_power": 700,
+      "identifier": "T4_MAIN_AXE",
+      "icon": "https://render.albiononline.com/v1/item/T4_MAIN_AXE@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 2,
+        "name": "Axe",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Adept's Greataxe",
+      "tier": "4.0",
+      "item_power": 700,
+      "identifier": "T4_2H_AXE",
+      "icon": "https://render.albiononline.com/v1/item/T4_2H_AXE@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 2,
+        "name": "Axe",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Adept's Halberd",
+      "tier": "4.0",
+      "item_power": 700,
+      "identifier": "T4_2H_HALBERD",
+      "icon": "https://render.albiononline.com/v1/item/T4_2H_HALBERD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 2,
+        "name": "Axe",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Adept's Carrioncaller",
+      "tier": "4.0",
+      "item_power": 725,
+      "identifier": "T4_2H_HALBERD_MORGANA",
+      "icon": "https://render.albiononline.com/v1/item/T4_2H_HALBERD_MORGANA@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 2,
+        "name": "Axe",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Adept's Infernal Scythe",
+      "tier": "4.0",
+      "item_power": 750,
+      "identifier": "T4_2H_SCYTHE_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T4_2H_SCYTHE_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 2,
+        "name": "Axe",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Adept's Bear Paws",
+      "tier": "4.0",
+      "item_power": 775,
+      "identifier": "T4_2H_DUALAXE_KEEPER",
+      "icon": "https://render.albiononline.com/v1/item/T4_2H_DUALAXE_KEEPER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 2,
+        "name": "Axe",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Adept's Realmbreaker",
+      "tier": "4.0",
+      "item_power": 800,
+      "identifier": "T4_2H_AXE_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T4_2H_AXE_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 2,
+        "name": "Axe",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Expert's Battleaxe",
+      "tier": "5.0",
+      "item_power": 800,
+      "identifier": "T5_MAIN_AXE",
+      "icon": "https://render.albiononline.com/v1/item/T5_MAIN_AXE@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 2,
+        "name": "Axe",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Expert's Greataxe",
+      "tier": "5.0",
+      "item_power": 800,
+      "identifier": "T5_2H_AXE",
+      "icon": "https://render.albiononline.com/v1/item/T5_2H_AXE@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 2,
+        "name": "Axe",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 11,
+      "name": "Expert's Halberd",
+      "tier": "5.0",
+      "item_power": 800,
+      "identifier": "T5_2H_HALBERD",
+      "icon": "https://render.albiononline.com/v1/item/T5_2H_HALBERD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 2,
+        "name": "Axe",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 12,
+      "name": "Expert's Carrioncaller",
+      "tier": "5.0",
+      "item_power": 825,
+      "identifier": "T5_2H_HALBERD_MORGANA",
+      "icon": "https://render.albiononline.com/v1/item/T5_2H_HALBERD_MORGANA@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 2,
+        "name": "Axe",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 13,
+      "name": "Expert's Infernal Scythe",
+      "tier": "5.0",
+      "item_power": 850,
+      "identifier": "T5_2H_SCYTHE_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T5_2H_SCYTHE_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 2,
+        "name": "Axe",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 14,
+      "name": "Expert's Bear Paws",
+      "tier": "5.0",
+      "item_power": 875,
+      "identifier": "T5_2H_DUALAXE_KEEPER",
+      "icon": "https://render.albiononline.com/v1/item/T5_2H_DUALAXE_KEEPER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 2,
+        "name": "Axe",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 15,
+      "name": "Expert's Realmbreaker",
+      "tier": "5.0",
+      "item_power": 900,
+      "identifier": "T5_2H_AXE_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T5_2H_AXE_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 2,
+        "name": "Axe",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 16,
+      "name": "Master's Halberd",
+      "tier": "6.0",
+      "item_power": 900,
+      "identifier": "T6_2H_HALBERD",
+      "icon": "https://render.albiononline.com/v1/item/T6_2H_HALBERD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 2,
+        "name": "Axe",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 17,
+      "name": "Master's Battleaxe",
+      "tier": "6.0",
+      "item_power": 900,
+      "identifier": "T6_MAIN_AXE",
+      "icon": "https://render.albiononline.com/v1/item/T6_MAIN_AXE@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 2,
+        "name": "Axe",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 18,
+      "name": "Master's Greataxe",
+      "tier": "6.0",
+      "item_power": 900,
+      "identifier": "T6_2H_AXE",
+      "icon": "https://render.albiononline.com/v1/item/T6_2H_AXE@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 2,
+        "name": "Axe",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 19,
+      "name": "Master's Carrioncaller",
+      "tier": "6.0",
+      "item_power": 925,
+      "identifier": "T6_2H_HALBERD_MORGANA",
+      "icon": "https://render.albiononline.com/v1/item/T6_2H_HALBERD_MORGANA@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 2,
+        "name": "Axe",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 20,
+      "name": "Master's Infernal Scythe",
+      "tier": "6.0",
+      "item_power": 950,
+      "identifier": "T6_2H_SCYTHE_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T6_2H_SCYTHE_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 2,
+        "name": "Axe",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 21,
+      "name": "Master's Bear Paws",
+      "tier": "6.0",
+      "item_power": 975,
+      "identifier": "T6_2H_DUALAXE_KEEPER",
+      "icon": "https://render.albiononline.com/v1/item/T6_2H_DUALAXE_KEEPER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 2,
+        "name": "Axe",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 22,
+      "name": "Master's Realmbreaker",
+      "tier": "6.0",
+      "item_power": 1000,
+      "identifier": "T6_2H_AXE_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T6_2H_AXE_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 2,
+        "name": "Axe",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 23,
+      "name": "Grandmaster's Halberd",
+      "tier": "7.0",
+      "item_power": 1000,
+      "identifier": "T7_2H_HALBERD",
+      "icon": "https://render.albiononline.com/v1/item/T7_2H_HALBERD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 2,
+        "name": "Axe",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 24,
+      "name": "Grandmaster's Greataxe",
+      "tier": "7.0",
+      "item_power": 1000,
+      "identifier": "T7_2H_AXE",
+      "icon": "https://render.albiononline.com/v1/item/T7_2H_AXE@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 2,
+        "name": "Axe",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 25,
+      "name": "Grandmaster's Battleaxe",
+      "tier": "7.0",
+      "item_power": 1000,
+      "identifier": "T7_MAIN_AXE",
+      "icon": "https://render.albiononline.com/v1/item/T7_MAIN_AXE@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 2,
+        "name": "Axe",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 26,
+      "name": "Grandmaster's Carrioncaller",
+      "tier": "7.0",
+      "item_power": 1025,
+      "identifier": "T7_2H_HALBERD_MORGANA",
+      "icon": "https://render.albiononline.com/v1/item/T7_2H_HALBERD_MORGANA@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 2,
+        "name": "Axe",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 27,
+      "name": "Grandmaster's Infernal Scythe",
+      "tier": "7.0",
+      "item_power": 1050,
+      "identifier": "T7_2H_SCYTHE_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T7_2H_SCYTHE_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 2,
+        "name": "Axe",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 28,
+      "name": "Grandmaster's Bear Paws",
+      "tier": "7.0",
+      "item_power": 1075,
+      "identifier": "T7_2H_DUALAXE_KEEPER",
+      "icon": "https://render.albiononline.com/v1/item/T7_2H_DUALAXE_KEEPER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 2,
+        "name": "Axe",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 29,
+      "name": "Grandmaster's Realmbreaker",
+      "tier": "7.0",
+      "item_power": 1100,
+      "identifier": "T7_2H_AXE_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T7_2H_AXE_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 2,
+        "name": "Axe",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 30,
+      "name": "The Hand of Khor",
+      "tier": "8.0",
+      "item_power": 1100,
+      "identifier": "T8_2H_AXE",
+      "icon": "https://render.albiononline.com/v1/item/T8_2H_AXE@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 2,
+        "name": "Axe",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 31,
+      "name": "Elder's Battleaxe",
+      "tier": "8.0",
+      "item_power": 1100,
+      "identifier": "T8_MAIN_AXE",
+      "icon": "https://render.albiononline.com/v1/item/T8_MAIN_AXE@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 2,
+        "name": "Axe",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 32,
+      "name": "Elder's Halberd",
+      "tier": "8.0",
+      "item_power": 1100,
+      "identifier": "T8_2H_HALBERD",
+      "icon": "https://render.albiononline.com/v1/item/T8_2H_HALBERD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 2,
+        "name": "Axe",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 33,
+      "name": "Elder's Carrioncaller",
+      "tier": "8.0",
+      "item_power": 1125,
+      "identifier": "T8_2H_HALBERD_MORGANA",
+      "icon": "https://render.albiononline.com/v1/item/T8_2H_HALBERD_MORGANA@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 2,
+        "name": "Axe",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 34,
+      "name": "Elder's Infernal Scythe",
+      "tier": "8.0",
+      "item_power": 1150,
+      "identifier": "T8_2H_SCYTHE_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T8_2H_SCYTHE_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 2,
+        "name": "Axe",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 35,
+      "name": "Elder's Bear Paws",
+      "tier": "8.0",
+      "item_power": 1175,
+      "identifier": "T8_2H_DUALAXE_KEEPER",
+      "icon": "https://render.albiononline.com/v1/item/T8_2H_DUALAXE_KEEPER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 2,
+        "name": "Axe",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 36,
+      "name": "Elder's Realmbreaker",
+      "tier": "8.0",
+      "item_power": 1200,
+      "identifier": "T8_2H_AXE_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T8_2H_AXE_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 2,
+        "name": "Axe",
+        "type": "weapon"
+      }
+    }
+  ]
+}

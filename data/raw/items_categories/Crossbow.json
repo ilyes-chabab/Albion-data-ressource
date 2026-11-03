@@ -1,0 +1,652 @@
+{
+  "data": [
+    {
+      "id": 147,
+      "name": "Journeyman's Crossbow",
+      "tier": "3.0",
+      "item_power": 500,
+      "identifier": "T3_2H_CROSSBOW",
+      "icon": "https://render.albiononline.com/v1/item/T3_2H_CROSSBOW@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 6,
+        "name": "Crossbow",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 148,
+      "name": "Adept's Crossbow",
+      "tier": "4.0",
+      "item_power": 700,
+      "identifier": "T4_2H_CROSSBOW",
+      "icon": "https://render.albiononline.com/v1/item/T4_2H_CROSSBOW@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 6,
+        "name": "Crossbow",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 149,
+      "name": "Adept's Light Crossbow",
+      "tier": "4.0",
+      "item_power": 700,
+      "identifier": "T4_MAIN_1HCROSSBOW",
+      "icon": "https://render.albiononline.com/v1/item/T4_MAIN_1HCROSSBOW@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 6,
+        "name": "Crossbow",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 150,
+      "name": "Adept's Heavy Crossbow",
+      "tier": "4.0",
+      "item_power": 700,
+      "identifier": "T4_2H_CROSSBOWLARGE",
+      "icon": "https://render.albiononline.com/v1/item/T4_2H_CROSSBOWLARGE@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 6,
+        "name": "Crossbow",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 151,
+      "name": "Adept's Weeping Repeater",
+      "tier": "4.0",
+      "item_power": 725,
+      "identifier": "T4_2H_REPEATINGCROSSBOW_UNDEAD",
+      "icon": "https://render.albiononline.com/v1/item/T4_2H_REPEATINGCROSSBOW_UNDEAD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 6,
+        "name": "Crossbow",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 152,
+      "name": "Adept's Boltcasters",
+      "tier": "4.0",
+      "item_power": 750,
+      "identifier": "T4_2H_DUALCROSSBOW_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T4_2H_DUALCROSSBOW_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 6,
+        "name": "Crossbow",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 153,
+      "name": "Adept's Siegebow",
+      "tier": "4.0",
+      "item_power": 775,
+      "identifier": "T4_2H_CROSSBOWLARGE_MORGANA",
+      "icon": "https://render.albiononline.com/v1/item/T4_2H_CROSSBOWLARGE_MORGANA@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 6,
+        "name": "Crossbow",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 154,
+      "name": "Adept's Energy Shaper",
+      "tier": "4.0",
+      "item_power": 800,
+      "identifier": "T4_2H_CROSSBOW_CANNON_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T4_2H_CROSSBOW_CANNON_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 6,
+        "name": "Crossbow",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 155,
+      "name": "Expert's Heavy Crossbow",
+      "tier": "5.0",
+      "item_power": 800,
+      "identifier": "T5_2H_CROSSBOWLARGE",
+      "icon": "https://render.albiononline.com/v1/item/T5_2H_CROSSBOWLARGE@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 6,
+        "name": "Crossbow",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 156,
+      "name": "Expert's Crossbow",
+      "tier": "5.0",
+      "item_power": 800,
+      "identifier": "T5_2H_CROSSBOW",
+      "icon": "https://render.albiononline.com/v1/item/T5_2H_CROSSBOW@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 6,
+        "name": "Crossbow",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 157,
+      "name": "Expert's Light Crossbow",
+      "tier": "5.0",
+      "item_power": 800,
+      "identifier": "T5_MAIN_1HCROSSBOW",
+      "icon": "https://render.albiononline.com/v1/item/T5_MAIN_1HCROSSBOW@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 6,
+        "name": "Crossbow",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 158,
+      "name": "Expert's Weeping Repeater",
+      "tier": "5.0",
+      "item_power": 825,
+      "identifier": "T5_2H_REPEATINGCROSSBOW_UNDEAD",
+      "icon": "https://render.albiononline.com/v1/item/T5_2H_REPEATINGCROSSBOW_UNDEAD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 6,
+        "name": "Crossbow",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 159,
+      "name": "Expert's Boltcasters",
+      "tier": "5.0",
+      "item_power": 850,
+      "identifier": "T5_2H_DUALCROSSBOW_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T5_2H_DUALCROSSBOW_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 6,
+        "name": "Crossbow",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 160,
+      "name": "Expert's Siegebow",
+      "tier": "5.0",
+      "item_power": 875,
+      "identifier": "T5_2H_CROSSBOWLARGE_MORGANA",
+      "icon": "https://render.albiononline.com/v1/item/T5_2H_CROSSBOWLARGE_MORGANA@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 6,
+        "name": "Crossbow",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 161,
+      "name": "Expert's Energy Shaper",
+      "tier": "5.0",
+      "item_power": 900,
+      "identifier": "T5_2H_CROSSBOW_CANNON_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T5_2H_CROSSBOW_CANNON_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 6,
+        "name": "Crossbow",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 162,
+      "name": "Master's Crossbow",
+      "tier": "6.0",
+      "item_power": 900,
+      "identifier": "T6_2H_CROSSBOW",
+      "icon": "https://render.albiononline.com/v1/item/T6_2H_CROSSBOW@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 6,
+        "name": "Crossbow",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 163,
+      "name": "Master's Heavy Crossbow",
+      "tier": "6.0",
+      "item_power": 900,
+      "identifier": "T6_2H_CROSSBOWLARGE",
+      "icon": "https://render.albiononline.com/v1/item/T6_2H_CROSSBOWLARGE@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 6,
+        "name": "Crossbow",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 164,
+      "name": "Master's Light Crossbow",
+      "tier": "6.0",
+      "item_power": 900,
+      "identifier": "T6_MAIN_1HCROSSBOW",
+      "icon": "https://render.albiononline.com/v1/item/T6_MAIN_1HCROSSBOW@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 6,
+        "name": "Crossbow",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 165,
+      "name": "Master's Weeping Repeater",
+      "tier": "6.0",
+      "item_power": 925,
+      "identifier": "T6_2H_REPEATINGCROSSBOW_UNDEAD",
+      "icon": "https://render.albiononline.com/v1/item/T6_2H_REPEATINGCROSSBOW_UNDEAD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 6,
+        "name": "Crossbow",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 166,
+      "name": "Master's Boltcasters",
+      "tier": "6.0",
+      "item_power": 950,
+      "identifier": "T6_2H_DUALCROSSBOW_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T6_2H_DUALCROSSBOW_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 6,
+        "name": "Crossbow",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 167,
+      "name": "Master's Siegebow",
+      "tier": "6.0",
+      "item_power": 975,
+      "identifier": "T6_2H_CROSSBOWLARGE_MORGANA",
+      "icon": "https://render.albiononline.com/v1/item/T6_2H_CROSSBOWLARGE_MORGANA@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 6,
+        "name": "Crossbow",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 168,
+      "name": "Master's Energy Shaper",
+      "tier": "6.0",
+      "item_power": 1000,
+      "identifier": "T6_2H_CROSSBOW_CANNON_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T6_2H_CROSSBOW_CANNON_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 6,
+        "name": "Crossbow",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 169,
+      "name": "Grandmaster's Light Crossbow",
+      "tier": "7.0",
+      "item_power": 1000,
+      "identifier": "T7_MAIN_1HCROSSBOW",
+      "icon": "https://render.albiononline.com/v1/item/T7_MAIN_1HCROSSBOW@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 6,
+        "name": "Crossbow",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 170,
+      "name": "Grandmaster's Heavy Crossbow",
+      "tier": "7.0",
+      "item_power": 1000,
+      "identifier": "T7_2H_CROSSBOWLARGE",
+      "icon": "https://render.albiononline.com/v1/item/T7_2H_CROSSBOWLARGE@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 6,
+        "name": "Crossbow",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 171,
+      "name": "Grandmaster's Crossbow",
+      "tier": "7.0",
+      "item_power": 1000,
+      "identifier": "T7_2H_CROSSBOW",
+      "icon": "https://render.albiononline.com/v1/item/T7_2H_CROSSBOW@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 6,
+        "name": "Crossbow",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 172,
+      "name": "Grandmaster's Weeping Repeater",
+      "tier": "7.0",
+      "item_power": 1025,
+      "identifier": "T7_2H_REPEATINGCROSSBOW_UNDEAD",
+      "icon": "https://render.albiononline.com/v1/item/T7_2H_REPEATINGCROSSBOW_UNDEAD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 6,
+        "name": "Crossbow",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 173,
+      "name": "Grandmaster's Boltcasters",
+      "tier": "7.0",
+      "item_power": 1050,
+      "identifier": "T7_2H_DUALCROSSBOW_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T7_2H_DUALCROSSBOW_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 6,
+        "name": "Crossbow",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 174,
+      "name": "Grandmaster's Siegebow",
+      "tier": "7.0",
+      "item_power": 1075,
+      "identifier": "T7_2H_CROSSBOWLARGE_MORGANA",
+      "icon": "https://render.albiononline.com/v1/item/T7_2H_CROSSBOWLARGE_MORGANA@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 6,
+        "name": "Crossbow",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 175,
+      "name": "Grandmaster's Energy Shaper",
+      "tier": "7.0",
+      "item_power": 1100,
+      "identifier": "T7_2H_CROSSBOW_CANNON_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T7_2H_CROSSBOW_CANNON_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 6,
+        "name": "Crossbow",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 176,
+      "name": "Elder's Light Crossbow",
+      "tier": "8.0",
+      "item_power": 1100,
+      "identifier": "T8_MAIN_1HCROSSBOW",
+      "icon": "https://render.albiononline.com/v1/item/T8_MAIN_1HCROSSBOW@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 6,
+        "name": "Crossbow",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 177,
+      "name": "Elder's Heavy Crossbow",
+      "tier": "8.0",
+      "item_power": 1100,
+      "identifier": "T8_2H_CROSSBOWLARGE",
+      "icon": "https://render.albiononline.com/v1/item/T8_2H_CROSSBOWLARGE@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 6,
+        "name": "Crossbow",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 178,
+      "name": "Elder's Crossbow",
+      "tier": "8.0",
+      "item_power": 1100,
+      "identifier": "T8_2H_CROSSBOW",
+      "icon": "https://render.albiononline.com/v1/item/T8_2H_CROSSBOW@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 6,
+        "name": "Crossbow",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 179,
+      "name": "Elder's Weeping Repeater",
+      "tier": "8.0",
+      "item_power": 1125,
+      "identifier": "T8_2H_REPEATINGCROSSBOW_UNDEAD",
+      "icon": "https://render.albiononline.com/v1/item/T8_2H_REPEATINGCROSSBOW_UNDEAD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 6,
+        "name": "Crossbow",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 180,
+      "name": "Elder's Boltcasters",
+      "tier": "8.0",
+      "item_power": 1150,
+      "identifier": "T8_2H_DUALCROSSBOW_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T8_2H_DUALCROSSBOW_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 6,
+        "name": "Crossbow",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 181,
+      "name": "Elder's Siegebow",
+      "tier": "8.0",
+      "item_power": 1175,
+      "identifier": "T8_2H_CROSSBOWLARGE_MORGANA",
+      "icon": "https://render.albiononline.com/v1/item/T8_2H_CROSSBOWLARGE_MORGANA@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 6,
+        "name": "Crossbow",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 182,
+      "name": "Elder's Energy Shaper",
+      "tier": "8.0",
+      "item_power": 1200,
+      "identifier": "T8_2H_CROSSBOW_CANNON_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T8_2H_CROSSBOW_CANNON_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 6,
+        "name": "Crossbow",
+        "type": "weapon"
+      }
+    }
+  ]
+}

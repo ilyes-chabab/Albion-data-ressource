@@ -1,0 +1,994 @@
+{
+  "data": [
+    {
+      "id": 3,
+      "name": "Adept's Bridgewatch Cape",
+      "tier": "4.0",
+      "item_power": 700,
+      "identifier": "T4_CAPEITEM_FW_BRIDGEWATCH",
+      "icon": "https://render.albiononline.com/v1/item/T4_CAPEITEM_FW_BRIDGEWATCH@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 35,
+        "name": "Cape",
+        "type": "accessory"
+      },
+      "subcategory": {
+        "id": 38,
+        "name": "Faction Capes",
+        "type": "accessory"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Adept's Caerleon Cape",
+      "tier": "4.0",
+      "item_power": 700,
+      "identifier": "T4_CAPEITEM_FW_CAERLEON",
+      "icon": "https://render.albiononline.com/v1/item/T4_CAPEITEM_FW_CAERLEON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 35,
+        "name": "Cape",
+        "type": "accessory"
+      },
+      "subcategory": {
+        "id": 38,
+        "name": "Faction Capes",
+        "type": "accessory"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Adept's Demon Cape",
+      "tier": "4.0",
+      "item_power": 700,
+      "identifier": "T4_CAPEITEM_DEMON",
+      "icon": "https://render.albiononline.com/v1/item/T4_CAPEITEM_DEMON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 35,
+        "name": "Cape",
+        "type": "accessory"
+      },
+      "subcategory": {
+        "id": 38,
+        "name": "Faction Capes",
+        "type": "accessory"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Adept's Fort Sterling Cape",
+      "tier": "4.0",
+      "item_power": 700,
+      "identifier": "T4_CAPEITEM_FW_FORTSTERLING",
+      "icon": "https://render.albiononline.com/v1/item/T4_CAPEITEM_FW_FORTSTERLING@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 35,
+        "name": "Cape",
+        "type": "accessory"
+      },
+      "subcategory": {
+        "id": 38,
+        "name": "Faction Capes",
+        "type": "accessory"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Adept's Heretic Cape",
+      "tier": "4.0",
+      "item_power": 700,
+      "identifier": "T4_CAPEITEM_HERETIC",
+      "icon": "https://render.albiononline.com/v1/item/T4_CAPEITEM_HERETIC@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 35,
+        "name": "Cape",
+        "type": "accessory"
+      },
+      "subcategory": {
+        "id": 38,
+        "name": "Faction Capes",
+        "type": "accessory"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Adept's Keeper Cape",
+      "tier": "4.0",
+      "item_power": 700,
+      "identifier": "T4_CAPEITEM_KEEPER",
+      "icon": "https://render.albiononline.com/v1/item/T4_CAPEITEM_KEEPER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 35,
+        "name": "Cape",
+        "type": "accessory"
+      },
+      "subcategory": {
+        "id": 38,
+        "name": "Faction Capes",
+        "type": "accessory"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Adept's Lymhurst Cape",
+      "tier": "4.0",
+      "item_power": 700,
+      "identifier": "T4_CAPEITEM_FW_LYMHURST",
+      "icon": "https://render.albiononline.com/v1/item/T4_CAPEITEM_FW_LYMHURST@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 35,
+        "name": "Cape",
+        "type": "accessory"
+      },
+      "subcategory": {
+        "id": 38,
+        "name": "Faction Capes",
+        "type": "accessory"
+      }
+    },
+    {
+      "id": 11,
+      "name": "Adept's Martlock Cape",
+      "tier": "4.0",
+      "item_power": 700,
+      "identifier": "T4_CAPEITEM_FW_MARTLOCK",
+      "icon": "https://render.albiononline.com/v1/item/T4_CAPEITEM_FW_MARTLOCK@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 35,
+        "name": "Cape",
+        "type": "accessory"
+      },
+      "subcategory": {
+        "id": 38,
+        "name": "Faction Capes",
+        "type": "accessory"
+      }
+    },
+    {
+      "id": 12,
+      "name": "Adept's Morgana Cape",
+      "tier": "4.0",
+      "item_power": 700,
+      "identifier": "T4_CAPEITEM_MORGANA",
+      "icon": "https://render.albiononline.com/v1/item/T4_CAPEITEM_MORGANA@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 35,
+        "name": "Cape",
+        "type": "accessory"
+      },
+      "subcategory": {
+        "id": 38,
+        "name": "Faction Capes",
+        "type": "accessory"
+      }
+    },
+    {
+      "id": 13,
+      "name": "Adept's Thetford Cape",
+      "tier": "4.0",
+      "item_power": 700,
+      "identifier": "T4_CAPEITEM_FW_THETFORD",
+      "icon": "https://render.albiononline.com/v1/item/T4_CAPEITEM_FW_THETFORD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 35,
+        "name": "Cape",
+        "type": "accessory"
+      },
+      "subcategory": {
+        "id": 38,
+        "name": "Faction Capes",
+        "type": "accessory"
+      }
+    },
+    {
+      "id": 14,
+      "name": "Adept's Undead Cape",
+      "tier": "4.0",
+      "item_power": 700,
+      "identifier": "T4_CAPEITEM_UNDEAD",
+      "icon": "https://render.albiononline.com/v1/item/T4_CAPEITEM_UNDEAD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 35,
+        "name": "Cape",
+        "type": "accessory"
+      },
+      "subcategory": {
+        "id": 38,
+        "name": "Faction Capes",
+        "type": "accessory"
+      }
+    },
+    {
+      "id": 15,
+      "name": "Expert's Bridgewatch Cape",
+      "tier": "5.0",
+      "item_power": 800,
+      "identifier": "T5_CAPEITEM_FW_BRIDGEWATCH",
+      "icon": "https://render.albiononline.com/v1/item/T5_CAPEITEM_FW_BRIDGEWATCH@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 35,
+        "name": "Cape",
+        "type": "accessory"
+      },
+      "subcategory": {
+        "id": 38,
+        "name": "Faction Capes",
+        "type": "accessory"
+      }
+    },
+    {
+      "id": 16,
+      "name": "Expert's Caerleon Cape",
+      "tier": "5.0",
+      "item_power": 800,
+      "identifier": "T5_CAPEITEM_FW_CAERLEON",
+      "icon": "https://render.albiononline.com/v1/item/T5_CAPEITEM_FW_CAERLEON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 35,
+        "name": "Cape",
+        "type": "accessory"
+      },
+      "subcategory": {
+        "id": 38,
+        "name": "Faction Capes",
+        "type": "accessory"
+      }
+    },
+    {
+      "id": 18,
+      "name": "Expert's Demon Cape",
+      "tier": "5.0",
+      "item_power": 800,
+      "identifier": "T5_CAPEITEM_DEMON",
+      "icon": "https://render.albiononline.com/v1/item/T5_CAPEITEM_DEMON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 35,
+        "name": "Cape",
+        "type": "accessory"
+      },
+      "subcategory": {
+        "id": 38,
+        "name": "Faction Capes",
+        "type": "accessory"
+      }
+    },
+    {
+      "id": 19,
+      "name": "Expert's Fort Sterling Cape",
+      "tier": "5.0",
+      "item_power": 800,
+      "identifier": "T5_CAPEITEM_FW_FORTSTERLING",
+      "icon": "https://render.albiononline.com/v1/item/T5_CAPEITEM_FW_FORTSTERLING@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 35,
+        "name": "Cape",
+        "type": "accessory"
+      },
+      "subcategory": {
+        "id": 38,
+        "name": "Faction Capes",
+        "type": "accessory"
+      }
+    },
+    {
+      "id": 20,
+      "name": "Expert's Heretic Cape",
+      "tier": "5.0",
+      "item_power": 800,
+      "identifier": "T5_CAPEITEM_HERETIC",
+      "icon": "https://render.albiononline.com/v1/item/T5_CAPEITEM_HERETIC@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 35,
+        "name": "Cape",
+        "type": "accessory"
+      },
+      "subcategory": {
+        "id": 38,
+        "name": "Faction Capes",
+        "type": "accessory"
+      }
+    },
+    {
+      "id": 21,
+      "name": "Expert's Keeper Cape",
+      "tier": "5.0",
+      "item_power": 800,
+      "identifier": "T5_CAPEITEM_KEEPER",
+      "icon": "https://render.albiononline.com/v1/item/T5_CAPEITEM_KEEPER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 35,
+        "name": "Cape",
+        "type": "accessory"
+      },
+      "subcategory": {
+        "id": 38,
+        "name": "Faction Capes",
+        "type": "accessory"
+      }
+    },
+    {
+      "id": 22,
+      "name": "Expert's Lymhurst Cape",
+      "tier": "5.0",
+      "item_power": 800,
+      "identifier": "T5_CAPEITEM_FW_LYMHURST",
+      "icon": "https://render.albiononline.com/v1/item/T5_CAPEITEM_FW_LYMHURST@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 35,
+        "name": "Cape",
+        "type": "accessory"
+      },
+      "subcategory": {
+        "id": 38,
+        "name": "Faction Capes",
+        "type": "accessory"
+      }
+    },
+    {
+      "id": 23,
+      "name": "Expert's Martlock Cape",
+      "tier": "5.0",
+      "item_power": 800,
+      "identifier": "T5_CAPEITEM_FW_MARTLOCK",
+      "icon": "https://render.albiononline.com/v1/item/T5_CAPEITEM_FW_MARTLOCK@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 35,
+        "name": "Cape",
+        "type": "accessory"
+      },
+      "subcategory": {
+        "id": 38,
+        "name": "Faction Capes",
+        "type": "accessory"
+      }
+    },
+    {
+      "id": 24,
+      "name": "Expert's Morgana Cape",
+      "tier": "5.0",
+      "item_power": 800,
+      "identifier": "T5_CAPEITEM_MORGANA",
+      "icon": "https://render.albiononline.com/v1/item/T5_CAPEITEM_MORGANA@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 35,
+        "name": "Cape",
+        "type": "accessory"
+      },
+      "subcategory": {
+        "id": 38,
+        "name": "Faction Capes",
+        "type": "accessory"
+      }
+    },
+    {
+      "id": 25,
+      "name": "Expert's Thetford Cape",
+      "tier": "5.0",
+      "item_power": 800,
+      "identifier": "T5_CAPEITEM_FW_THETFORD",
+      "icon": "https://render.albiononline.com/v1/item/T5_CAPEITEM_FW_THETFORD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 35,
+        "name": "Cape",
+        "type": "accessory"
+      },
+      "subcategory": {
+        "id": 38,
+        "name": "Faction Capes",
+        "type": "accessory"
+      }
+    },
+    {
+      "id": 26,
+      "name": "Expert's Undead Cape",
+      "tier": "5.0",
+      "item_power": 800,
+      "identifier": "T5_CAPEITEM_UNDEAD",
+      "icon": "https://render.albiononline.com/v1/item/T5_CAPEITEM_UNDEAD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 35,
+        "name": "Cape",
+        "type": "accessory"
+      },
+      "subcategory": {
+        "id": 38,
+        "name": "Faction Capes",
+        "type": "accessory"
+      }
+    },
+    {
+      "id": 27,
+      "name": "Master's Bridgewatch Cape",
+      "tier": "6.0",
+      "item_power": 900,
+      "identifier": "T6_CAPEITEM_FW_BRIDGEWATCH",
+      "icon": "https://render.albiononline.com/v1/item/T6_CAPEITEM_FW_BRIDGEWATCH@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 35,
+        "name": "Cape",
+        "type": "accessory"
+      },
+      "subcategory": {
+        "id": 38,
+        "name": "Faction Capes",
+        "type": "accessory"
+      }
+    },
+    {
+      "id": 28,
+      "name": "Master's Caerleon Cape",
+      "tier": "6.0",
+      "item_power": 900,
+      "identifier": "T6_CAPEITEM_FW_CAERLEON",
+      "icon": "https://render.albiononline.com/v1/item/T6_CAPEITEM_FW_CAERLEON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 35,
+        "name": "Cape",
+        "type": "accessory"
+      },
+      "subcategory": {
+        "id": 38,
+        "name": "Faction Capes",
+        "type": "accessory"
+      }
+    },
+    {
+      "id": 30,
+      "name": "Master's Demon Cape",
+      "tier": "6.0",
+      "item_power": 900,
+      "identifier": "T6_CAPEITEM_DEMON",
+      "icon": "https://render.albiononline.com/v1/item/T6_CAPEITEM_DEMON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 35,
+        "name": "Cape",
+        "type": "accessory"
+      },
+      "subcategory": {
+        "id": 38,
+        "name": "Faction Capes",
+        "type": "accessory"
+      }
+    },
+    {
+      "id": 31,
+      "name": "Master's Fort Sterling Cape",
+      "tier": "6.0",
+      "item_power": 900,
+      "identifier": "T6_CAPEITEM_FW_FORTSTERLING",
+      "icon": "https://render.albiononline.com/v1/item/T6_CAPEITEM_FW_FORTSTERLING@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 35,
+        "name": "Cape",
+        "type": "accessory"
+      },
+      "subcategory": {
+        "id": 38,
+        "name": "Faction Capes",
+        "type": "accessory"
+      }
+    },
+    {
+      "id": 32,
+      "name": "Master's Heretic Cape",
+      "tier": "6.0",
+      "item_power": 900,
+      "identifier": "T6_CAPEITEM_HERETIC",
+      "icon": "https://render.albiononline.com/v1/item/T6_CAPEITEM_HERETIC@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 35,
+        "name": "Cape",
+        "type": "accessory"
+      },
+      "subcategory": {
+        "id": 38,
+        "name": "Faction Capes",
+        "type": "accessory"
+      }
+    },
+    {
+      "id": 33,
+      "name": "Master's Keeper Cape",
+      "tier": "6.0",
+      "item_power": 900,
+      "identifier": "T6_CAPEITEM_KEEPER",
+      "icon": "https://render.albiononline.com/v1/item/T6_CAPEITEM_KEEPER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 35,
+        "name": "Cape",
+        "type": "accessory"
+      },
+      "subcategory": {
+        "id": 38,
+        "name": "Faction Capes",
+        "type": "accessory"
+      }
+    },
+    {
+      "id": 34,
+      "name": "Master's Lymhurst Cape",
+      "tier": "6.0",
+      "item_power": 900,
+      "identifier": "T6_CAPEITEM_FW_LYMHURST",
+      "icon": "https://render.albiononline.com/v1/item/T6_CAPEITEM_FW_LYMHURST@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 35,
+        "name": "Cape",
+        "type": "accessory"
+      },
+      "subcategory": {
+        "id": 38,
+        "name": "Faction Capes",
+        "type": "accessory"
+      }
+    },
+    {
+      "id": 35,
+      "name": "Master's Martlock Cape",
+      "tier": "6.0",
+      "item_power": 900,
+      "identifier": "T6_CAPEITEM_FW_MARTLOCK",
+      "icon": "https://render.albiononline.com/v1/item/T6_CAPEITEM_FW_MARTLOCK@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 35,
+        "name": "Cape",
+        "type": "accessory"
+      },
+      "subcategory": {
+        "id": 38,
+        "name": "Faction Capes",
+        "type": "accessory"
+      }
+    },
+    {
+      "id": 36,
+      "name": "Master's Morgana Cape",
+      "tier": "6.0",
+      "item_power": 900,
+      "identifier": "T6_CAPEITEM_MORGANA",
+      "icon": "https://render.albiononline.com/v1/item/T6_CAPEITEM_MORGANA@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 35,
+        "name": "Cape",
+        "type": "accessory"
+      },
+      "subcategory": {
+        "id": 38,
+        "name": "Faction Capes",
+        "type": "accessory"
+      }
+    },
+    {
+      "id": 37,
+      "name": "Master's Thetford Cape",
+      "tier": "6.0",
+      "item_power": 900,
+      "identifier": "T6_CAPEITEM_FW_THETFORD",
+      "icon": "https://render.albiononline.com/v1/item/T6_CAPEITEM_FW_THETFORD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 35,
+        "name": "Cape",
+        "type": "accessory"
+      },
+      "subcategory": {
+        "id": 38,
+        "name": "Faction Capes",
+        "type": "accessory"
+      }
+    },
+    {
+      "id": 38,
+      "name": "Master's Undead Cape",
+      "tier": "6.0",
+      "item_power": 900,
+      "identifier": "T6_CAPEITEM_UNDEAD",
+      "icon": "https://render.albiononline.com/v1/item/T6_CAPEITEM_UNDEAD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 35,
+        "name": "Cape",
+        "type": "accessory"
+      },
+      "subcategory": {
+        "id": 38,
+        "name": "Faction Capes",
+        "type": "accessory"
+      }
+    },
+    {
+      "id": 39,
+      "name": "Grandmaster's Bridgewatch Cape",
+      "tier": "7.0",
+      "item_power": 1000,
+      "identifier": "T7_CAPEITEM_FW_BRIDGEWATCH",
+      "icon": "https://render.albiononline.com/v1/item/T7_CAPEITEM_FW_BRIDGEWATCH@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 35,
+        "name": "Cape",
+        "type": "accessory"
+      },
+      "subcategory": {
+        "id": 38,
+        "name": "Faction Capes",
+        "type": "accessory"
+      }
+    },
+    {
+      "id": 40,
+      "name": "Grandmaster's Caerleon Cape",
+      "tier": "7.0",
+      "item_power": 1000,
+      "identifier": "T7_CAPEITEM_FW_CAERLEON",
+      "icon": "https://render.albiononline.com/v1/item/T7_CAPEITEM_FW_CAERLEON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 35,
+        "name": "Cape",
+        "type": "accessory"
+      },
+      "subcategory": {
+        "id": 38,
+        "name": "Faction Capes",
+        "type": "accessory"
+      }
+    },
+    {
+      "id": 42,
+      "name": "Grandmaster's Demon Cape",
+      "tier": "7.0",
+      "item_power": 1000,
+      "identifier": "T7_CAPEITEM_DEMON",
+      "icon": "https://render.albiononline.com/v1/item/T7_CAPEITEM_DEMON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 35,
+        "name": "Cape",
+        "type": "accessory"
+      },
+      "subcategory": {
+        "id": 38,
+        "name": "Faction Capes",
+        "type": "accessory"
+      }
+    },
+    {
+      "id": 43,
+      "name": "Grandmaster's Fort Sterling Cape",
+      "tier": "7.0",
+      "item_power": 1000,
+      "identifier": "T7_CAPEITEM_FW_FORTSTERLING",
+      "icon": "https://render.albiononline.com/v1/item/T7_CAPEITEM_FW_FORTSTERLING@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 35,
+        "name": "Cape",
+        "type": "accessory"
+      },
+      "subcategory": {
+        "id": 38,
+        "name": "Faction Capes",
+        "type": "accessory"
+      }
+    },
+    {
+      "id": 44,
+      "name": "Grandmaster's Heretic Cape",
+      "tier": "7.0",
+      "item_power": 1000,
+      "identifier": "T7_CAPEITEM_HERETIC",
+      "icon": "https://render.albiononline.com/v1/item/T7_CAPEITEM_HERETIC@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 35,
+        "name": "Cape",
+        "type": "accessory"
+      },
+      "subcategory": {
+        "id": 38,
+        "name": "Faction Capes",
+        "type": "accessory"
+      }
+    },
+    {
+      "id": 45,
+      "name": "Grandmaster's Keeper Cape",
+      "tier": "7.0",
+      "item_power": 1000,
+      "identifier": "T7_CAPEITEM_KEEPER",
+      "icon": "https://render.albiononline.com/v1/item/T7_CAPEITEM_KEEPER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 35,
+        "name": "Cape",
+        "type": "accessory"
+      },
+      "subcategory": {
+        "id": 38,
+        "name": "Faction Capes",
+        "type": "accessory"
+      }
+    },
+    {
+      "id": 46,
+      "name": "Grandmaster's Lymhurst Cape",
+      "tier": "7.0",
+      "item_power": 1000,
+      "identifier": "T7_CAPEITEM_FW_LYMHURST",
+      "icon": "https://render.albiononline.com/v1/item/T7_CAPEITEM_FW_LYMHURST@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 35,
+        "name": "Cape",
+        "type": "accessory"
+      },
+      "subcategory": {
+        "id": 38,
+        "name": "Faction Capes",
+        "type": "accessory"
+      }
+    },
+    {
+      "id": 47,
+      "name": "Grandmaster's Martlock Cape",
+      "tier": "7.0",
+      "item_power": 1000,
+      "identifier": "T7_CAPEITEM_FW_MARTLOCK",
+      "icon": "https://render.albiononline.com/v1/item/T7_CAPEITEM_FW_MARTLOCK@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 35,
+        "name": "Cape",
+        "type": "accessory"
+      },
+      "subcategory": {
+        "id": 38,
+        "name": "Faction Capes",
+        "type": "accessory"
+      }
+    },
+    {
+      "id": 48,
+      "name": "Grandmaster's Morgana Cape",
+      "tier": "7.0",
+      "item_power": 1000,
+      "identifier": "T7_CAPEITEM_MORGANA",
+      "icon": "https://render.albiononline.com/v1/item/T7_CAPEITEM_MORGANA@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 35,
+        "name": "Cape",
+        "type": "accessory"
+      },
+      "subcategory": {
+        "id": 38,
+        "name": "Faction Capes",
+        "type": "accessory"
+      }
+    },
+    {
+      "id": 49,
+      "name": "Grandmaster's Thetford Cape",
+      "tier": "7.0",
+      "item_power": 1000,
+      "identifier": "T7_CAPEITEM_FW_THETFORD",
+      "icon": "https://render.albiononline.com/v1/item/T7_CAPEITEM_FW_THETFORD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 35,
+        "name": "Cape",
+        "type": "accessory"
+      },
+      "subcategory": {
+        "id": 38,
+        "name": "Faction Capes",
+        "type": "accessory"
+      }
+    },
+    {
+      "id": 50,
+      "name": "Grandmaster's Undead Cape",
+      "tier": "7.0",
+      "item_power": 1000,
+      "identifier": "T7_CAPEITEM_UNDEAD",
+      "icon": "https://render.albiononline.com/v1/item/T7_CAPEITEM_UNDEAD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 35,
+        "name": "Cape",
+        "type": "accessory"
+      },
+      "subcategory": {
+        "id": 38,
+        "name": "Faction Capes",
+        "type": "accessory"
+      }
+    },
+    {
+      "id": 51,
+      "name": "Elder's Bridgewatch Cape",
+      "tier": "8.0",
+      "item_power": 1100,
+      "identifier": "T8_CAPEITEM_FW_BRIDGEWATCH",
+      "icon": "https://render.albiononline.com/v1/item/T8_CAPEITEM_FW_BRIDGEWATCH@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 35,
+        "name": "Cape",
+        "type": "accessory"
+      },
+      "subcategory": {
+        "id": 38,
+        "name": "Faction Capes",
+        "type": "accessory"
+      }
+    },
+    {
+      "id": 52,
+      "name": "Elder's Caerleon Cape",
+      "tier": "8.0",
+      "item_power": 1100,
+      "identifier": "T8_CAPEITEM_FW_CAERLEON",
+      "icon": "https://render.albiononline.com/v1/item/T8_CAPEITEM_FW_CAERLEON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 35,
+        "name": "Cape",
+        "type": "accessory"
+      },
+      "subcategory": {
+        "id": 38,
+        "name": "Faction Capes",
+        "type": "accessory"
+      }
+    },
+    {
+      "id": 54,
+      "name": "Elder's Demon Cape",
+      "tier": "8.0",
+      "item_power": 1100,
+      "identifier": "T8_CAPEITEM_DEMON",
+      "icon": "https://render.albiononline.com/v1/item/T8_CAPEITEM_DEMON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 35,
+        "name": "Cape",
+        "type": "accessory"
+      },
+      "subcategory": {
+        "id": 38,
+        "name": "Faction Capes",
+        "type": "accessory"
+      }
+    },
+    {
+      "id": 55,
+      "name": "Elder's Fort Sterling Cape",
+      "tier": "8.0",
+      "item_power": 1100,
+      "identifier": "T8_CAPEITEM_FW_FORTSTERLING",
+      "icon": "https://render.albiononline.com/v1/item/T8_CAPEITEM_FW_FORTSTERLING@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 35,
+        "name": "Cape",
+        "type": "accessory"
+      },
+      "subcategory": {
+        "id": 38,
+        "name": "Faction Capes",
+        "type": "accessory"
+      }
+    },
+    {
+      "id": 56,
+      "name": "Elder's Heretic Cape",
+      "tier": "8.0",
+      "item_power": 1100,
+      "identifier": "T8_CAPEITEM_HERETIC",
+      "icon": "https://render.albiononline.com/v1/item/T8_CAPEITEM_HERETIC@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 35,
+        "name": "Cape",
+        "type": "accessory"
+      },
+      "subcategory": {
+        "id": 38,
+        "name": "Faction Capes",
+        "type": "accessory"
+      }
+    },
+    {
+      "id": 57,
+      "name": "Elder's Keeper Cape",
+      "tier": "8.0",
+      "item_power": 1100,
+      "identifier": "T8_CAPEITEM_KEEPER",
+      "icon": "https://render.albiononline.com/v1/item/T8_CAPEITEM_KEEPER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 35,
+        "name": "Cape",
+        "type": "accessory"
+      },
+      "subcategory": {
+        "id": 38,
+        "name": "Faction Capes",
+        "type": "accessory"
+      }
+    },
+    {
+      "id": 58,
+      "name": "Elder's Lymhurst Cape",
+      "tier": "8.0",
+      "item_power": 1100,
+      "identifier": "T8_CAPEITEM_FW_LYMHURST",
+      "icon": "https://render.albiononline.com/v1/item/T8_CAPEITEM_FW_LYMHURST@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 35,
+        "name": "Cape",
+        "type": "accessory"
+      },
+      "subcategory": {
+        "id": 38,
+        "name": "Faction Capes",
+        "type": "accessory"
+      }
+    },
+    {
+      "id": 59,
+      "name": "Elder's Martlock Cape",
+      "tier": "8.0",
+      "item_power": 1100,
+      "identifier": "T8_CAPEITEM_FW_MARTLOCK",
+      "icon": "https://render.albiononline.com/v1/item/T8_CAPEITEM_FW_MARTLOCK@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 35,
+        "name": "Cape",
+        "type": "accessory"
+      },
+      "subcategory": {
+        "id": 38,
+        "name": "Faction Capes",
+        "type": "accessory"
+      }
+    },
+    {
+      "id": 60,
+      "name": "Elder's Morgana Cape",
+      "tier": "8.0",
+      "item_power": 1100,
+      "identifier": "T8_CAPEITEM_MORGANA",
+      "icon": "https://render.albiononline.com/v1/item/T8_CAPEITEM_MORGANA@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 35,
+        "name": "Cape",
+        "type": "accessory"
+      },
+      "subcategory": {
+        "id": 38,
+        "name": "Faction Capes",
+        "type": "accessory"
+      }
+    },
+    {
+      "id": 61,
+      "name": "Elder's Thetford Cape",
+      "tier": "8.0",
+      "item_power": 1100,
+      "identifier": "T8_CAPEITEM_FW_THETFORD",
+      "icon": "https://render.albiononline.com/v1/item/T8_CAPEITEM_FW_THETFORD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 35,
+        "name": "Cape",
+        "type": "accessory"
+      },
+      "subcategory": {
+        "id": 38,
+        "name": "Faction Capes",
+        "type": "accessory"
+      }
+    },
+    {
+      "id": 62,
+      "name": "Elder's Undead Cape",
+      "tier": "8.0",
+      "item_power": 1100,
+      "identifier": "T8_CAPEITEM_UNDEAD",
+      "icon": "https://render.albiononline.com/v1/item/T8_CAPEITEM_UNDEAD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 35,
+        "name": "Cape",
+        "type": "accessory"
+      },
+      "subcategory": {
+        "id": 38,
+        "name": "Faction Capes",
+        "type": "accessory"
+      }
+    }
+  ]
+}

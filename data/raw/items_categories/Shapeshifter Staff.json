@@ -1,0 +1,652 @@
+{
+  "data": [
+    {
+      "id": 669,
+      "name": "Journeyman's Prowling Staff",
+      "tier": "3.0",
+      "item_power": 500,
+      "identifier": "T3_2H_SHAPESHIFTER_SET1",
+      "icon": "https://render.albiononline.com/v1/item/T3_2H_SHAPESHIFTER_SET1@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 69,
+        "name": "Shapeshifter Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 670,
+      "name": "Adept's Prowling Staff",
+      "tier": "4.0",
+      "item_power": 700,
+      "identifier": "T4_2H_SHAPESHIFTER_SET1",
+      "icon": "https://render.albiononline.com/v1/item/T4_2H_SHAPESHIFTER_SET1@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 69,
+        "name": "Shapeshifter Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 671,
+      "name": "Expert's Prowling Staff",
+      "tier": "5.0",
+      "item_power": 800,
+      "identifier": "T5_2H_SHAPESHIFTER_SET1",
+      "icon": "https://render.albiononline.com/v1/item/T5_2H_SHAPESHIFTER_SET1@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 69,
+        "name": "Shapeshifter Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 672,
+      "name": "Master's Prowling Staff",
+      "tier": "6.0",
+      "item_power": 900,
+      "identifier": "T6_2H_SHAPESHIFTER_SET1",
+      "icon": "https://render.albiononline.com/v1/item/T6_2H_SHAPESHIFTER_SET1@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 69,
+        "name": "Shapeshifter Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 673,
+      "name": "Grandmaster's Prowling Staff",
+      "tier": "7.0",
+      "item_power": 1000,
+      "identifier": "T7_2H_SHAPESHIFTER_SET1",
+      "icon": "https://render.albiononline.com/v1/item/T7_2H_SHAPESHIFTER_SET1@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 69,
+        "name": "Shapeshifter Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 674,
+      "name": "Elder's Prowling Staff",
+      "tier": "8.0",
+      "item_power": 1100,
+      "identifier": "T8_2H_SHAPESHIFTER_SET1",
+      "icon": "https://render.albiononline.com/v1/item/T8_2H_SHAPESHIFTER_SET1@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 69,
+        "name": "Shapeshifter Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 675,
+      "name": "Adept's Rootbound Staff",
+      "tier": "4.0",
+      "item_power": 700,
+      "identifier": "T4_2H_SHAPESHIFTER_SET2",
+      "icon": "https://render.albiononline.com/v1/item/T4_2H_SHAPESHIFTER_SET2@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 69,
+        "name": "Shapeshifter Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 676,
+      "name": "Expert's Rootbound Staff",
+      "tier": "5.0",
+      "item_power": 800,
+      "identifier": "T5_2H_SHAPESHIFTER_SET2",
+      "icon": "https://render.albiononline.com/v1/item/T5_2H_SHAPESHIFTER_SET2@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 69,
+        "name": "Shapeshifter Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 677,
+      "name": "Master's Rootbound Staff",
+      "tier": "6.0",
+      "item_power": 900,
+      "identifier": "T6_2H_SHAPESHIFTER_SET2",
+      "icon": "https://render.albiononline.com/v1/item/T6_2H_SHAPESHIFTER_SET2@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 69,
+        "name": "Shapeshifter Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 678,
+      "name": "Grandmaster's Rootbound Staff",
+      "tier": "7.0",
+      "item_power": 1000,
+      "identifier": "T7_2H_SHAPESHIFTER_SET2",
+      "icon": "https://render.albiononline.com/v1/item/T7_2H_SHAPESHIFTER_SET2@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 69,
+        "name": "Shapeshifter Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 679,
+      "name": "Elder's Rootbound Staff",
+      "tier": "8.0",
+      "item_power": 1100,
+      "identifier": "T8_2H_SHAPESHIFTER_SET2",
+      "icon": "https://render.albiononline.com/v1/item/T8_2H_SHAPESHIFTER_SET2@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 69,
+        "name": "Shapeshifter Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 680,
+      "name": "Adept's Primal Staff",
+      "tier": "4.0",
+      "item_power": 700,
+      "identifier": "T4_2H_SHAPESHIFTER_SET3",
+      "icon": "https://render.albiononline.com/v1/item/T4_2H_SHAPESHIFTER_SET3@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 69,
+        "name": "Shapeshifter Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 681,
+      "name": "Expert's Primal Staff",
+      "tier": "5.0",
+      "item_power": 800,
+      "identifier": "T5_2H_SHAPESHIFTER_SET3",
+      "icon": "https://render.albiononline.com/v1/item/T5_2H_SHAPESHIFTER_SET3@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 69,
+        "name": "Shapeshifter Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 682,
+      "name": "Master's Primal Staff",
+      "tier": "6.0",
+      "item_power": 900,
+      "identifier": "T6_2H_SHAPESHIFTER_SET3",
+      "icon": "https://render.albiononline.com/v1/item/T6_2H_SHAPESHIFTER_SET3@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 69,
+        "name": "Shapeshifter Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 683,
+      "name": "Grandmaster's Primal Staff",
+      "tier": "7.0",
+      "item_power": 1000,
+      "identifier": "T7_2H_SHAPESHIFTER_SET3",
+      "icon": "https://render.albiononline.com/v1/item/T7_2H_SHAPESHIFTER_SET3@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 69,
+        "name": "Shapeshifter Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 684,
+      "name": "Elder's Primal Staff",
+      "tier": "8.0",
+      "item_power": 1100,
+      "identifier": "T8_2H_SHAPESHIFTER_SET3",
+      "icon": "https://render.albiononline.com/v1/item/T8_2H_SHAPESHIFTER_SET3@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 69,
+        "name": "Shapeshifter Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 685,
+      "name": "Adept's Bloodmoon Staff",
+      "tier": "4.0",
+      "item_power": 725,
+      "identifier": "T4_2H_SHAPESHIFTER_MORGANA",
+      "icon": "https://render.albiononline.com/v1/item/T4_2H_SHAPESHIFTER_MORGANA@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 69,
+        "name": "Shapeshifter Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 686,
+      "name": "Expert's Bloodmoon Staff",
+      "tier": "5.0",
+      "item_power": 825,
+      "identifier": "T5_2H_SHAPESHIFTER_MORGANA",
+      "icon": "https://render.albiononline.com/v1/item/T5_2H_SHAPESHIFTER_MORGANA@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 69,
+        "name": "Shapeshifter Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 687,
+      "name": "Master's Bloodmoon Staff",
+      "tier": "6.0",
+      "item_power": 925,
+      "identifier": "T6_2H_SHAPESHIFTER_MORGANA",
+      "icon": "https://render.albiononline.com/v1/item/T6_2H_SHAPESHIFTER_MORGANA@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 69,
+        "name": "Shapeshifter Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 688,
+      "name": "Grandmaster's Bloodmoon Staff",
+      "tier": "7.0",
+      "item_power": 1025,
+      "identifier": "T7_2H_SHAPESHIFTER_MORGANA",
+      "icon": "https://render.albiononline.com/v1/item/T7_2H_SHAPESHIFTER_MORGANA@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 69,
+        "name": "Shapeshifter Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 689,
+      "name": "Elder's Bloodmoon Staff",
+      "tier": "8.0",
+      "item_power": 1125,
+      "identifier": "T8_2H_SHAPESHIFTER_MORGANA",
+      "icon": "https://render.albiononline.com/v1/item/T8_2H_SHAPESHIFTER_MORGANA@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 69,
+        "name": "Shapeshifter Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 690,
+      "name": "Adept's Hellspawn Staff",
+      "tier": "4.0",
+      "item_power": 750,
+      "identifier": "T4_2H_SHAPESHIFTER_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T4_2H_SHAPESHIFTER_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 69,
+        "name": "Shapeshifter Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 691,
+      "name": "Expert's Hellspawn Staff",
+      "tier": "5.0",
+      "item_power": 850,
+      "identifier": "T5_2H_SHAPESHIFTER_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T5_2H_SHAPESHIFTER_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 69,
+        "name": "Shapeshifter Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 692,
+      "name": "Master's Hellspawn Staff",
+      "tier": "6.0",
+      "item_power": 950,
+      "identifier": "T6_2H_SHAPESHIFTER_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T6_2H_SHAPESHIFTER_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 69,
+        "name": "Shapeshifter Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 693,
+      "name": "Grandmaster's Hellspawn Staff",
+      "tier": "7.0",
+      "item_power": 1050,
+      "identifier": "T7_2H_SHAPESHIFTER_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T7_2H_SHAPESHIFTER_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 69,
+        "name": "Shapeshifter Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 694,
+      "name": "Elder's Hellspawn Staff",
+      "tier": "8.0",
+      "item_power": 1150,
+      "identifier": "T8_2H_SHAPESHIFTER_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T8_2H_SHAPESHIFTER_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 69,
+        "name": "Shapeshifter Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 695,
+      "name": "Adept's Earthrune Staff",
+      "tier": "4.0",
+      "item_power": 775,
+      "identifier": "T4_2H_SHAPESHIFTER_KEEPER",
+      "icon": "https://render.albiononline.com/v1/item/T4_2H_SHAPESHIFTER_KEEPER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 69,
+        "name": "Shapeshifter Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 696,
+      "name": "Expert's Earthrune Staff",
+      "tier": "5.0",
+      "item_power": 875,
+      "identifier": "T5_2H_SHAPESHIFTER_KEEPER",
+      "icon": "https://render.albiononline.com/v1/item/T5_2H_SHAPESHIFTER_KEEPER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 69,
+        "name": "Shapeshifter Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 697,
+      "name": "Master's Earthrune Staff",
+      "tier": "6.0",
+      "item_power": 975,
+      "identifier": "T6_2H_SHAPESHIFTER_KEEPER",
+      "icon": "https://render.albiononline.com/v1/item/T6_2H_SHAPESHIFTER_KEEPER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 69,
+        "name": "Shapeshifter Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 698,
+      "name": "Grandmaster's Earthrune Staff",
+      "tier": "7.0",
+      "item_power": 1075,
+      "identifier": "T7_2H_SHAPESHIFTER_KEEPER",
+      "icon": "https://render.albiononline.com/v1/item/T7_2H_SHAPESHIFTER_KEEPER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 69,
+        "name": "Shapeshifter Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 699,
+      "name": "Elder's Earthrune Staff",
+      "tier": "8.0",
+      "item_power": 1175,
+      "identifier": "T8_2H_SHAPESHIFTER_KEEPER",
+      "icon": "https://render.albiononline.com/v1/item/T8_2H_SHAPESHIFTER_KEEPER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 69,
+        "name": "Shapeshifter Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 700,
+      "name": "Adept's Lightcaller",
+      "tier": "4.0",
+      "item_power": 800,
+      "identifier": "T4_2H_SHAPESHIFTER_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T4_2H_SHAPESHIFTER_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 69,
+        "name": "Shapeshifter Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 701,
+      "name": "Expert's Lightcaller",
+      "tier": "5.0",
+      "item_power": 900,
+      "identifier": "T5_2H_SHAPESHIFTER_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T5_2H_SHAPESHIFTER_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 69,
+        "name": "Shapeshifter Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 702,
+      "name": "Master's Lightcaller",
+      "tier": "6.0",
+      "item_power": 1000,
+      "identifier": "T6_2H_SHAPESHIFTER_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T6_2H_SHAPESHIFTER_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 69,
+        "name": "Shapeshifter Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 703,
+      "name": "Grandmaster's Lightcaller",
+      "tier": "7.0",
+      "item_power": 1100,
+      "identifier": "T7_2H_SHAPESHIFTER_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T7_2H_SHAPESHIFTER_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 69,
+        "name": "Shapeshifter Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 704,
+      "name": "Elder's Lightcaller",
+      "tier": "8.0",
+      "item_power": 1200,
+      "identifier": "T8_2H_SHAPESHIFTER_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T8_2H_SHAPESHIFTER_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 69,
+        "name": "Shapeshifter Staff",
+        "type": "weapon"
+      }
+    }
+  ]
+}

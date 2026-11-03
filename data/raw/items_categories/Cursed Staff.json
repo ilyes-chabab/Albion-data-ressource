@@ -1,0 +1,652 @@
+{
+  "data": [
+    {
+      "id": 578,
+      "name": "Journeyman's Cursed Staff",
+      "tier": "3.0",
+      "item_power": 500,
+      "identifier": "T3_MAIN_CURSEDSTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T3_MAIN_CURSEDSTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 21,
+        "name": "Cursed Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 579,
+      "name": "Adept's Great Cursed Staff",
+      "tier": "4.0",
+      "item_power": 700,
+      "identifier": "T4_2H_CURSEDSTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T4_2H_CURSEDSTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 21,
+        "name": "Cursed Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 580,
+      "name": "Adept's Demonic Staff",
+      "tier": "4.0",
+      "item_power": 700,
+      "identifier": "T4_2H_DEMONICSTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T4_2H_DEMONICSTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 21,
+        "name": "Cursed Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 581,
+      "name": "Adept's Cursed Staff",
+      "tier": "4.0",
+      "item_power": 700,
+      "identifier": "T4_MAIN_CURSEDSTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T4_MAIN_CURSEDSTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 21,
+        "name": "Cursed Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 582,
+      "name": "Adept's Lifecurse Staff",
+      "tier": "4.0",
+      "item_power": 725,
+      "identifier": "T4_MAIN_CURSEDSTAFF_UNDEAD",
+      "icon": "https://render.albiononline.com/v1/item/T4_MAIN_CURSEDSTAFF_UNDEAD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 21,
+        "name": "Cursed Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 583,
+      "name": "Adept's Cursed Skull",
+      "tier": "4.0",
+      "item_power": 750,
+      "identifier": "T4_2H_SKULLORB_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T4_2H_SKULLORB_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 21,
+        "name": "Cursed Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 584,
+      "name": "Adept's Damnation Staff",
+      "tier": "4.0",
+      "item_power": 775,
+      "identifier": "T4_2H_CURSEDSTAFF_MORGANA",
+      "icon": "https://render.albiononline.com/v1/item/T4_2H_CURSEDSTAFF_MORGANA@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 21,
+        "name": "Cursed Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 585,
+      "name": "Adept's Shadowcaller",
+      "tier": "4.0",
+      "item_power": 800,
+      "identifier": "T4_MAIN_CURSEDSTAFF_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T4_MAIN_CURSEDSTAFF_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 21,
+        "name": "Cursed Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 586,
+      "name": "Expert's Great Cursed Staff",
+      "tier": "5.0",
+      "item_power": 800,
+      "identifier": "T5_2H_CURSEDSTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T5_2H_CURSEDSTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 21,
+        "name": "Cursed Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 587,
+      "name": "Expert's Demonic Staff",
+      "tier": "5.0",
+      "item_power": 800,
+      "identifier": "T5_2H_DEMONICSTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T5_2H_DEMONICSTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 21,
+        "name": "Cursed Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 588,
+      "name": "Expert's Cursed Staff",
+      "tier": "5.0",
+      "item_power": 800,
+      "identifier": "T5_MAIN_CURSEDSTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T5_MAIN_CURSEDSTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 21,
+        "name": "Cursed Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 589,
+      "name": "Expert's Lifecurse Staff",
+      "tier": "5.0",
+      "item_power": 825,
+      "identifier": "T5_MAIN_CURSEDSTAFF_UNDEAD",
+      "icon": "https://render.albiononline.com/v1/item/T5_MAIN_CURSEDSTAFF_UNDEAD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 21,
+        "name": "Cursed Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 590,
+      "name": "Expert's Cursed Skull",
+      "tier": "5.0",
+      "item_power": 850,
+      "identifier": "T5_2H_SKULLORB_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T5_2H_SKULLORB_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 21,
+        "name": "Cursed Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 591,
+      "name": "Expert's Damnation Staff",
+      "tier": "5.0",
+      "item_power": 875,
+      "identifier": "T5_2H_CURSEDSTAFF_MORGANA",
+      "icon": "https://render.albiononline.com/v1/item/T5_2H_CURSEDSTAFF_MORGANA@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 21,
+        "name": "Cursed Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 592,
+      "name": "Expert's Shadowcaller",
+      "tier": "5.0",
+      "item_power": 900,
+      "identifier": "T5_MAIN_CURSEDSTAFF_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T5_MAIN_CURSEDSTAFF_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 21,
+        "name": "Cursed Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 593,
+      "name": "Master's Cursed Staff",
+      "tier": "6.0",
+      "item_power": 900,
+      "identifier": "T6_MAIN_CURSEDSTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T6_MAIN_CURSEDSTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 21,
+        "name": "Cursed Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 594,
+      "name": "Master's Demonic Staff",
+      "tier": "6.0",
+      "item_power": 900,
+      "identifier": "T6_2H_DEMONICSTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T6_2H_DEMONICSTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 21,
+        "name": "Cursed Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 595,
+      "name": "Master's Great Cursed Staff",
+      "tier": "6.0",
+      "item_power": 900,
+      "identifier": "T6_2H_CURSEDSTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T6_2H_CURSEDSTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 21,
+        "name": "Cursed Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 596,
+      "name": "Master's Lifecurse Staff",
+      "tier": "6.0",
+      "item_power": 925,
+      "identifier": "T6_MAIN_CURSEDSTAFF_UNDEAD",
+      "icon": "https://render.albiononline.com/v1/item/T6_MAIN_CURSEDSTAFF_UNDEAD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 21,
+        "name": "Cursed Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 597,
+      "name": "Master's Cursed Skull",
+      "tier": "6.0",
+      "item_power": 950,
+      "identifier": "T6_2H_SKULLORB_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T6_2H_SKULLORB_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 21,
+        "name": "Cursed Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 598,
+      "name": "Master's Damnation Staff",
+      "tier": "6.0",
+      "item_power": 975,
+      "identifier": "T6_2H_CURSEDSTAFF_MORGANA",
+      "icon": "https://render.albiononline.com/v1/item/T6_2H_CURSEDSTAFF_MORGANA@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 21,
+        "name": "Cursed Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 599,
+      "name": "Master's Shadowcaller",
+      "tier": "6.0",
+      "item_power": 1000,
+      "identifier": "T6_MAIN_CURSEDSTAFF_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T6_MAIN_CURSEDSTAFF_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 21,
+        "name": "Cursed Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 600,
+      "name": "Grandmaster's Great Cursed Staff",
+      "tier": "7.0",
+      "item_power": 1000,
+      "identifier": "T7_2H_CURSEDSTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T7_2H_CURSEDSTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 21,
+        "name": "Cursed Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 601,
+      "name": "Grandmaster's Cursed Staff",
+      "tier": "7.0",
+      "item_power": 1000,
+      "identifier": "T7_MAIN_CURSEDSTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T7_MAIN_CURSEDSTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 21,
+        "name": "Cursed Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 602,
+      "name": "Grandmaster's Demonic Staff",
+      "tier": "7.0",
+      "item_power": 1000,
+      "identifier": "T7_2H_DEMONICSTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T7_2H_DEMONICSTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 21,
+        "name": "Cursed Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 603,
+      "name": "Grandmaster's Lifecurse Staff",
+      "tier": "7.0",
+      "item_power": 1025,
+      "identifier": "T7_MAIN_CURSEDSTAFF_UNDEAD",
+      "icon": "https://render.albiononline.com/v1/item/T7_MAIN_CURSEDSTAFF_UNDEAD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 21,
+        "name": "Cursed Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 604,
+      "name": "Grandmaster's Cursed Skull",
+      "tier": "7.0",
+      "item_power": 1050,
+      "identifier": "T7_2H_SKULLORB_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T7_2H_SKULLORB_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 21,
+        "name": "Cursed Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 605,
+      "name": "Grandmaster's Damnation Staff",
+      "tier": "7.0",
+      "item_power": 1075,
+      "identifier": "T7_2H_CURSEDSTAFF_MORGANA",
+      "icon": "https://render.albiononline.com/v1/item/T7_2H_CURSEDSTAFF_MORGANA@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 21,
+        "name": "Cursed Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 606,
+      "name": "Grandmaster's Shadowcaller",
+      "tier": "7.0",
+      "item_power": 1100,
+      "identifier": "T7_MAIN_CURSEDSTAFF_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T7_MAIN_CURSEDSTAFF_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 21,
+        "name": "Cursed Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 607,
+      "name": "Elder's Cursed Staff",
+      "tier": "8.0",
+      "item_power": 1100,
+      "identifier": "T8_MAIN_CURSEDSTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T8_MAIN_CURSEDSTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 21,
+        "name": "Cursed Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 608,
+      "name": "Elder's Demonic Staff",
+      "tier": "8.0",
+      "item_power": 1100,
+      "identifier": "T8_2H_DEMONICSTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T8_2H_DEMONICSTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 21,
+        "name": "Cursed Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 609,
+      "name": "Elder's Great Cursed Staff",
+      "tier": "8.0",
+      "item_power": 1100,
+      "identifier": "T8_2H_CURSEDSTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T8_2H_CURSEDSTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 21,
+        "name": "Cursed Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 610,
+      "name": "Elder's Lifecurse Staff",
+      "tier": "8.0",
+      "item_power": 1125,
+      "identifier": "T8_MAIN_CURSEDSTAFF_UNDEAD",
+      "icon": "https://render.albiononline.com/v1/item/T8_MAIN_CURSEDSTAFF_UNDEAD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 21,
+        "name": "Cursed Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 611,
+      "name": "Elder's Cursed Skull",
+      "tier": "8.0",
+      "item_power": 1150,
+      "identifier": "T8_2H_SKULLORB_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T8_2H_SKULLORB_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 21,
+        "name": "Cursed Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 612,
+      "name": "Elder's Damnation Staff",
+      "tier": "8.0",
+      "item_power": 1175,
+      "identifier": "T8_2H_CURSEDSTAFF_MORGANA",
+      "icon": "https://render.albiononline.com/v1/item/T8_2H_CURSEDSTAFF_MORGANA@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 21,
+        "name": "Cursed Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 613,
+      "name": "Elder's Shadowcaller",
+      "tier": "8.0",
+      "item_power": 1200,
+      "identifier": "T8_MAIN_CURSEDSTAFF_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T8_MAIN_CURSEDSTAFF_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 21,
+        "name": "Cursed Staff",
+        "type": "weapon"
+      }
+    }
+  ]
+}

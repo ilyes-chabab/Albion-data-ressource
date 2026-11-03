@@ -1,0 +1,652 @@
+{
+  "data": [
+    {
+      "id": 506,
+      "name": "Journeyman's Arcane Staff",
+      "tier": "3.0",
+      "item_power": 500,
+      "identifier": "T3_MAIN_ARCANESTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T3_MAIN_ARCANESTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 19,
+        "name": "Arcane Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 507,
+      "name": "Adept's Great Arcane Staff",
+      "tier": "4.0",
+      "item_power": 700,
+      "identifier": "T4_2H_ARCANESTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T4_2H_ARCANESTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 19,
+        "name": "Arcane Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 508,
+      "name": "Adept's Enigmatic Staff",
+      "tier": "4.0",
+      "item_power": 700,
+      "identifier": "T4_2H_ENIGMATICSTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T4_2H_ENIGMATICSTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 19,
+        "name": "Arcane Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 509,
+      "name": "Adept's Arcane Staff",
+      "tier": "4.0",
+      "item_power": 700,
+      "identifier": "T4_MAIN_ARCANESTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T4_MAIN_ARCANESTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 19,
+        "name": "Arcane Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 510,
+      "name": "Adept's Witchwork Staff",
+      "tier": "4.0",
+      "item_power": 725,
+      "identifier": "T4_MAIN_ARCANESTAFF_UNDEAD",
+      "icon": "https://render.albiononline.com/v1/item/T4_MAIN_ARCANESTAFF_UNDEAD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 19,
+        "name": "Arcane Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 511,
+      "name": "Adept's Occult Staff",
+      "tier": "4.0",
+      "item_power": 750,
+      "identifier": "T4_2H_ARCANESTAFF_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T4_2H_ARCANESTAFF_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 19,
+        "name": "Arcane Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 512,
+      "name": "Adept's Malevolent Locus",
+      "tier": "4.0",
+      "item_power": 775,
+      "identifier": "T4_2H_ENIGMATICORB_MORGANA",
+      "icon": "https://render.albiononline.com/v1/item/T4_2H_ENIGMATICORB_MORGANA@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 19,
+        "name": "Arcane Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 513,
+      "name": "Adept's Evensong",
+      "tier": "4.0",
+      "item_power": 800,
+      "identifier": "T4_2H_ARCANE_RINGPAIR_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T4_2H_ARCANE_RINGPAIR_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 19,
+        "name": "Arcane Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 514,
+      "name": "Expert's Enigmatic Staff",
+      "tier": "5.0",
+      "item_power": 800,
+      "identifier": "T5_2H_ENIGMATICSTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T5_2H_ENIGMATICSTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 19,
+        "name": "Arcane Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 515,
+      "name": "Expert's Great Arcane Staff",
+      "tier": "5.0",
+      "item_power": 800,
+      "identifier": "T5_2H_ARCANESTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T5_2H_ARCANESTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 19,
+        "name": "Arcane Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 516,
+      "name": "Expert's Arcane Staff",
+      "tier": "5.0",
+      "item_power": 800,
+      "identifier": "T5_MAIN_ARCANESTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T5_MAIN_ARCANESTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 19,
+        "name": "Arcane Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 517,
+      "name": "Expert's Witchwork Staff",
+      "tier": "5.0",
+      "item_power": 825,
+      "identifier": "T5_MAIN_ARCANESTAFF_UNDEAD",
+      "icon": "https://render.albiononline.com/v1/item/T5_MAIN_ARCANESTAFF_UNDEAD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 19,
+        "name": "Arcane Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 518,
+      "name": "Expert's Occult Staff",
+      "tier": "5.0",
+      "item_power": 850,
+      "identifier": "T5_2H_ARCANESTAFF_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T5_2H_ARCANESTAFF_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 19,
+        "name": "Arcane Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 519,
+      "name": "Expert's Malevolent Locus",
+      "tier": "5.0",
+      "item_power": 875,
+      "identifier": "T5_2H_ENIGMATICORB_MORGANA",
+      "icon": "https://render.albiononline.com/v1/item/T5_2H_ENIGMATICORB_MORGANA@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 19,
+        "name": "Arcane Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 520,
+      "name": "Expert's Evensong",
+      "tier": "5.0",
+      "item_power": 900,
+      "identifier": "T5_2H_ARCANE_RINGPAIR_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T5_2H_ARCANE_RINGPAIR_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 19,
+        "name": "Arcane Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 521,
+      "name": "Master's Great Arcane Staff",
+      "tier": "6.0",
+      "item_power": 900,
+      "identifier": "T6_2H_ARCANESTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T6_2H_ARCANESTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 19,
+        "name": "Arcane Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 522,
+      "name": "Master's Arcane Staff",
+      "tier": "6.0",
+      "item_power": 900,
+      "identifier": "T6_MAIN_ARCANESTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T6_MAIN_ARCANESTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 19,
+        "name": "Arcane Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 523,
+      "name": "Master's Enigmatic Staff",
+      "tier": "6.0",
+      "item_power": 900,
+      "identifier": "T6_2H_ENIGMATICSTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T6_2H_ENIGMATICSTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 19,
+        "name": "Arcane Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 524,
+      "name": "Master's Witchwork Staff",
+      "tier": "6.0",
+      "item_power": 925,
+      "identifier": "T6_MAIN_ARCANESTAFF_UNDEAD",
+      "icon": "https://render.albiononline.com/v1/item/T6_MAIN_ARCANESTAFF_UNDEAD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 19,
+        "name": "Arcane Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 525,
+      "name": "Master's Occult Staff",
+      "tier": "6.0",
+      "item_power": 950,
+      "identifier": "T6_2H_ARCANESTAFF_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T6_2H_ARCANESTAFF_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 19,
+        "name": "Arcane Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 526,
+      "name": "Master's Malevolent Locus",
+      "tier": "6.0",
+      "item_power": 975,
+      "identifier": "T6_2H_ENIGMATICORB_MORGANA",
+      "icon": "https://render.albiononline.com/v1/item/T6_2H_ENIGMATICORB_MORGANA@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 19,
+        "name": "Arcane Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 527,
+      "name": "Master's Evensong",
+      "tier": "6.0",
+      "item_power": 1000,
+      "identifier": "T6_2H_ARCANE_RINGPAIR_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T6_2H_ARCANE_RINGPAIR_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 19,
+        "name": "Arcane Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 528,
+      "name": "Grandmaster's Great Arcane Staff",
+      "tier": "7.0",
+      "item_power": 1000,
+      "identifier": "T7_2H_ARCANESTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T7_2H_ARCANESTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 19,
+        "name": "Arcane Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 529,
+      "name": "Grandmaster's Arcane Staff",
+      "tier": "7.0",
+      "item_power": 1000,
+      "identifier": "T7_MAIN_ARCANESTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T7_MAIN_ARCANESTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 19,
+        "name": "Arcane Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 530,
+      "name": "Grandmaster's Enigmatic Staff",
+      "tier": "7.0",
+      "item_power": 1000,
+      "identifier": "T7_2H_ENIGMATICSTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T7_2H_ENIGMATICSTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 19,
+        "name": "Arcane Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 531,
+      "name": "Grandmaster's Witchwork Staff",
+      "tier": "7.0",
+      "item_power": 1025,
+      "identifier": "T7_MAIN_ARCANESTAFF_UNDEAD",
+      "icon": "https://render.albiononline.com/v1/item/T7_MAIN_ARCANESTAFF_UNDEAD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 19,
+        "name": "Arcane Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 532,
+      "name": "Grandmaster's Occult Staff",
+      "tier": "7.0",
+      "item_power": 1050,
+      "identifier": "T7_2H_ARCANESTAFF_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T7_2H_ARCANESTAFF_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 19,
+        "name": "Arcane Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 533,
+      "name": "Grandmaster's Malevolent Locus",
+      "tier": "7.0",
+      "item_power": 1075,
+      "identifier": "T7_2H_ENIGMATICORB_MORGANA",
+      "icon": "https://render.albiononline.com/v1/item/T7_2H_ENIGMATICORB_MORGANA@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 19,
+        "name": "Arcane Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 534,
+      "name": "Grandmaster's Evensong",
+      "tier": "7.0",
+      "item_power": 1100,
+      "identifier": "T7_2H_ARCANE_RINGPAIR_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T7_2H_ARCANE_RINGPAIR_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 19,
+        "name": "Arcane Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 535,
+      "name": "Elder's Enigmatic Staff",
+      "tier": "8.0",
+      "item_power": 1100,
+      "identifier": "T8_2H_ENIGMATICSTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T8_2H_ENIGMATICSTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 19,
+        "name": "Arcane Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 536,
+      "name": "Elder's Arcane Staff",
+      "tier": "8.0",
+      "item_power": 1100,
+      "identifier": "T8_MAIN_ARCANESTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T8_MAIN_ARCANESTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 19,
+        "name": "Arcane Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 537,
+      "name": "Elder's Great Arcane Staff",
+      "tier": "8.0",
+      "item_power": 1100,
+      "identifier": "T8_2H_ARCANESTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T8_2H_ARCANESTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 19,
+        "name": "Arcane Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 538,
+      "name": "Elder's Witchwork Staff",
+      "tier": "8.0",
+      "item_power": 1125,
+      "identifier": "T8_MAIN_ARCANESTAFF_UNDEAD",
+      "icon": "https://render.albiononline.com/v1/item/T8_MAIN_ARCANESTAFF_UNDEAD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 19,
+        "name": "Arcane Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 539,
+      "name": "Elder's Occult Staff",
+      "tier": "8.0",
+      "item_power": 1150,
+      "identifier": "T8_2H_ARCANESTAFF_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T8_2H_ARCANESTAFF_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 19,
+        "name": "Arcane Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 540,
+      "name": "Elder's Malevolent Locus",
+      "tier": "8.0",
+      "item_power": 1175,
+      "identifier": "T8_2H_ENIGMATICORB_MORGANA",
+      "icon": "https://render.albiononline.com/v1/item/T8_2H_ENIGMATICORB_MORGANA@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 19,
+        "name": "Arcane Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 541,
+      "name": "Elder's Evensong",
+      "tier": "8.0",
+      "item_power": 1200,
+      "identifier": "T8_2H_ARCANE_RINGPAIR_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T8_2H_ARCANE_RINGPAIR_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 19,
+        "name": "Arcane Staff",
+        "type": "weapon"
+      }
+    }
+  ]
+}

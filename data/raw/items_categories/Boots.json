@@ -1,0 +1,850 @@
+{
+  "data": [
+    {
+      "id": 286,
+      "name": "Novice's Soldier Boots",
+      "tier": "2.0",
+      "item_power": 300,
+      "identifier": "T2_SHOES_PLATE_SET1",
+      "icon": "https://render.albiononline.com/v1/item/T2_SHOES_PLATE_SET1@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 34,
+        "name": "Boots",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 287,
+      "name": "Journeyman's Soldier Boots",
+      "tier": "3.0",
+      "item_power": 500,
+      "identifier": "T3_SHOES_PLATE_SET1",
+      "icon": "https://render.albiononline.com/v1/item/T3_SHOES_PLATE_SET1@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 34,
+        "name": "Boots",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 288,
+      "name": "Adept's Boots of Valor",
+      "tier": "4.0",
+      "item_power": 800,
+      "identifier": "T4_SHOES_PLATE_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T4_SHOES_PLATE_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 34,
+        "name": "Boots",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 289,
+      "name": "Adept's Demon Boots",
+      "tier": "4.0",
+      "item_power": 750,
+      "identifier": "T4_SHOES_PLATE_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T4_SHOES_PLATE_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 34,
+        "name": "Boots",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 290,
+      "name": "Adept's Duskweaver Boots",
+      "tier": "4.0",
+      "item_power": 775,
+      "identifier": "T4_SHOES_PLATE_FEY",
+      "icon": "https://render.albiononline.com/v1/item/T4_SHOES_PLATE_FEY@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 34,
+        "name": "Boots",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 291,
+      "name": "Adept's Graveguard Boots",
+      "tier": "4.0",
+      "item_power": 725,
+      "identifier": "T4_SHOES_PLATE_UNDEAD",
+      "icon": "https://render.albiononline.com/v1/item/T4_SHOES_PLATE_UNDEAD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 34,
+        "name": "Boots",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 292,
+      "name": "Adept's Guardian Boots",
+      "tier": "4.0",
+      "item_power": 700,
+      "identifier": "T4_SHOES_PLATE_SET3",
+      "icon": "https://render.albiononline.com/v1/item/T4_SHOES_PLATE_SET3@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 34,
+        "name": "Boots",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 293,
+      "name": "Adept's Judicator Boots",
+      "tier": "4.0",
+      "item_power": 775,
+      "identifier": "T4_SHOES_PLATE_KEEPER",
+      "icon": "https://render.albiononline.com/v1/item/T4_SHOES_PLATE_KEEPER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 34,
+        "name": "Boots",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 294,
+      "name": "Adept's Knight Boots",
+      "tier": "4.0",
+      "item_power": 700,
+      "identifier": "T4_SHOES_PLATE_SET2",
+      "icon": "https://render.albiononline.com/v1/item/T4_SHOES_PLATE_SET2@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 34,
+        "name": "Boots",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 295,
+      "name": "Adept's Royal Boots",
+      "tier": "4.0",
+      "item_power": 725,
+      "identifier": "T4_SHOES_PLATE_ROYAL",
+      "icon": "https://render.albiononline.com/v1/item/T4_SHOES_PLATE_ROYAL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 34,
+        "name": "Boots",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 296,
+      "name": "Adept's Soldier Boots",
+      "tier": "4.0",
+      "item_power": 700,
+      "identifier": "T4_SHOES_PLATE_SET1",
+      "icon": "https://render.albiononline.com/v1/item/T4_SHOES_PLATE_SET1@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 34,
+        "name": "Boots",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 297,
+      "name": "Expert's Boots of Valor",
+      "tier": "5.0",
+      "item_power": 900,
+      "identifier": "T5_SHOES_PLATE_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T5_SHOES_PLATE_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 34,
+        "name": "Boots",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 298,
+      "name": "Expert's Demon Boots",
+      "tier": "5.0",
+      "item_power": 850,
+      "identifier": "T5_SHOES_PLATE_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T5_SHOES_PLATE_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 34,
+        "name": "Boots",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 299,
+      "name": "Expert's Duskweaver Boots",
+      "tier": "5.0",
+      "item_power": 875,
+      "identifier": "T5_SHOES_PLATE_FEY",
+      "icon": "https://render.albiononline.com/v1/item/T5_SHOES_PLATE_FEY@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 34,
+        "name": "Boots",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 300,
+      "name": "Expert's Graveguard Boots",
+      "tier": "5.0",
+      "item_power": 825,
+      "identifier": "T5_SHOES_PLATE_UNDEAD",
+      "icon": "https://render.albiononline.com/v1/item/T5_SHOES_PLATE_UNDEAD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 34,
+        "name": "Boots",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 301,
+      "name": "Expert's Guardian Boots",
+      "tier": "5.0",
+      "item_power": 800,
+      "identifier": "T5_SHOES_PLATE_SET3",
+      "icon": "https://render.albiononline.com/v1/item/T5_SHOES_PLATE_SET3@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 34,
+        "name": "Boots",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 302,
+      "name": "Expert's Judicator Boots",
+      "tier": "5.0",
+      "item_power": 875,
+      "identifier": "T5_SHOES_PLATE_KEEPER",
+      "icon": "https://render.albiononline.com/v1/item/T5_SHOES_PLATE_KEEPER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 34,
+        "name": "Boots",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 303,
+      "name": "Expert's Knight Boots",
+      "tier": "5.0",
+      "item_power": 800,
+      "identifier": "T5_SHOES_PLATE_SET2",
+      "icon": "https://render.albiononline.com/v1/item/T5_SHOES_PLATE_SET2@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 34,
+        "name": "Boots",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 304,
+      "name": "Expert's Royal Boots",
+      "tier": "5.0",
+      "item_power": 825,
+      "identifier": "T5_SHOES_PLATE_ROYAL",
+      "icon": "https://render.albiononline.com/v1/item/T5_SHOES_PLATE_ROYAL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 34,
+        "name": "Boots",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 305,
+      "name": "Expert's Soldier Boots",
+      "tier": "5.0",
+      "item_power": 800,
+      "identifier": "T5_SHOES_PLATE_SET1",
+      "icon": "https://render.albiononline.com/v1/item/T5_SHOES_PLATE_SET1@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 34,
+        "name": "Boots",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 306,
+      "name": "Master's Boots of Valor",
+      "tier": "6.0",
+      "item_power": 1000,
+      "identifier": "T6_SHOES_PLATE_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T6_SHOES_PLATE_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 34,
+        "name": "Boots",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 307,
+      "name": "Master's Demon Boots",
+      "tier": "6.0",
+      "item_power": 950,
+      "identifier": "T6_SHOES_PLATE_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T6_SHOES_PLATE_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 34,
+        "name": "Boots",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 308,
+      "name": "Master's Duskweaver Boots",
+      "tier": "6.0",
+      "item_power": 975,
+      "identifier": "T6_SHOES_PLATE_FEY",
+      "icon": "https://render.albiononline.com/v1/item/T6_SHOES_PLATE_FEY@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 34,
+        "name": "Boots",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 309,
+      "name": "Master's Graveguard Boots",
+      "tier": "6.0",
+      "item_power": 925,
+      "identifier": "T6_SHOES_PLATE_UNDEAD",
+      "icon": "https://render.albiononline.com/v1/item/T6_SHOES_PLATE_UNDEAD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 34,
+        "name": "Boots",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 310,
+      "name": "Master's Guardian Boots",
+      "tier": "6.0",
+      "item_power": 900,
+      "identifier": "T6_SHOES_PLATE_SET3",
+      "icon": "https://render.albiononline.com/v1/item/T6_SHOES_PLATE_SET3@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 34,
+        "name": "Boots",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 311,
+      "name": "Master's Judicator Boots",
+      "tier": "6.0",
+      "item_power": 975,
+      "identifier": "T6_SHOES_PLATE_KEEPER",
+      "icon": "https://render.albiononline.com/v1/item/T6_SHOES_PLATE_KEEPER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 34,
+        "name": "Boots",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 312,
+      "name": "Master's Knight Boots",
+      "tier": "6.0",
+      "item_power": 900,
+      "identifier": "T6_SHOES_PLATE_SET2",
+      "icon": "https://render.albiononline.com/v1/item/T6_SHOES_PLATE_SET2@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 34,
+        "name": "Boots",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 313,
+      "name": "Master's Royal Boots",
+      "tier": "6.0",
+      "item_power": 925,
+      "identifier": "T6_SHOES_PLATE_ROYAL",
+      "icon": "https://render.albiononline.com/v1/item/T6_SHOES_PLATE_ROYAL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 34,
+        "name": "Boots",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 314,
+      "name": "Master's Soldier Boots",
+      "tier": "6.0",
+      "item_power": 900,
+      "identifier": "T6_SHOES_PLATE_SET1",
+      "icon": "https://render.albiononline.com/v1/item/T6_SHOES_PLATE_SET1@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 34,
+        "name": "Boots",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 315,
+      "name": "Grandmaster's Boots of Valor",
+      "tier": "7.0",
+      "item_power": 1100,
+      "identifier": "T7_SHOES_PLATE_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T7_SHOES_PLATE_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 34,
+        "name": "Boots",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 316,
+      "name": "Grandmaster's Demon Boots",
+      "tier": "7.0",
+      "item_power": 1050,
+      "identifier": "T7_SHOES_PLATE_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T7_SHOES_PLATE_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 34,
+        "name": "Boots",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 317,
+      "name": "Grandmaster's Duskweaver Boots",
+      "tier": "7.0",
+      "item_power": 1075,
+      "identifier": "T7_SHOES_PLATE_FEY",
+      "icon": "https://render.albiononline.com/v1/item/T7_SHOES_PLATE_FEY@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 34,
+        "name": "Boots",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 318,
+      "name": "Grandmaster's Graveguard Boots",
+      "tier": "7.0",
+      "item_power": 1025,
+      "identifier": "T7_SHOES_PLATE_UNDEAD",
+      "icon": "https://render.albiononline.com/v1/item/T7_SHOES_PLATE_UNDEAD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 34,
+        "name": "Boots",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 319,
+      "name": "Grandmaster's Guardian Boots",
+      "tier": "7.0",
+      "item_power": 1000,
+      "identifier": "T7_SHOES_PLATE_SET3",
+      "icon": "https://render.albiononline.com/v1/item/T7_SHOES_PLATE_SET3@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 34,
+        "name": "Boots",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 320,
+      "name": "Grandmaster's Judicator Boots",
+      "tier": "7.0",
+      "item_power": 1075,
+      "identifier": "T7_SHOES_PLATE_KEEPER",
+      "icon": "https://render.albiononline.com/v1/item/T7_SHOES_PLATE_KEEPER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 34,
+        "name": "Boots",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 321,
+      "name": "Grandmaster's Knight Boots",
+      "tier": "7.0",
+      "item_power": 1000,
+      "identifier": "T7_SHOES_PLATE_SET2",
+      "icon": "https://render.albiononline.com/v1/item/T7_SHOES_PLATE_SET2@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 34,
+        "name": "Boots",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 322,
+      "name": "Grandmaster's Royal Boots",
+      "tier": "7.0",
+      "item_power": 1025,
+      "identifier": "T7_SHOES_PLATE_ROYAL",
+      "icon": "https://render.albiononline.com/v1/item/T7_SHOES_PLATE_ROYAL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 34,
+        "name": "Boots",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 323,
+      "name": "Grandmaster's Soldier Boots",
+      "tier": "7.0",
+      "item_power": 1000,
+      "identifier": "T7_SHOES_PLATE_SET1",
+      "icon": "https://render.albiononline.com/v1/item/T7_SHOES_PLATE_SET1@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 34,
+        "name": "Boots",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 324,
+      "name": "Elder's Boots of Valor",
+      "tier": "8.0",
+      "item_power": 1200,
+      "identifier": "T8_SHOES_PLATE_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T8_SHOES_PLATE_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 34,
+        "name": "Boots",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 325,
+      "name": "Elder's Demon Boots",
+      "tier": "8.0",
+      "item_power": 1150,
+      "identifier": "T8_SHOES_PLATE_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T8_SHOES_PLATE_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 34,
+        "name": "Boots",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 326,
+      "name": "Elder's Duskweaver Boots",
+      "tier": "8.0",
+      "item_power": 1175,
+      "identifier": "T8_SHOES_PLATE_FEY",
+      "icon": "https://render.albiononline.com/v1/item/T8_SHOES_PLATE_FEY@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 34,
+        "name": "Boots",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 327,
+      "name": "Elder's Graveguard Boots",
+      "tier": "8.0",
+      "item_power": 1125,
+      "identifier": "T8_SHOES_PLATE_UNDEAD",
+      "icon": "https://render.albiononline.com/v1/item/T8_SHOES_PLATE_UNDEAD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 34,
+        "name": "Boots",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 328,
+      "name": "Elder's Guardian Boots",
+      "tier": "8.0",
+      "item_power": 1100,
+      "identifier": "T8_SHOES_PLATE_SET3",
+      "icon": "https://render.albiononline.com/v1/item/T8_SHOES_PLATE_SET3@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 34,
+        "name": "Boots",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 329,
+      "name": "Elder's Judicator Boots",
+      "tier": "8.0",
+      "item_power": 1175,
+      "identifier": "T8_SHOES_PLATE_KEEPER",
+      "icon": "https://render.albiononline.com/v1/item/T8_SHOES_PLATE_KEEPER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 34,
+        "name": "Boots",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 330,
+      "name": "Elder's Knight Boots",
+      "tier": "8.0",
+      "item_power": 1100,
+      "identifier": "T8_SHOES_PLATE_SET2",
+      "icon": "https://render.albiononline.com/v1/item/T8_SHOES_PLATE_SET2@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 34,
+        "name": "Boots",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 331,
+      "name": "Elder's Royal Boots",
+      "tier": "8.0",
+      "item_power": 1125,
+      "identifier": "T8_SHOES_PLATE_ROYAL",
+      "icon": "https://render.albiononline.com/v1/item/T8_SHOES_PLATE_ROYAL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 34,
+        "name": "Boots",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 332,
+      "name": "Elder's Soldier Boots",
+      "tier": "8.0",
+      "item_power": 1100,
+      "identifier": "T8_SHOES_PLATE_SET1",
+      "icon": "https://render.albiononline.com/v1/item/T8_SHOES_PLATE_SET1@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 34,
+        "name": "Boots",
+        "type": "armor"
+      }
+    }
+  ]
+}

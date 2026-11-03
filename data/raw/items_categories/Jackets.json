@@ -1,0 +1,868 @@
+{
+  "data": [
+    {
+      "id": 48,
+      "name": "Beginner's Mercenary Jacket",
+      "tier": "1.0",
+      "item_power": 100,
+      "identifier": "T1_ARMOR_LEATHER_SET1",
+      "icon": "https://render.albiononline.com/v1/item/T1_ARMOR_LEATHER_SET1@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 28,
+        "name": "Jackets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 49,
+      "name": "Novice's Mercenary Jacket",
+      "tier": "2.0",
+      "item_power": 300,
+      "identifier": "T2_ARMOR_LEATHER_SET1",
+      "icon": "https://render.albiononline.com/v1/item/T2_ARMOR_LEATHER_SET1@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 28,
+        "name": "Jackets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 50,
+      "name": "Journeyman's Mercenary Jacket",
+      "tier": "3.0",
+      "item_power": 500,
+      "identifier": "T3_ARMOR_LEATHER_SET1",
+      "icon": "https://render.albiononline.com/v1/item/T3_ARMOR_LEATHER_SET1@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 28,
+        "name": "Jackets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 51,
+      "name": "Adept's Assassin Jacket",
+      "tier": "4.0",
+      "item_power": 700,
+      "identifier": "T4_ARMOR_LEATHER_SET3",
+      "icon": "https://render.albiononline.com/v1/item/T4_ARMOR_LEATHER_SET3@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 28,
+        "name": "Jackets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 52,
+      "name": "Adept's Hellion Jacket",
+      "tier": "4.0",
+      "item_power": 750,
+      "identifier": "T4_ARMOR_LEATHER_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T4_ARMOR_LEATHER_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 28,
+        "name": "Jackets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 53,
+      "name": "Adept's Hunter Jacket",
+      "tier": "4.0",
+      "item_power": 700,
+      "identifier": "T4_ARMOR_LEATHER_SET2",
+      "icon": "https://render.albiononline.com/v1/item/T4_ARMOR_LEATHER_SET2@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 28,
+        "name": "Jackets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 54,
+      "name": "Adept's Jacket of Tenacity",
+      "tier": "4.0",
+      "item_power": 800,
+      "identifier": "T4_ARMOR_LEATHER_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T4_ARMOR_LEATHER_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 28,
+        "name": "Jackets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 55,
+      "name": "Adept's Mercenary Jacket",
+      "tier": "4.0",
+      "item_power": 700,
+      "identifier": "T4_ARMOR_LEATHER_SET1",
+      "icon": "https://render.albiononline.com/v1/item/T4_ARMOR_LEATHER_SET1@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 28,
+        "name": "Jackets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 56,
+      "name": "Adept's Mistwalker Jacket",
+      "tier": "4.0",
+      "item_power": 775,
+      "identifier": "T4_ARMOR_LEATHER_FEY",
+      "icon": "https://render.albiononline.com/v1/item/T4_ARMOR_LEATHER_FEY@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 28,
+        "name": "Jackets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 57,
+      "name": "Adept's Royal Jacket",
+      "tier": "4.0",
+      "item_power": 725,
+      "identifier": "T4_ARMOR_LEATHER_ROYAL",
+      "icon": "https://render.albiononline.com/v1/item/T4_ARMOR_LEATHER_ROYAL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 28,
+        "name": "Jackets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 58,
+      "name": "Adept's Specter Jacket",
+      "tier": "4.0",
+      "item_power": 775,
+      "identifier": "T4_ARMOR_LEATHER_UNDEAD",
+      "icon": "https://render.albiononline.com/v1/item/T4_ARMOR_LEATHER_UNDEAD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 28,
+        "name": "Jackets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 59,
+      "name": "Adept's Stalker Jacket",
+      "tier": "4.0",
+      "item_power": 725,
+      "identifier": "T4_ARMOR_LEATHER_MORGANA",
+      "icon": "https://render.albiononline.com/v1/item/T4_ARMOR_LEATHER_MORGANA@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 28,
+        "name": "Jackets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 60,
+      "name": "Expert's Assassin Jacket",
+      "tier": "5.0",
+      "item_power": 800,
+      "identifier": "T5_ARMOR_LEATHER_SET3",
+      "icon": "https://render.albiononline.com/v1/item/T5_ARMOR_LEATHER_SET3@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 28,
+        "name": "Jackets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 61,
+      "name": "Expert's Hellion Jacket",
+      "tier": "5.0",
+      "item_power": 850,
+      "identifier": "T5_ARMOR_LEATHER_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T5_ARMOR_LEATHER_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 28,
+        "name": "Jackets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 62,
+      "name": "Expert's Hunter Jacket",
+      "tier": "5.0",
+      "item_power": 800,
+      "identifier": "T5_ARMOR_LEATHER_SET2",
+      "icon": "https://render.albiononline.com/v1/item/T5_ARMOR_LEATHER_SET2@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 28,
+        "name": "Jackets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 63,
+      "name": "Expert's Jacket of Tenacity",
+      "tier": "5.0",
+      "item_power": 900,
+      "identifier": "T5_ARMOR_LEATHER_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T5_ARMOR_LEATHER_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 28,
+        "name": "Jackets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 64,
+      "name": "Expert's Mercenary Jacket",
+      "tier": "5.0",
+      "item_power": 800,
+      "identifier": "T5_ARMOR_LEATHER_SET1",
+      "icon": "https://render.albiononline.com/v1/item/T5_ARMOR_LEATHER_SET1@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 28,
+        "name": "Jackets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 65,
+      "name": "Expert's Mistwalker Jacket",
+      "tier": "5.0",
+      "item_power": 875,
+      "identifier": "T5_ARMOR_LEATHER_FEY",
+      "icon": "https://render.albiononline.com/v1/item/T5_ARMOR_LEATHER_FEY@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 28,
+        "name": "Jackets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 66,
+      "name": "Expert's Royal Jacket",
+      "tier": "5.0",
+      "item_power": 825,
+      "identifier": "T5_ARMOR_LEATHER_ROYAL",
+      "icon": "https://render.albiononline.com/v1/item/T5_ARMOR_LEATHER_ROYAL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 28,
+        "name": "Jackets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 67,
+      "name": "Expert's Specter Jacket",
+      "tier": "5.0",
+      "item_power": 875,
+      "identifier": "T5_ARMOR_LEATHER_UNDEAD",
+      "icon": "https://render.albiononline.com/v1/item/T5_ARMOR_LEATHER_UNDEAD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 28,
+        "name": "Jackets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 68,
+      "name": "Expert's Stalker Jacket",
+      "tier": "5.0",
+      "item_power": 825,
+      "identifier": "T5_ARMOR_LEATHER_MORGANA",
+      "icon": "https://render.albiononline.com/v1/item/T5_ARMOR_LEATHER_MORGANA@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 28,
+        "name": "Jackets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 69,
+      "name": "Master's Assassin Jacket",
+      "tier": "6.0",
+      "item_power": 900,
+      "identifier": "T6_ARMOR_LEATHER_SET3",
+      "icon": "https://render.albiononline.com/v1/item/T6_ARMOR_LEATHER_SET3@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 28,
+        "name": "Jackets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 70,
+      "name": "Master's Hellion Jacket",
+      "tier": "6.0",
+      "item_power": 950,
+      "identifier": "T6_ARMOR_LEATHER_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T6_ARMOR_LEATHER_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 28,
+        "name": "Jackets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 71,
+      "name": "Master's Hunter Jacket",
+      "tier": "6.0",
+      "item_power": 900,
+      "identifier": "T6_ARMOR_LEATHER_SET2",
+      "icon": "https://render.albiononline.com/v1/item/T6_ARMOR_LEATHER_SET2@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 28,
+        "name": "Jackets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 72,
+      "name": "Master's Jacket of Tenacity",
+      "tier": "6.0",
+      "item_power": 1000,
+      "identifier": "T6_ARMOR_LEATHER_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T6_ARMOR_LEATHER_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 28,
+        "name": "Jackets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 73,
+      "name": "Master's Mercenary Jacket",
+      "tier": "6.0",
+      "item_power": 900,
+      "identifier": "T6_ARMOR_LEATHER_SET1",
+      "icon": "https://render.albiononline.com/v1/item/T6_ARMOR_LEATHER_SET1@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 28,
+        "name": "Jackets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 74,
+      "name": "Master's Mistwalker Jacket",
+      "tier": "6.0",
+      "item_power": 975,
+      "identifier": "T6_ARMOR_LEATHER_FEY",
+      "icon": "https://render.albiononline.com/v1/item/T6_ARMOR_LEATHER_FEY@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 28,
+        "name": "Jackets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 75,
+      "name": "Master's Royal Jacket",
+      "tier": "6.0",
+      "item_power": 925,
+      "identifier": "T6_ARMOR_LEATHER_ROYAL",
+      "icon": "https://render.albiononline.com/v1/item/T6_ARMOR_LEATHER_ROYAL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 28,
+        "name": "Jackets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 76,
+      "name": "Master's Specter Jacket",
+      "tier": "6.0",
+      "item_power": 975,
+      "identifier": "T6_ARMOR_LEATHER_UNDEAD",
+      "icon": "https://render.albiononline.com/v1/item/T6_ARMOR_LEATHER_UNDEAD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 28,
+        "name": "Jackets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 77,
+      "name": "Master's Stalker Jacket",
+      "tier": "6.0",
+      "item_power": 925,
+      "identifier": "T6_ARMOR_LEATHER_MORGANA",
+      "icon": "https://render.albiononline.com/v1/item/T6_ARMOR_LEATHER_MORGANA@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 28,
+        "name": "Jackets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 78,
+      "name": "Grandmaster's Assassin Jacket",
+      "tier": "7.0",
+      "item_power": 1000,
+      "identifier": "T7_ARMOR_LEATHER_SET3",
+      "icon": "https://render.albiononline.com/v1/item/T7_ARMOR_LEATHER_SET3@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 28,
+        "name": "Jackets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 79,
+      "name": "Grandmaster's Hellion Jacket",
+      "tier": "7.0",
+      "item_power": 1050,
+      "identifier": "T7_ARMOR_LEATHER_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T7_ARMOR_LEATHER_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 28,
+        "name": "Jackets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 80,
+      "name": "Grandmaster's Hunter Jacket",
+      "tier": "7.0",
+      "item_power": 1000,
+      "identifier": "T7_ARMOR_LEATHER_SET2",
+      "icon": "https://render.albiononline.com/v1/item/T7_ARMOR_LEATHER_SET2@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 28,
+        "name": "Jackets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 81,
+      "name": "Grandmaster's Jacket of Tenacity",
+      "tier": "7.0",
+      "item_power": 1100,
+      "identifier": "T7_ARMOR_LEATHER_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T7_ARMOR_LEATHER_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 28,
+        "name": "Jackets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 82,
+      "name": "Grandmaster's Mercenary Jacket",
+      "tier": "7.0",
+      "item_power": 1000,
+      "identifier": "T7_ARMOR_LEATHER_SET1",
+      "icon": "https://render.albiononline.com/v1/item/T7_ARMOR_LEATHER_SET1@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 28,
+        "name": "Jackets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 83,
+      "name": "Grandmaster's Mistwalker Jacket",
+      "tier": "7.0",
+      "item_power": 1075,
+      "identifier": "T7_ARMOR_LEATHER_FEY",
+      "icon": "https://render.albiononline.com/v1/item/T7_ARMOR_LEATHER_FEY@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 28,
+        "name": "Jackets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 84,
+      "name": "Grandmaster's Royal Jacket",
+      "tier": "7.0",
+      "item_power": 1025,
+      "identifier": "T7_ARMOR_LEATHER_ROYAL",
+      "icon": "https://render.albiononline.com/v1/item/T7_ARMOR_LEATHER_ROYAL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 28,
+        "name": "Jackets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 85,
+      "name": "Grandmaster's Specter Jacket",
+      "tier": "7.0",
+      "item_power": 1075,
+      "identifier": "T7_ARMOR_LEATHER_UNDEAD",
+      "icon": "https://render.albiononline.com/v1/item/T7_ARMOR_LEATHER_UNDEAD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 28,
+        "name": "Jackets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 86,
+      "name": "Grandmaster's Stalker Jacket",
+      "tier": "7.0",
+      "item_power": 1025,
+      "identifier": "T7_ARMOR_LEATHER_MORGANA",
+      "icon": "https://render.albiononline.com/v1/item/T7_ARMOR_LEATHER_MORGANA@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 28,
+        "name": "Jackets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 87,
+      "name": "Elder's Assassin Jacket",
+      "tier": "8.0",
+      "item_power": 1100,
+      "identifier": "T8_ARMOR_LEATHER_SET3",
+      "icon": "https://render.albiononline.com/v1/item/T8_ARMOR_LEATHER_SET3@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 28,
+        "name": "Jackets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 88,
+      "name": "Elder's Hellion Jacket",
+      "tier": "8.0",
+      "item_power": 1150,
+      "identifier": "T8_ARMOR_LEATHER_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T8_ARMOR_LEATHER_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 28,
+        "name": "Jackets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 89,
+      "name": "Elder's Hunter Jacket",
+      "tier": "8.0",
+      "item_power": 1100,
+      "identifier": "T8_ARMOR_LEATHER_SET2",
+      "icon": "https://render.albiononline.com/v1/item/T8_ARMOR_LEATHER_SET2@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 28,
+        "name": "Jackets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 90,
+      "name": "Elder's Jacket of Tenacity",
+      "tier": "8.0",
+      "item_power": 1200,
+      "identifier": "T8_ARMOR_LEATHER_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T8_ARMOR_LEATHER_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 28,
+        "name": "Jackets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 91,
+      "name": "Elder's Mercenary Jacket",
+      "tier": "8.0",
+      "item_power": 1100,
+      "identifier": "T8_ARMOR_LEATHER_SET1",
+      "icon": "https://render.albiononline.com/v1/item/T8_ARMOR_LEATHER_SET1@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 28,
+        "name": "Jackets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 92,
+      "name": "Elder's Mistwalker Jacket",
+      "tier": "8.0",
+      "item_power": 1175,
+      "identifier": "T8_ARMOR_LEATHER_FEY",
+      "icon": "https://render.albiononline.com/v1/item/T8_ARMOR_LEATHER_FEY@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 28,
+        "name": "Jackets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 93,
+      "name": "Elder's Royal Jacket",
+      "tier": "8.0",
+      "item_power": 1125,
+      "identifier": "T8_ARMOR_LEATHER_ROYAL",
+      "icon": "https://render.albiononline.com/v1/item/T8_ARMOR_LEATHER_ROYAL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 28,
+        "name": "Jackets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 94,
+      "name": "Elder's Specter Jacket",
+      "tier": "8.0",
+      "item_power": 1175,
+      "identifier": "T8_ARMOR_LEATHER_UNDEAD",
+      "icon": "https://render.albiononline.com/v1/item/T8_ARMOR_LEATHER_UNDEAD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 28,
+        "name": "Jackets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 95,
+      "name": "Elder's Stalker Jacket",
+      "tier": "8.0",
+      "item_power": 1125,
+      "identifier": "T8_ARMOR_LEATHER_MORGANA",
+      "icon": "https://render.albiononline.com/v1/item/T8_ARMOR_LEATHER_MORGANA@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 28,
+        "name": "Jackets",
+        "type": "armor"
+      }
+    }
+  ]
+}

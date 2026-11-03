@@ -1,0 +1,652 @@
+{
+  "data": [
+    {
+      "id": 542,
+      "name": "Journeyman's Frost Staff",
+      "tier": "3.0",
+      "item_power": 500,
+      "identifier": "T3_MAIN_FROSTSTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T3_MAIN_FROSTSTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 20,
+        "name": "Frost Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 543,
+      "name": "Adept's Glacial Staff",
+      "tier": "4.0",
+      "item_power": 700,
+      "identifier": "T4_2H_GLACIALSTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T4_2H_GLACIALSTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 20,
+        "name": "Frost Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 544,
+      "name": "Adept's Great Frost Staff",
+      "tier": "4.0",
+      "item_power": 700,
+      "identifier": "T4_2H_FROSTSTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T4_2H_FROSTSTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 20,
+        "name": "Frost Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 545,
+      "name": "Adept's Frost Staff",
+      "tier": "4.0",
+      "item_power": 700,
+      "identifier": "T4_MAIN_FROSTSTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T4_MAIN_FROSTSTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 20,
+        "name": "Frost Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 546,
+      "name": "Adept's Hoarfrost Staff",
+      "tier": "4.0",
+      "item_power": 725,
+      "identifier": "T4_MAIN_FROSTSTAFF_KEEPER",
+      "icon": "https://render.albiononline.com/v1/item/T4_MAIN_FROSTSTAFF_KEEPER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 20,
+        "name": "Frost Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 547,
+      "name": "Adept's Icicle Staff",
+      "tier": "4.0",
+      "item_power": 750,
+      "identifier": "T4_2H_ICEGAUNTLETS_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T4_2H_ICEGAUNTLETS_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 20,
+        "name": "Frost Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 548,
+      "name": "Adept's Permafrost Prism",
+      "tier": "4.0",
+      "item_power": 775,
+      "identifier": "T4_2H_ICECRYSTAL_UNDEAD",
+      "icon": "https://render.albiononline.com/v1/item/T4_2H_ICECRYSTAL_UNDEAD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 20,
+        "name": "Frost Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 549,
+      "name": "Adept's Chillhowl",
+      "tier": "4.0",
+      "item_power": 800,
+      "identifier": "T4_MAIN_FROSTSTAFF_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T4_MAIN_FROSTSTAFF_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 20,
+        "name": "Frost Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 550,
+      "name": "Expert's Great Frost Staff",
+      "tier": "5.0",
+      "item_power": 800,
+      "identifier": "T5_2H_FROSTSTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T5_2H_FROSTSTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 20,
+        "name": "Frost Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 551,
+      "name": "Expert's Frost Staff",
+      "tier": "5.0",
+      "item_power": 800,
+      "identifier": "T5_MAIN_FROSTSTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T5_MAIN_FROSTSTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 20,
+        "name": "Frost Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 552,
+      "name": "Expert's Glacial Staff",
+      "tier": "5.0",
+      "item_power": 800,
+      "identifier": "T5_2H_GLACIALSTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T5_2H_GLACIALSTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 20,
+        "name": "Frost Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 553,
+      "name": "Expert's Hoarfrost Staff",
+      "tier": "5.0",
+      "item_power": 825,
+      "identifier": "T5_MAIN_FROSTSTAFF_KEEPER",
+      "icon": "https://render.albiononline.com/v1/item/T5_MAIN_FROSTSTAFF_KEEPER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 20,
+        "name": "Frost Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 554,
+      "name": "Expert's Icicle Staff",
+      "tier": "5.0",
+      "item_power": 850,
+      "identifier": "T5_2H_ICEGAUNTLETS_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T5_2H_ICEGAUNTLETS_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 20,
+        "name": "Frost Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 555,
+      "name": "Expert's Permafrost Prism",
+      "tier": "5.0",
+      "item_power": 875,
+      "identifier": "T5_2H_ICECRYSTAL_UNDEAD",
+      "icon": "https://render.albiononline.com/v1/item/T5_2H_ICECRYSTAL_UNDEAD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 20,
+        "name": "Frost Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 556,
+      "name": "Expert's Chillhowl",
+      "tier": "5.0",
+      "item_power": 900,
+      "identifier": "T5_MAIN_FROSTSTAFF_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T5_MAIN_FROSTSTAFF_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 20,
+        "name": "Frost Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 557,
+      "name": "Master's Frost Staff",
+      "tier": "6.0",
+      "item_power": 900,
+      "identifier": "T6_MAIN_FROSTSTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T6_MAIN_FROSTSTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 20,
+        "name": "Frost Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 558,
+      "name": "Master's Glacial Staff",
+      "tier": "6.0",
+      "item_power": 900,
+      "identifier": "T6_2H_GLACIALSTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T6_2H_GLACIALSTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 20,
+        "name": "Frost Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 559,
+      "name": "Master's Great Frost Staff",
+      "tier": "6.0",
+      "item_power": 900,
+      "identifier": "T6_2H_FROSTSTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T6_2H_FROSTSTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 20,
+        "name": "Frost Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 560,
+      "name": "Master's Hoarfrost Staff",
+      "tier": "6.0",
+      "item_power": 925,
+      "identifier": "T6_MAIN_FROSTSTAFF_KEEPER",
+      "icon": "https://render.albiononline.com/v1/item/T6_MAIN_FROSTSTAFF_KEEPER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 20,
+        "name": "Frost Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 561,
+      "name": "Master's Icicle Staff",
+      "tier": "6.0",
+      "item_power": 950,
+      "identifier": "T6_2H_ICEGAUNTLETS_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T6_2H_ICEGAUNTLETS_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 20,
+        "name": "Frost Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 562,
+      "name": "Master's Permafrost Prism",
+      "tier": "6.0",
+      "item_power": 975,
+      "identifier": "T6_2H_ICECRYSTAL_UNDEAD",
+      "icon": "https://render.albiononline.com/v1/item/T6_2H_ICECRYSTAL_UNDEAD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 20,
+        "name": "Frost Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 563,
+      "name": "Master's Chillhowl",
+      "tier": "6.0",
+      "item_power": 1000,
+      "identifier": "T6_MAIN_FROSTSTAFF_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T6_MAIN_FROSTSTAFF_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 20,
+        "name": "Frost Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 564,
+      "name": "Grandmaster's Great Frost Staff",
+      "tier": "7.0",
+      "item_power": 1000,
+      "identifier": "T7_2H_FROSTSTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T7_2H_FROSTSTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 20,
+        "name": "Frost Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 565,
+      "name": "Grandmaster's Frost Staff",
+      "tier": "7.0",
+      "item_power": 1000,
+      "identifier": "T7_MAIN_FROSTSTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T7_MAIN_FROSTSTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 20,
+        "name": "Frost Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 566,
+      "name": "Grandmaster's Glacial Staff",
+      "tier": "7.0",
+      "item_power": 1000,
+      "identifier": "T7_2H_GLACIALSTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T7_2H_GLACIALSTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 20,
+        "name": "Frost Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 567,
+      "name": "Grandmaster's Hoarfrost Staff",
+      "tier": "7.0",
+      "item_power": 1025,
+      "identifier": "T7_MAIN_FROSTSTAFF_KEEPER",
+      "icon": "https://render.albiononline.com/v1/item/T7_MAIN_FROSTSTAFF_KEEPER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 20,
+        "name": "Frost Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 568,
+      "name": "Grandmaster's Icicle Staff",
+      "tier": "7.0",
+      "item_power": 1050,
+      "identifier": "T7_2H_ICEGAUNTLETS_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T7_2H_ICEGAUNTLETS_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 20,
+        "name": "Frost Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 569,
+      "name": "Grandmaster's Permafrost Prism",
+      "tier": "7.0",
+      "item_power": 1075,
+      "identifier": "T7_2H_ICECRYSTAL_UNDEAD",
+      "icon": "https://render.albiononline.com/v1/item/T7_2H_ICECRYSTAL_UNDEAD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 20,
+        "name": "Frost Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 570,
+      "name": "Grandmaster's Chillhowl",
+      "tier": "7.0",
+      "item_power": 1100,
+      "identifier": "T7_MAIN_FROSTSTAFF_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T7_MAIN_FROSTSTAFF_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 20,
+        "name": "Frost Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 571,
+      "name": "Elder's Frost Staff",
+      "tier": "8.0",
+      "item_power": 1100,
+      "identifier": "T8_MAIN_FROSTSTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T8_MAIN_FROSTSTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 20,
+        "name": "Frost Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 572,
+      "name": "Elder's Glacial Staff",
+      "tier": "8.0",
+      "item_power": 1100,
+      "identifier": "T8_2H_GLACIALSTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T8_2H_GLACIALSTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 20,
+        "name": "Frost Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 573,
+      "name": "Elder's Great Frost Staff",
+      "tier": "8.0",
+      "item_power": 1100,
+      "identifier": "T8_2H_FROSTSTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T8_2H_FROSTSTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 20,
+        "name": "Frost Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 574,
+      "name": "Elder's Hoarfrost Staff",
+      "tier": "8.0",
+      "item_power": 1125,
+      "identifier": "T8_MAIN_FROSTSTAFF_KEEPER",
+      "icon": "https://render.albiononline.com/v1/item/T8_MAIN_FROSTSTAFF_KEEPER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 20,
+        "name": "Frost Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 575,
+      "name": "Elder's Icicle Staff",
+      "tier": "8.0",
+      "item_power": 1150,
+      "identifier": "T8_2H_ICEGAUNTLETS_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T8_2H_ICEGAUNTLETS_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 20,
+        "name": "Frost Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 576,
+      "name": "Elder's Permafrost Prism",
+      "tier": "8.0",
+      "item_power": 1175,
+      "identifier": "T8_2H_ICECRYSTAL_UNDEAD",
+      "icon": "https://render.albiononline.com/v1/item/T8_2H_ICECRYSTAL_UNDEAD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 20,
+        "name": "Frost Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 577,
+      "name": "Elder's Chillhowl",
+      "tier": "8.0",
+      "item_power": 1200,
+      "identifier": "T8_MAIN_FROSTSTAFF_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T8_MAIN_FROSTSTAFF_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 20,
+        "name": "Frost Staff",
+        "type": "weapon"
+      }
+    }
+  ]
+}

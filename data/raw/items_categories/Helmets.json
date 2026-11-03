@@ -1,0 +1,850 @@
+{
+  "data": [
+    {
+      "id": 239,
+      "name": "Novice's Soldier Helmet",
+      "tier": "2.0",
+      "item_power": 300,
+      "identifier": "T2_HEAD_PLATE_SET1",
+      "icon": "https://render.albiononline.com/v1/item/T2_HEAD_PLATE_SET1@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 33,
+        "name": "Helmets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 240,
+      "name": "Journeyman's Soldier Helmet",
+      "tier": "3.0",
+      "item_power": 500,
+      "identifier": "T3_HEAD_PLATE_SET1",
+      "icon": "https://render.albiononline.com/v1/item/T3_HEAD_PLATE_SET1@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 33,
+        "name": "Helmets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 241,
+      "name": "Adept's Demon Helmet",
+      "tier": "4.0",
+      "item_power": 750,
+      "identifier": "T4_HEAD_PLATE_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T4_HEAD_PLATE_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 33,
+        "name": "Helmets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 242,
+      "name": "Adept's Duskweaver Helmet",
+      "tier": "4.0",
+      "item_power": 775,
+      "identifier": "T4_HEAD_PLATE_FEY",
+      "icon": "https://render.albiononline.com/v1/item/T4_HEAD_PLATE_FEY@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 33,
+        "name": "Helmets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 243,
+      "name": "Adept's Graveguard Helmet",
+      "tier": "4.0",
+      "item_power": 725,
+      "identifier": "T4_HEAD_PLATE_UNDEAD",
+      "icon": "https://render.albiononline.com/v1/item/T4_HEAD_PLATE_UNDEAD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 33,
+        "name": "Helmets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 244,
+      "name": "Adept's Guardian Helmet",
+      "tier": "4.0",
+      "item_power": 700,
+      "identifier": "T4_HEAD_PLATE_SET3",
+      "icon": "https://render.albiononline.com/v1/item/T4_HEAD_PLATE_SET3@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 33,
+        "name": "Helmets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 245,
+      "name": "Adept's Helmet of Valor",
+      "tier": "4.0",
+      "item_power": 800,
+      "identifier": "T4_HEAD_PLATE_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T4_HEAD_PLATE_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 33,
+        "name": "Helmets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 246,
+      "name": "Adept's Judicator Helmet",
+      "tier": "4.0",
+      "item_power": 775,
+      "identifier": "T4_HEAD_PLATE_KEEPER",
+      "icon": "https://render.albiononline.com/v1/item/T4_HEAD_PLATE_KEEPER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 33,
+        "name": "Helmets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 247,
+      "name": "Adept's Knight Helmet",
+      "tier": "4.0",
+      "item_power": 700,
+      "identifier": "T4_HEAD_PLATE_SET2",
+      "icon": "https://render.albiononline.com/v1/item/T4_HEAD_PLATE_SET2@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 33,
+        "name": "Helmets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 248,
+      "name": "Adept's Royal Helmet",
+      "tier": "4.0",
+      "item_power": 725,
+      "identifier": "T4_HEAD_PLATE_ROYAL",
+      "icon": "https://render.albiononline.com/v1/item/T4_HEAD_PLATE_ROYAL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 33,
+        "name": "Helmets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 249,
+      "name": "Adept's Soldier Helmet",
+      "tier": "4.0",
+      "item_power": 700,
+      "identifier": "T4_HEAD_PLATE_SET1",
+      "icon": "https://render.albiononline.com/v1/item/T4_HEAD_PLATE_SET1@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 33,
+        "name": "Helmets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 250,
+      "name": "Expert's Demon Helmet",
+      "tier": "5.0",
+      "item_power": 850,
+      "identifier": "T5_HEAD_PLATE_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T5_HEAD_PLATE_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 33,
+        "name": "Helmets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 251,
+      "name": "Expert's Duskweaver Helmet",
+      "tier": "5.0",
+      "item_power": 875,
+      "identifier": "T5_HEAD_PLATE_FEY",
+      "icon": "https://render.albiononline.com/v1/item/T5_HEAD_PLATE_FEY@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 33,
+        "name": "Helmets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 252,
+      "name": "Expert's Graveguard Helmet",
+      "tier": "5.0",
+      "item_power": 825,
+      "identifier": "T5_HEAD_PLATE_UNDEAD",
+      "icon": "https://render.albiononline.com/v1/item/T5_HEAD_PLATE_UNDEAD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 33,
+        "name": "Helmets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 253,
+      "name": "Expert's Guardian Helmet",
+      "tier": "5.0",
+      "item_power": 800,
+      "identifier": "T5_HEAD_PLATE_SET3",
+      "icon": "https://render.albiononline.com/v1/item/T5_HEAD_PLATE_SET3@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 33,
+        "name": "Helmets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 254,
+      "name": "Expert's Helmet of Valor",
+      "tier": "5.0",
+      "item_power": 900,
+      "identifier": "T5_HEAD_PLATE_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T5_HEAD_PLATE_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 33,
+        "name": "Helmets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 255,
+      "name": "Expert's Judicator Helmet",
+      "tier": "5.0",
+      "item_power": 875,
+      "identifier": "T5_HEAD_PLATE_KEEPER",
+      "icon": "https://render.albiononline.com/v1/item/T5_HEAD_PLATE_KEEPER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 33,
+        "name": "Helmets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 256,
+      "name": "Expert's Knight Helmet",
+      "tier": "5.0",
+      "item_power": 800,
+      "identifier": "T5_HEAD_PLATE_SET2",
+      "icon": "https://render.albiononline.com/v1/item/T5_HEAD_PLATE_SET2@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 33,
+        "name": "Helmets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 257,
+      "name": "Expert's Royal Helmet",
+      "tier": "5.0",
+      "item_power": 825,
+      "identifier": "T5_HEAD_PLATE_ROYAL",
+      "icon": "https://render.albiononline.com/v1/item/T5_HEAD_PLATE_ROYAL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 33,
+        "name": "Helmets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 258,
+      "name": "Expert's Soldier Helmet",
+      "tier": "5.0",
+      "item_power": 800,
+      "identifier": "T5_HEAD_PLATE_SET1",
+      "icon": "https://render.albiononline.com/v1/item/T5_HEAD_PLATE_SET1@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 33,
+        "name": "Helmets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 259,
+      "name": "Master's Demon Helmet",
+      "tier": "6.0",
+      "item_power": 950,
+      "identifier": "T6_HEAD_PLATE_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T6_HEAD_PLATE_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 33,
+        "name": "Helmets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 260,
+      "name": "Master's Duskweaver Helmet",
+      "tier": "6.0",
+      "item_power": 975,
+      "identifier": "T6_HEAD_PLATE_FEY",
+      "icon": "https://render.albiononline.com/v1/item/T6_HEAD_PLATE_FEY@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 33,
+        "name": "Helmets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 261,
+      "name": "Master's Graveguard Helmet",
+      "tier": "6.0",
+      "item_power": 925,
+      "identifier": "T6_HEAD_PLATE_UNDEAD",
+      "icon": "https://render.albiononline.com/v1/item/T6_HEAD_PLATE_UNDEAD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 33,
+        "name": "Helmets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 262,
+      "name": "Master's Guardian Helmet",
+      "tier": "6.0",
+      "item_power": 900,
+      "identifier": "T6_HEAD_PLATE_SET3",
+      "icon": "https://render.albiononline.com/v1/item/T6_HEAD_PLATE_SET3@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 33,
+        "name": "Helmets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 263,
+      "name": "Master's Helmet of Valor",
+      "tier": "6.0",
+      "item_power": 1000,
+      "identifier": "T6_HEAD_PLATE_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T6_HEAD_PLATE_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 33,
+        "name": "Helmets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 264,
+      "name": "Master's Judicator Helmet",
+      "tier": "6.0",
+      "item_power": 975,
+      "identifier": "T6_HEAD_PLATE_KEEPER",
+      "icon": "https://render.albiononline.com/v1/item/T6_HEAD_PLATE_KEEPER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 33,
+        "name": "Helmets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 265,
+      "name": "Master's Knight Helmet",
+      "tier": "6.0",
+      "item_power": 900,
+      "identifier": "T6_HEAD_PLATE_SET2",
+      "icon": "https://render.albiononline.com/v1/item/T6_HEAD_PLATE_SET2@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 33,
+        "name": "Helmets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 266,
+      "name": "Master's Royal Helmet",
+      "tier": "6.0",
+      "item_power": 925,
+      "identifier": "T6_HEAD_PLATE_ROYAL",
+      "icon": "https://render.albiononline.com/v1/item/T6_HEAD_PLATE_ROYAL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 33,
+        "name": "Helmets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 267,
+      "name": "Master's Soldier Helmet",
+      "tier": "6.0",
+      "item_power": 900,
+      "identifier": "T6_HEAD_PLATE_SET1",
+      "icon": "https://render.albiononline.com/v1/item/T6_HEAD_PLATE_SET1@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 33,
+        "name": "Helmets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 268,
+      "name": "Grandmaster's Demon Helmet",
+      "tier": "7.0",
+      "item_power": 1050,
+      "identifier": "T7_HEAD_PLATE_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T7_HEAD_PLATE_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 33,
+        "name": "Helmets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 269,
+      "name": "Grandmaster's Duskweaver Helmet",
+      "tier": "7.0",
+      "item_power": 1075,
+      "identifier": "T7_HEAD_PLATE_FEY",
+      "icon": "https://render.albiononline.com/v1/item/T7_HEAD_PLATE_FEY@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 33,
+        "name": "Helmets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 270,
+      "name": "Grandmaster's Graveguard Helmet",
+      "tier": "7.0",
+      "item_power": 1025,
+      "identifier": "T7_HEAD_PLATE_UNDEAD",
+      "icon": "https://render.albiononline.com/v1/item/T7_HEAD_PLATE_UNDEAD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 33,
+        "name": "Helmets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 271,
+      "name": "Grandmaster's Guardian Helmet",
+      "tier": "7.0",
+      "item_power": 1000,
+      "identifier": "T7_HEAD_PLATE_SET3",
+      "icon": "https://render.albiononline.com/v1/item/T7_HEAD_PLATE_SET3@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 33,
+        "name": "Helmets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 272,
+      "name": "Grandmaster's Helmet of Valor",
+      "tier": "7.0",
+      "item_power": 1100,
+      "identifier": "T7_HEAD_PLATE_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T7_HEAD_PLATE_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 33,
+        "name": "Helmets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 273,
+      "name": "Grandmaster's Judicator Helmet",
+      "tier": "7.0",
+      "item_power": 1075,
+      "identifier": "T7_HEAD_PLATE_KEEPER",
+      "icon": "https://render.albiononline.com/v1/item/T7_HEAD_PLATE_KEEPER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 33,
+        "name": "Helmets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 274,
+      "name": "Grandmaster's Knight Helmet",
+      "tier": "7.0",
+      "item_power": 1000,
+      "identifier": "T7_HEAD_PLATE_SET2",
+      "icon": "https://render.albiononline.com/v1/item/T7_HEAD_PLATE_SET2@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 33,
+        "name": "Helmets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 275,
+      "name": "Grandmaster's Royal Helmet",
+      "tier": "7.0",
+      "item_power": 1025,
+      "identifier": "T7_HEAD_PLATE_ROYAL",
+      "icon": "https://render.albiononline.com/v1/item/T7_HEAD_PLATE_ROYAL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 33,
+        "name": "Helmets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 276,
+      "name": "Grandmaster's Soldier Helmet",
+      "tier": "7.0",
+      "item_power": 1000,
+      "identifier": "T7_HEAD_PLATE_SET1",
+      "icon": "https://render.albiononline.com/v1/item/T7_HEAD_PLATE_SET1@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 33,
+        "name": "Helmets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 277,
+      "name": "Elder's Demon Helmet",
+      "tier": "8.0",
+      "item_power": 1150,
+      "identifier": "T8_HEAD_PLATE_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T8_HEAD_PLATE_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 33,
+        "name": "Helmets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 278,
+      "name": "Elder's Duskweaver Helmet",
+      "tier": "8.0",
+      "item_power": 1175,
+      "identifier": "T8_HEAD_PLATE_FEY",
+      "icon": "https://render.albiononline.com/v1/item/T8_HEAD_PLATE_FEY@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 33,
+        "name": "Helmets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 279,
+      "name": "Elder's Graveguard Helmet",
+      "tier": "8.0",
+      "item_power": 1125,
+      "identifier": "T8_HEAD_PLATE_UNDEAD",
+      "icon": "https://render.albiononline.com/v1/item/T8_HEAD_PLATE_UNDEAD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 33,
+        "name": "Helmets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 280,
+      "name": "Elder's Guardian Helmet",
+      "tier": "8.0",
+      "item_power": 1100,
+      "identifier": "T8_HEAD_PLATE_SET3",
+      "icon": "https://render.albiononline.com/v1/item/T8_HEAD_PLATE_SET3@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 33,
+        "name": "Helmets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 281,
+      "name": "Elder's Helmet of Valor",
+      "tier": "8.0",
+      "item_power": 1200,
+      "identifier": "T8_HEAD_PLATE_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T8_HEAD_PLATE_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 33,
+        "name": "Helmets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 282,
+      "name": "Elder's Judicator Helmet",
+      "tier": "8.0",
+      "item_power": 1175,
+      "identifier": "T8_HEAD_PLATE_KEEPER",
+      "icon": "https://render.albiononline.com/v1/item/T8_HEAD_PLATE_KEEPER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 33,
+        "name": "Helmets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 283,
+      "name": "Elder's Knight Helmet",
+      "tier": "8.0",
+      "item_power": 1100,
+      "identifier": "T8_HEAD_PLATE_SET2",
+      "icon": "https://render.albiononline.com/v1/item/T8_HEAD_PLATE_SET2@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 33,
+        "name": "Helmets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 284,
+      "name": "Elder's Royal Helmet",
+      "tier": "8.0",
+      "item_power": 1125,
+      "identifier": "T8_HEAD_PLATE_ROYAL",
+      "icon": "https://render.albiononline.com/v1/item/T8_HEAD_PLATE_ROYAL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 33,
+        "name": "Helmets",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 285,
+      "name": "Elder's Soldier Helmet",
+      "tier": "8.0",
+      "item_power": 1100,
+      "identifier": "T8_HEAD_PLATE_SET1",
+      "icon": "https://render.albiononline.com/v1/item/T8_HEAD_PLATE_SET1@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 31,
+        "name": "Plate Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 33,
+        "name": "Helmets",
+        "type": "armor"
+      }
+    }
+  ]
+}

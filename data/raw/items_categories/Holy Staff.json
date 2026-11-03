@@ -1,0 +1,652 @@
+{
+  "data": [
+    {
+      "id": 470,
+      "name": "Journeyman's Holy Staff",
+      "tier": "3.0",
+      "item_power": 500,
+      "identifier": "T3_MAIN_HOLYSTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T3_MAIN_HOLYSTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 18,
+        "name": "Holy Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 471,
+      "name": "Adept's Great Holy Staff",
+      "tier": "4.0",
+      "item_power": 700,
+      "identifier": "T4_2H_HOLYSTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T4_2H_HOLYSTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 18,
+        "name": "Holy Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 472,
+      "name": "Adept's Divine Staff",
+      "tier": "4.0",
+      "item_power": 700,
+      "identifier": "T4_2H_DIVINESTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T4_2H_DIVINESTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 18,
+        "name": "Holy Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 473,
+      "name": "Adept's Holy Staff",
+      "tier": "4.0",
+      "item_power": 700,
+      "identifier": "T4_MAIN_HOLYSTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T4_MAIN_HOLYSTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 18,
+        "name": "Holy Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 474,
+      "name": "Adept's Lifetouch Staff",
+      "tier": "4.0",
+      "item_power": 725,
+      "identifier": "T4_MAIN_HOLYSTAFF_MORGANA",
+      "icon": "https://render.albiononline.com/v1/item/T4_MAIN_HOLYSTAFF_MORGANA@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 18,
+        "name": "Holy Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 475,
+      "name": "Adept's Fallen Staff",
+      "tier": "4.0",
+      "item_power": 750,
+      "identifier": "T4_2H_HOLYSTAFF_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T4_2H_HOLYSTAFF_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 18,
+        "name": "Holy Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 476,
+      "name": "Adept's Redemption Staff",
+      "tier": "4.0",
+      "item_power": 775,
+      "identifier": "T4_2H_HOLYSTAFF_UNDEAD",
+      "icon": "https://render.albiononline.com/v1/item/T4_2H_HOLYSTAFF_UNDEAD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 18,
+        "name": "Holy Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 477,
+      "name": "Adept's Hallowfall",
+      "tier": "4.0",
+      "item_power": 800,
+      "identifier": "T4_MAIN_HOLYSTAFF_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T4_MAIN_HOLYSTAFF_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 18,
+        "name": "Holy Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 478,
+      "name": "Expert's Holy Staff",
+      "tier": "5.0",
+      "item_power": 800,
+      "identifier": "T5_MAIN_HOLYSTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T5_MAIN_HOLYSTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 18,
+        "name": "Holy Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 479,
+      "name": "Expert's Great Holy Staff",
+      "tier": "5.0",
+      "item_power": 800,
+      "identifier": "T5_2H_HOLYSTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T5_2H_HOLYSTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 18,
+        "name": "Holy Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 480,
+      "name": "Expert's Divine Staff",
+      "tier": "5.0",
+      "item_power": 800,
+      "identifier": "T5_2H_DIVINESTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T5_2H_DIVINESTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 18,
+        "name": "Holy Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 481,
+      "name": "Expert's Lifetouch Staff",
+      "tier": "5.0",
+      "item_power": 825,
+      "identifier": "T5_MAIN_HOLYSTAFF_MORGANA",
+      "icon": "https://render.albiononline.com/v1/item/T5_MAIN_HOLYSTAFF_MORGANA@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 18,
+        "name": "Holy Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 482,
+      "name": "Expert's Fallen Staff",
+      "tier": "5.0",
+      "item_power": 850,
+      "identifier": "T5_2H_HOLYSTAFF_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T5_2H_HOLYSTAFF_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 18,
+        "name": "Holy Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 483,
+      "name": "Expert's Redemption Staff",
+      "tier": "5.0",
+      "item_power": 875,
+      "identifier": "T5_2H_HOLYSTAFF_UNDEAD",
+      "icon": "https://render.albiononline.com/v1/item/T5_2H_HOLYSTAFF_UNDEAD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 18,
+        "name": "Holy Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 484,
+      "name": "Expert's Hallowfall",
+      "tier": "5.0",
+      "item_power": 900,
+      "identifier": "T5_MAIN_HOLYSTAFF_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T5_MAIN_HOLYSTAFF_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 18,
+        "name": "Holy Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 485,
+      "name": "Master's Divine Staff",
+      "tier": "6.0",
+      "item_power": 900,
+      "identifier": "T6_2H_DIVINESTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T6_2H_DIVINESTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 18,
+        "name": "Holy Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 486,
+      "name": "Master's Great Holy Staff",
+      "tier": "6.0",
+      "item_power": 900,
+      "identifier": "T6_2H_HOLYSTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T6_2H_HOLYSTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 18,
+        "name": "Holy Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 487,
+      "name": "Master's Holy Staff",
+      "tier": "6.0",
+      "item_power": 900,
+      "identifier": "T6_MAIN_HOLYSTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T6_MAIN_HOLYSTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 18,
+        "name": "Holy Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 488,
+      "name": "Master's Lifetouch Staff",
+      "tier": "6.0",
+      "item_power": 925,
+      "identifier": "T6_MAIN_HOLYSTAFF_MORGANA",
+      "icon": "https://render.albiononline.com/v1/item/T6_MAIN_HOLYSTAFF_MORGANA@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 18,
+        "name": "Holy Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 489,
+      "name": "Master's Fallen Staff",
+      "tier": "6.0",
+      "item_power": 950,
+      "identifier": "T6_2H_HOLYSTAFF_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T6_2H_HOLYSTAFF_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 18,
+        "name": "Holy Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 490,
+      "name": "Master's Redemption Staff",
+      "tier": "6.0",
+      "item_power": 975,
+      "identifier": "T6_2H_HOLYSTAFF_UNDEAD",
+      "icon": "https://render.albiononline.com/v1/item/T6_2H_HOLYSTAFF_UNDEAD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 18,
+        "name": "Holy Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 491,
+      "name": "Master's Hallowfall",
+      "tier": "6.0",
+      "item_power": 1000,
+      "identifier": "T6_MAIN_HOLYSTAFF_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T6_MAIN_HOLYSTAFF_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 18,
+        "name": "Holy Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 492,
+      "name": "Grandmaster's Divine Staff",
+      "tier": "7.0",
+      "item_power": 1000,
+      "identifier": "T7_2H_DIVINESTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T7_2H_DIVINESTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 18,
+        "name": "Holy Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 493,
+      "name": "Grandmaster's Great Holy Staff",
+      "tier": "7.0",
+      "item_power": 1000,
+      "identifier": "T7_2H_HOLYSTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T7_2H_HOLYSTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 18,
+        "name": "Holy Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 494,
+      "name": "Grandmaster's Holy Staff",
+      "tier": "7.0",
+      "item_power": 1000,
+      "identifier": "T7_MAIN_HOLYSTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T7_MAIN_HOLYSTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 18,
+        "name": "Holy Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 495,
+      "name": "Grandmaster's Lifetouch Staff",
+      "tier": "7.0",
+      "item_power": 1025,
+      "identifier": "T7_MAIN_HOLYSTAFF_MORGANA",
+      "icon": "https://render.albiononline.com/v1/item/T7_MAIN_HOLYSTAFF_MORGANA@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 18,
+        "name": "Holy Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 496,
+      "name": "Grandmaster's Fallen Staff",
+      "tier": "7.0",
+      "item_power": 1050,
+      "identifier": "T7_2H_HOLYSTAFF_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T7_2H_HOLYSTAFF_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 18,
+        "name": "Holy Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 497,
+      "name": "Grandmaster's Redemption Staff",
+      "tier": "7.0",
+      "item_power": 1075,
+      "identifier": "T7_2H_HOLYSTAFF_UNDEAD",
+      "icon": "https://render.albiononline.com/v1/item/T7_2H_HOLYSTAFF_UNDEAD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 18,
+        "name": "Holy Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 498,
+      "name": "Grandmaster's Hallowfall",
+      "tier": "7.0",
+      "item_power": 1100,
+      "identifier": "T7_MAIN_HOLYSTAFF_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T7_MAIN_HOLYSTAFF_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 18,
+        "name": "Holy Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 499,
+      "name": "Elder's Great Holy Staff",
+      "tier": "8.0",
+      "item_power": 1100,
+      "identifier": "T8_2H_HOLYSTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T8_2H_HOLYSTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 18,
+        "name": "Holy Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 500,
+      "name": "Elder's Holy Staff",
+      "tier": "8.0",
+      "item_power": 1100,
+      "identifier": "T8_MAIN_HOLYSTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T8_MAIN_HOLYSTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 18,
+        "name": "Holy Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 501,
+      "name": "Elder's Divine Staff",
+      "tier": "8.0",
+      "item_power": 1100,
+      "identifier": "T8_2H_DIVINESTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T8_2H_DIVINESTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 18,
+        "name": "Holy Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 502,
+      "name": "Elder's Lifetouch Staff",
+      "tier": "8.0",
+      "item_power": 1125,
+      "identifier": "T8_MAIN_HOLYSTAFF_MORGANA",
+      "icon": "https://render.albiononline.com/v1/item/T8_MAIN_HOLYSTAFF_MORGANA@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 18,
+        "name": "Holy Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 503,
+      "name": "Elder's Fallen Staff",
+      "tier": "8.0",
+      "item_power": 1150,
+      "identifier": "T8_2H_HOLYSTAFF_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T8_2H_HOLYSTAFF_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 18,
+        "name": "Holy Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 504,
+      "name": "Elder's Redemption Staff",
+      "tier": "8.0",
+      "item_power": 1175,
+      "identifier": "T8_2H_HOLYSTAFF_UNDEAD",
+      "icon": "https://render.albiononline.com/v1/item/T8_2H_HOLYSTAFF_UNDEAD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 18,
+        "name": "Holy Staff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 505,
+      "name": "Elder's Hallowfall",
+      "tier": "8.0",
+      "item_power": 1200,
+      "identifier": "T8_MAIN_HOLYSTAFF_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T8_MAIN_HOLYSTAFF_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 18,
+        "name": "Holy Staff",
+        "type": "weapon"
+      }
+    }
+  ]
+}

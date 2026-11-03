@@ -1,0 +1,850 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Novice's Scholar Robe",
+      "tier": "2.0",
+      "item_power": 300,
+      "identifier": "T2_ARMOR_CLOTH_SET1",
+      "icon": "https://render.albiononline.com/v1/item/T2_ARMOR_CLOTH_SET1@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 24,
+        "name": "Robes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Journeyman's Scholar Robe",
+      "tier": "3.0",
+      "item_power": 500,
+      "identifier": "T3_ARMOR_CLOTH_SET1",
+      "icon": "https://render.albiononline.com/v1/item/T3_ARMOR_CLOTH_SET1@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 24,
+        "name": "Robes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Adept's Cleric Robe",
+      "tier": "4.0",
+      "item_power": 700,
+      "identifier": "T4_ARMOR_CLOTH_SET2",
+      "icon": "https://render.albiononline.com/v1/item/T4_ARMOR_CLOTH_SET2@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 24,
+        "name": "Robes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Adept's Cultist Robe",
+      "tier": "4.0",
+      "item_power": 775,
+      "identifier": "T4_ARMOR_CLOTH_MORGANA",
+      "icon": "https://render.albiononline.com/v1/item/T4_ARMOR_CLOTH_MORGANA@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 24,
+        "name": "Robes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Adept's Druid Robe",
+      "tier": "4.0",
+      "item_power": 725,
+      "identifier": "T4_ARMOR_CLOTH_KEEPER",
+      "icon": "https://render.albiononline.com/v1/item/T4_ARMOR_CLOTH_KEEPER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 24,
+        "name": "Robes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Adept's Feyscale Robe",
+      "tier": "4.0",
+      "item_power": 775,
+      "identifier": "T4_ARMOR_CLOTH_FEY",
+      "icon": "https://render.albiononline.com/v1/item/T4_ARMOR_CLOTH_FEY@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 24,
+        "name": "Robes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Adept's Fiend Robe",
+      "tier": "4.0",
+      "item_power": 750,
+      "identifier": "T4_ARMOR_CLOTH_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T4_ARMOR_CLOTH_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 24,
+        "name": "Robes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Adept's Mage Robe",
+      "tier": "4.0",
+      "item_power": 700,
+      "identifier": "T4_ARMOR_CLOTH_SET3",
+      "icon": "https://render.albiononline.com/v1/item/T4_ARMOR_CLOTH_SET3@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 24,
+        "name": "Robes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Adept's Robe of Purity",
+      "tier": "4.0",
+      "item_power": 800,
+      "identifier": "T4_ARMOR_CLOTH_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T4_ARMOR_CLOTH_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 24,
+        "name": "Robes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Adept's Royal Robe",
+      "tier": "4.0",
+      "item_power": 725,
+      "identifier": "T4_ARMOR_CLOTH_ROYAL",
+      "icon": "https://render.albiononline.com/v1/item/T4_ARMOR_CLOTH_ROYAL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 24,
+        "name": "Robes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 11,
+      "name": "Adept's Scholar Robe",
+      "tier": "4.0",
+      "item_power": 700,
+      "identifier": "T4_ARMOR_CLOTH_SET1",
+      "icon": "https://render.albiononline.com/v1/item/T4_ARMOR_CLOTH_SET1@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 24,
+        "name": "Robes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 12,
+      "name": "Expert's Cleric Robe",
+      "tier": "5.0",
+      "item_power": 800,
+      "identifier": "T5_ARMOR_CLOTH_SET2",
+      "icon": "https://render.albiononline.com/v1/item/T5_ARMOR_CLOTH_SET2@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 24,
+        "name": "Robes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 13,
+      "name": "Expert's Cultist Robe",
+      "tier": "5.0",
+      "item_power": 875,
+      "identifier": "T5_ARMOR_CLOTH_MORGANA",
+      "icon": "https://render.albiononline.com/v1/item/T5_ARMOR_CLOTH_MORGANA@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 24,
+        "name": "Robes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 14,
+      "name": "Expert's Druid Robe",
+      "tier": "5.0",
+      "item_power": 825,
+      "identifier": "T5_ARMOR_CLOTH_KEEPER",
+      "icon": "https://render.albiononline.com/v1/item/T5_ARMOR_CLOTH_KEEPER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 24,
+        "name": "Robes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 15,
+      "name": "Expert's Feyscale Robe",
+      "tier": "5.0",
+      "item_power": 875,
+      "identifier": "T5_ARMOR_CLOTH_FEY",
+      "icon": "https://render.albiononline.com/v1/item/T5_ARMOR_CLOTH_FEY@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 24,
+        "name": "Robes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 16,
+      "name": "Expert's Fiend Robe",
+      "tier": "5.0",
+      "item_power": 850,
+      "identifier": "T5_ARMOR_CLOTH_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T5_ARMOR_CLOTH_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 24,
+        "name": "Robes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 17,
+      "name": "Expert's Mage Robe",
+      "tier": "5.0",
+      "item_power": 800,
+      "identifier": "T5_ARMOR_CLOTH_SET3",
+      "icon": "https://render.albiononline.com/v1/item/T5_ARMOR_CLOTH_SET3@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 24,
+        "name": "Robes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 18,
+      "name": "Expert's Robe of Purity",
+      "tier": "5.0",
+      "item_power": 900,
+      "identifier": "T5_ARMOR_CLOTH_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T5_ARMOR_CLOTH_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 24,
+        "name": "Robes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 19,
+      "name": "Expert's Royal Robe",
+      "tier": "5.0",
+      "item_power": 825,
+      "identifier": "T5_ARMOR_CLOTH_ROYAL",
+      "icon": "https://render.albiononline.com/v1/item/T5_ARMOR_CLOTH_ROYAL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 24,
+        "name": "Robes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 20,
+      "name": "Expert's Scholar Robe",
+      "tier": "5.0",
+      "item_power": 800,
+      "identifier": "T5_ARMOR_CLOTH_SET1",
+      "icon": "https://render.albiononline.com/v1/item/T5_ARMOR_CLOTH_SET1@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 24,
+        "name": "Robes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 21,
+      "name": "Master's Cleric Robe",
+      "tier": "6.0",
+      "item_power": 900,
+      "identifier": "T6_ARMOR_CLOTH_SET2",
+      "icon": "https://render.albiononline.com/v1/item/T6_ARMOR_CLOTH_SET2@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 24,
+        "name": "Robes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 22,
+      "name": "Master's Cultist Robe",
+      "tier": "6.0",
+      "item_power": 975,
+      "identifier": "T6_ARMOR_CLOTH_MORGANA",
+      "icon": "https://render.albiononline.com/v1/item/T6_ARMOR_CLOTH_MORGANA@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 24,
+        "name": "Robes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 23,
+      "name": "Master's Druid Robe",
+      "tier": "6.0",
+      "item_power": 925,
+      "identifier": "T6_ARMOR_CLOTH_KEEPER",
+      "icon": "https://render.albiononline.com/v1/item/T6_ARMOR_CLOTH_KEEPER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 24,
+        "name": "Robes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 24,
+      "name": "Master's Feyscale Robe",
+      "tier": "6.0",
+      "item_power": 975,
+      "identifier": "T6_ARMOR_CLOTH_FEY",
+      "icon": "https://render.albiononline.com/v1/item/T6_ARMOR_CLOTH_FEY@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 24,
+        "name": "Robes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 25,
+      "name": "Master's Fiend Robe",
+      "tier": "6.0",
+      "item_power": 950,
+      "identifier": "T6_ARMOR_CLOTH_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T6_ARMOR_CLOTH_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 24,
+        "name": "Robes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 26,
+      "name": "Master's Mage Robe",
+      "tier": "6.0",
+      "item_power": 900,
+      "identifier": "T6_ARMOR_CLOTH_SET3",
+      "icon": "https://render.albiononline.com/v1/item/T6_ARMOR_CLOTH_SET3@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 24,
+        "name": "Robes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 27,
+      "name": "Master's Robe of Purity",
+      "tier": "6.0",
+      "item_power": 1000,
+      "identifier": "T6_ARMOR_CLOTH_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T6_ARMOR_CLOTH_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 24,
+        "name": "Robes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 28,
+      "name": "Master's Royal Robe",
+      "tier": "6.0",
+      "item_power": 925,
+      "identifier": "T6_ARMOR_CLOTH_ROYAL",
+      "icon": "https://render.albiononline.com/v1/item/T6_ARMOR_CLOTH_ROYAL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 24,
+        "name": "Robes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 29,
+      "name": "Master's Scholar Robe",
+      "tier": "6.0",
+      "item_power": 900,
+      "identifier": "T6_ARMOR_CLOTH_SET1",
+      "icon": "https://render.albiononline.com/v1/item/T6_ARMOR_CLOTH_SET1@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 24,
+        "name": "Robes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 30,
+      "name": "Grandmaster's Cleric Robe",
+      "tier": "7.0",
+      "item_power": 1000,
+      "identifier": "T7_ARMOR_CLOTH_SET2",
+      "icon": "https://render.albiononline.com/v1/item/T7_ARMOR_CLOTH_SET2@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 24,
+        "name": "Robes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 31,
+      "name": "Grandmaster's Cultist Robe",
+      "tier": "7.0",
+      "item_power": 1075,
+      "identifier": "T7_ARMOR_CLOTH_MORGANA",
+      "icon": "https://render.albiononline.com/v1/item/T7_ARMOR_CLOTH_MORGANA@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 24,
+        "name": "Robes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 32,
+      "name": "Grandmaster's Druid Robe",
+      "tier": "7.0",
+      "item_power": 1025,
+      "identifier": "T7_ARMOR_CLOTH_KEEPER",
+      "icon": "https://render.albiononline.com/v1/item/T7_ARMOR_CLOTH_KEEPER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 24,
+        "name": "Robes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 33,
+      "name": "Grandmaster's Feyscale Robe",
+      "tier": "7.0",
+      "item_power": 1075,
+      "identifier": "T7_ARMOR_CLOTH_FEY",
+      "icon": "https://render.albiononline.com/v1/item/T7_ARMOR_CLOTH_FEY@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 24,
+        "name": "Robes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 34,
+      "name": "Grandmaster's Fiend Robe",
+      "tier": "7.0",
+      "item_power": 1050,
+      "identifier": "T7_ARMOR_CLOTH_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T7_ARMOR_CLOTH_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 24,
+        "name": "Robes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 35,
+      "name": "Grandmaster's Mage Robe",
+      "tier": "7.0",
+      "item_power": 1000,
+      "identifier": "T7_ARMOR_CLOTH_SET3",
+      "icon": "https://render.albiononline.com/v1/item/T7_ARMOR_CLOTH_SET3@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 24,
+        "name": "Robes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 36,
+      "name": "Grandmaster's Robe of Purity",
+      "tier": "7.0",
+      "item_power": 1100,
+      "identifier": "T7_ARMOR_CLOTH_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T7_ARMOR_CLOTH_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 24,
+        "name": "Robes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 37,
+      "name": "Grandmaster's Royal Robe",
+      "tier": "7.0",
+      "item_power": 1025,
+      "identifier": "T7_ARMOR_CLOTH_ROYAL",
+      "icon": "https://render.albiononline.com/v1/item/T7_ARMOR_CLOTH_ROYAL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 24,
+        "name": "Robes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 38,
+      "name": "Grandmaster's Scholar Robe",
+      "tier": "7.0",
+      "item_power": 1000,
+      "identifier": "T7_ARMOR_CLOTH_SET1",
+      "icon": "https://render.albiononline.com/v1/item/T7_ARMOR_CLOTH_SET1@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 24,
+        "name": "Robes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 39,
+      "name": "Elder's Cleric Robe",
+      "tier": "8.0",
+      "item_power": 1100,
+      "identifier": "T8_ARMOR_CLOTH_SET2",
+      "icon": "https://render.albiononline.com/v1/item/T8_ARMOR_CLOTH_SET2@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 24,
+        "name": "Robes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 40,
+      "name": "Elder's Cultist Robe",
+      "tier": "8.0",
+      "item_power": 1175,
+      "identifier": "T8_ARMOR_CLOTH_MORGANA",
+      "icon": "https://render.albiononline.com/v1/item/T8_ARMOR_CLOTH_MORGANA@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 24,
+        "name": "Robes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 41,
+      "name": "Elder's Druid Robe",
+      "tier": "8.0",
+      "item_power": 1125,
+      "identifier": "T8_ARMOR_CLOTH_KEEPER",
+      "icon": "https://render.albiononline.com/v1/item/T8_ARMOR_CLOTH_KEEPER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 24,
+        "name": "Robes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 42,
+      "name": "Elder's Feyscale Robe",
+      "tier": "8.0",
+      "item_power": 1175,
+      "identifier": "T8_ARMOR_CLOTH_FEY",
+      "icon": "https://render.albiononline.com/v1/item/T8_ARMOR_CLOTH_FEY@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 24,
+        "name": "Robes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 43,
+      "name": "Elder's Fiend Robe",
+      "tier": "8.0",
+      "item_power": 1150,
+      "identifier": "T8_ARMOR_CLOTH_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T8_ARMOR_CLOTH_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 24,
+        "name": "Robes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 44,
+      "name": "Elder's Mage Robe",
+      "tier": "8.0",
+      "item_power": 1100,
+      "identifier": "T8_ARMOR_CLOTH_SET3",
+      "icon": "https://render.albiononline.com/v1/item/T8_ARMOR_CLOTH_SET3@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 24,
+        "name": "Robes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 45,
+      "name": "Elder's Robe of Purity",
+      "tier": "8.0",
+      "item_power": 1200,
+      "identifier": "T8_ARMOR_CLOTH_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T8_ARMOR_CLOTH_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 24,
+        "name": "Robes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 46,
+      "name": "Elder's Royal Robe",
+      "tier": "8.0",
+      "item_power": 1125,
+      "identifier": "T8_ARMOR_CLOTH_ROYAL",
+      "icon": "https://render.albiononline.com/v1/item/T8_ARMOR_CLOTH_ROYAL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 24,
+        "name": "Robes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 47,
+      "name": "Elder's Scholar Robe",
+      "tier": "8.0",
+      "item_power": 1100,
+      "identifier": "T8_ARMOR_CLOTH_SET1",
+      "icon": "https://render.albiononline.com/v1/item/T8_ARMOR_CLOTH_SET1@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 23,
+        "name": "Cloth Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 24,
+        "name": "Robes",
+        "type": "armor"
+      }
+    }
+  ]
+}

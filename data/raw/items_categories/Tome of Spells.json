@@ -1,0 +1,454 @@
+{
+  "data": [
+    {
+      "id": 614,
+      "name": "Adept's Tome of Spells",
+      "tier": "4.0",
+      "item_power": 700,
+      "identifier": "Adept's Tome of Spells",
+      "icon": "https://render.albiononline.com/v1/item/Adept's Tome of Spells@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 22,
+        "name": "Tome of Spells",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 615,
+      "name": "Expert's Tome of Spells",
+      "tier": "5.0",
+      "item_power": 800,
+      "identifier": "Expert's Tome of Spells",
+      "icon": "https://render.albiononline.com/v1/item/Expert's Tome of Spells@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 22,
+        "name": "Tome of Spells",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 616,
+      "name": "Master's Tome of Spells",
+      "tier": "6.0",
+      "item_power": 900,
+      "identifier": "Master's Tome of Spells",
+      "icon": "https://render.albiononline.com/v1/item/Master's Tome of Spells@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 22,
+        "name": "Tome of Spells",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 617,
+      "name": "Grandmaster's Tome of Spells",
+      "tier": "7.0",
+      "item_power": 1000,
+      "identifier": "Grandmaster's Tome of Spells",
+      "icon": "https://render.albiononline.com/v1/item/Grandmaster's Tome of Spells@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 22,
+        "name": "Tome of Spells",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 618,
+      "name": "Rosalia's Diary",
+      "tier": "8.0",
+      "item_power": 1100,
+      "identifier": "Rosalia's Diary",
+      "icon": "https://render.albiononline.com/v1/item/Rosalia's Diary@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 22,
+        "name": "Tome of Spells",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 649,
+      "name": "Adept's Eye of Secrets",
+      "tier": "4.0",
+      "item_power": 725,
+      "identifier": "T4_OFF_ORB_MORGANA",
+      "icon": "https://render.albiononline.com/v1/item/T4_OFF_ORB_MORGANA@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 22,
+        "name": "Tome of Spells",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 650,
+      "name": "Expert's Eye of Secrets",
+      "tier": "5.0",
+      "item_power": 825,
+      "identifier": "T5_OFF_ORB_MORGANA",
+      "icon": "https://render.albiononline.com/v1/item/T5_OFF_ORB_MORGANA@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 22,
+        "name": "Tome of Spells",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 651,
+      "name": "Master's Eye of Secrets",
+      "tier": "6.0",
+      "item_power": 925,
+      "identifier": "T6_OFF_ORB_MORGANA",
+      "icon": "https://render.albiononline.com/v1/item/T6_OFF_ORB_MORGANA@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 22,
+        "name": "Tome of Spells",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 652,
+      "name": "Grandmaster's Eye of Secrets",
+      "tier": "7.0",
+      "item_power": 1025,
+      "identifier": "T7_OFF_ORB_MORGANA",
+      "icon": "https://render.albiononline.com/v1/item/T7_OFF_ORB_MORGANA@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 22,
+        "name": "Tome of Spells",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 653,
+      "name": "Elder's Eye of Secrets",
+      "tier": "8.0",
+      "item_power": 1125,
+      "identifier": "T8_OFF_ORB_MORGANA",
+      "icon": "https://render.albiononline.com/v1/item/T8_OFF_ORB_MORGANA@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 22,
+        "name": "Tome of Spells",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 654,
+      "name": "Adept's Muisak",
+      "tier": "4.0",
+      "item_power": 750,
+      "identifier": "T4_OFF_DEMONSKULL_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T4_OFF_DEMONSKULL_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 22,
+        "name": "Tome of Spells",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 655,
+      "name": "Expert's Muisak",
+      "tier": "5.0",
+      "item_power": 850,
+      "identifier": "T5_OFF_DEMONSKULL_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T5_OFF_DEMONSKULL_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 22,
+        "name": "Tome of Spells",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 656,
+      "name": "Master's Muisak",
+      "tier": "6.0",
+      "item_power": 950,
+      "identifier": "T6_OFF_DEMONSKULL_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T6_OFF_DEMONSKULL_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 22,
+        "name": "Tome of Spells",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 657,
+      "name": "Grandmaster's Muisak",
+      "tier": "7.0",
+      "item_power": 1050,
+      "identifier": "T7_OFF_DEMONSKULL_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T7_OFF_DEMONSKULL_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 22,
+        "name": "Tome of Spells",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 658,
+      "name": "Elder's Muisak",
+      "tier": "8.0",
+      "item_power": 1150,
+      "identifier": "T8_OFF_DEMONSKULL_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T8_OFF_DEMONSKULL_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 22,
+        "name": "Tome of Spells",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 659,
+      "name": "Adept's Taproot",
+      "tier": "4.0",
+      "item_power": 775,
+      "identifier": "T4_OFF_TOTEM_KEEPER",
+      "icon": "https://render.albiononline.com/v1/item/T4_OFF_TOTEM_KEEPER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 22,
+        "name": "Tome of Spells",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 660,
+      "name": "Expert's Taproot",
+      "tier": "5.0",
+      "item_power": 875,
+      "identifier": "T5_OFF_TOTEM_KEEPER",
+      "icon": "https://render.albiononline.com/v1/item/T5_OFF_TOTEM_KEEPER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 22,
+        "name": "Tome of Spells",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 661,
+      "name": "Master's Taproot",
+      "tier": "6.0",
+      "item_power": 975,
+      "identifier": "T6_OFF_TOTEM_KEEPER",
+      "icon": "https://render.albiononline.com/v1/item/T6_OFF_TOTEM_KEEPER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 22,
+        "name": "Tome of Spells",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 662,
+      "name": "Grandmaster's Taproot",
+      "tier": "7.0",
+      "item_power": 1075,
+      "identifier": "T7_OFF_TOTEM_KEEPER",
+      "icon": "https://render.albiononline.com/v1/item/T7_OFF_TOTEM_KEEPER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 22,
+        "name": "Tome of Spells",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 663,
+      "name": "Elder's Taproot",
+      "tier": "8.0",
+      "item_power": 1175,
+      "identifier": "T8_OFF_TOTEM_KEEPER",
+      "icon": "https://render.albiononline.com/v1/item/T8_OFF_TOTEM_KEEPER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 22,
+        "name": "Tome of Spells",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 664,
+      "name": "Adept's Celestial Censer",
+      "tier": "4.0",
+      "item_power": 800,
+      "identifier": "T4_OFF_CENSER_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T4_OFF_CENSER_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 22,
+        "name": "Tome of Spells",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 665,
+      "name": "Expert's Celestial Censer",
+      "tier": "5.0",
+      "item_power": 900,
+      "identifier": "T5_OFF_CENSER_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T5_OFF_CENSER_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 22,
+        "name": "Tome of Spells",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 666,
+      "name": "Master's Celestial Censer",
+      "tier": "6.0",
+      "item_power": 1000,
+      "identifier": "T6_OFF_CENSER_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T6_OFF_CENSER_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 22,
+        "name": "Tome of Spells",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 667,
+      "name": "Grandmaster's Celestial Censer",
+      "tier": "7.0",
+      "item_power": 1100,
+      "identifier": "T7_OFF_CENSER_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T7_OFF_CENSER_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 22,
+        "name": "Tome of Spells",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 668,
+      "name": "Elder's Celestial Censer",
+      "tier": "8.0",
+      "item_power": 1200,
+      "identifier": "T8_OFF_CENSER_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T8_OFF_CENSER_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 16,
+        "name": "Mage Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 22,
+        "name": "Tome of Spells",
+        "type": "weapon"
+      }
+    }
+  ]
+}

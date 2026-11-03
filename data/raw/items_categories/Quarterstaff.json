@@ -1,0 +1,652 @@
+{
+  "data": [
+    {
+      "id": 392,
+      "name": "Journeyman's Quarterstaff",
+      "tier": "3.0",
+      "item_power": 500,
+      "identifier": "T3_2H_QUARTERSTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T3_2H_QUARTERSTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 14,
+        "name": "Quarterstaff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 393,
+      "name": "Adept's Double Bladed Staff",
+      "tier": "4.0",
+      "item_power": 700,
+      "identifier": "T4_2H_DOUBLEBLADEDSTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T4_2H_DOUBLEBLADEDSTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 14,
+        "name": "Quarterstaff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 394,
+      "name": "Adept's Quarterstaff",
+      "tier": "4.0",
+      "item_power": 700,
+      "identifier": "T4_2H_QUARTERSTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T4_2H_QUARTERSTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 14,
+        "name": "Quarterstaff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 395,
+      "name": "Adept's Iron-clad Staff",
+      "tier": "4.0",
+      "item_power": 700,
+      "identifier": "T4_2H_IRONCLADEDSTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T4_2H_IRONCLADEDSTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 14,
+        "name": "Quarterstaff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 396,
+      "name": "Adept's Black Monk Stave",
+      "tier": "4.0",
+      "item_power": 725,
+      "identifier": "T4_2H_COMBATSTAFF_MORGANA",
+      "icon": "https://render.albiononline.com/v1/item/T4_2H_COMBATSTAFF_MORGANA@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 14,
+        "name": "Quarterstaff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 397,
+      "name": "Adept's Soulscythe",
+      "tier": "4.0",
+      "item_power": 750,
+      "identifier": "T4_2H_TWINSCYTHE_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T4_2H_TWINSCYTHE_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 14,
+        "name": "Quarterstaff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 398,
+      "name": "Adept's Staff of Balance",
+      "tier": "4.0",
+      "item_power": 775,
+      "identifier": "T4_2H_ROCKSTAFF_KEEPER",
+      "icon": "https://render.albiononline.com/v1/item/T4_2H_ROCKSTAFF_KEEPER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 14,
+        "name": "Quarterstaff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 399,
+      "name": "Adept's Grailseeker",
+      "tier": "4.0",
+      "item_power": 800,
+      "identifier": "T4_2H_QUARTERSTAFF_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T4_2H_QUARTERSTAFF_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 14,
+        "name": "Quarterstaff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 400,
+      "name": "Expert's Quarterstaff",
+      "tier": "5.0",
+      "item_power": 800,
+      "identifier": "T5_2H_QUARTERSTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T5_2H_QUARTERSTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 14,
+        "name": "Quarterstaff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 401,
+      "name": "Expert's Double Bladed Staff",
+      "tier": "5.0",
+      "item_power": 800,
+      "identifier": "T5_2H_DOUBLEBLADEDSTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T5_2H_DOUBLEBLADEDSTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 14,
+        "name": "Quarterstaff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 402,
+      "name": "Expert's Iron-clad Staff",
+      "tier": "5.0",
+      "item_power": 800,
+      "identifier": "T5_2H_IRONCLADEDSTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T5_2H_IRONCLADEDSTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 14,
+        "name": "Quarterstaff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 403,
+      "name": "Expert's Black Monk Stave",
+      "tier": "5.0",
+      "item_power": 825,
+      "identifier": "T5_2H_COMBATSTAFF_MORGANA",
+      "icon": "https://render.albiononline.com/v1/item/T5_2H_COMBATSTAFF_MORGANA@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 14,
+        "name": "Quarterstaff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 404,
+      "name": "Expert's Soulscythe",
+      "tier": "5.0",
+      "item_power": 850,
+      "identifier": "T5_2H_TWINSCYTHE_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T5_2H_TWINSCYTHE_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 14,
+        "name": "Quarterstaff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 405,
+      "name": "Expert's Staff of Balance",
+      "tier": "5.0",
+      "item_power": 875,
+      "identifier": "T5_2H_ROCKSTAFF_KEEPER",
+      "icon": "https://render.albiononline.com/v1/item/T5_2H_ROCKSTAFF_KEEPER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 14,
+        "name": "Quarterstaff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 406,
+      "name": "Expert's Grailseeker",
+      "tier": "5.0",
+      "item_power": 900,
+      "identifier": "T5_2H_QUARTERSTAFF_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T5_2H_QUARTERSTAFF_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 14,
+        "name": "Quarterstaff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 407,
+      "name": "Master's Double Bladed Staff",
+      "tier": "6.0",
+      "item_power": 900,
+      "identifier": "T6_2H_DOUBLEBLADEDSTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T6_2H_DOUBLEBLADEDSTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 14,
+        "name": "Quarterstaff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 408,
+      "name": "Master's Iron-clad Staff",
+      "tier": "6.0",
+      "item_power": 900,
+      "identifier": "T6_2H_IRONCLADEDSTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T6_2H_IRONCLADEDSTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 14,
+        "name": "Quarterstaff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 409,
+      "name": "Master's Quarterstaff",
+      "tier": "6.0",
+      "item_power": 900,
+      "identifier": "T6_2H_QUARTERSTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T6_2H_QUARTERSTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 14,
+        "name": "Quarterstaff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 410,
+      "name": "Master's Black Monk Stave",
+      "tier": "6.0",
+      "item_power": 925,
+      "identifier": "T6_2H_COMBATSTAFF_MORGANA",
+      "icon": "https://render.albiononline.com/v1/item/T6_2H_COMBATSTAFF_MORGANA@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 14,
+        "name": "Quarterstaff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 411,
+      "name": "Master's Soulscythe",
+      "tier": "6.0",
+      "item_power": 950,
+      "identifier": "T6_2H_TWINSCYTHE_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T6_2H_TWINSCYTHE_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 14,
+        "name": "Quarterstaff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 412,
+      "name": "Master's Staff of Balance",
+      "tier": "6.0",
+      "item_power": 975,
+      "identifier": "T6_2H_ROCKSTAFF_KEEPER",
+      "icon": "https://render.albiononline.com/v1/item/T6_2H_ROCKSTAFF_KEEPER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 14,
+        "name": "Quarterstaff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 413,
+      "name": "Master's Grailseeker",
+      "tier": "6.0",
+      "item_power": 1000,
+      "identifier": "T6_2H_QUARTERSTAFF_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T6_2H_QUARTERSTAFF_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 14,
+        "name": "Quarterstaff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 414,
+      "name": "Grandmaster's Quarterstaff",
+      "tier": "7.0",
+      "item_power": 1000,
+      "identifier": "T7_2H_QUARTERSTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T7_2H_QUARTERSTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 14,
+        "name": "Quarterstaff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 415,
+      "name": "Grandmaster's Iron-clad Staff",
+      "tier": "7.0",
+      "item_power": 1000,
+      "identifier": "T7_2H_IRONCLADEDSTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T7_2H_IRONCLADEDSTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 14,
+        "name": "Quarterstaff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 416,
+      "name": "Grandmaster's Double Bladed Staff",
+      "tier": "7.0",
+      "item_power": 1000,
+      "identifier": "T7_2H_DOUBLEBLADEDSTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T7_2H_DOUBLEBLADEDSTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 14,
+        "name": "Quarterstaff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 417,
+      "name": "Grandmaster's Black Monk Stave",
+      "tier": "7.0",
+      "item_power": 1025,
+      "identifier": "T7_2H_COMBATSTAFF_MORGANA",
+      "icon": "https://render.albiononline.com/v1/item/T7_2H_COMBATSTAFF_MORGANA@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 14,
+        "name": "Quarterstaff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 418,
+      "name": "Grandmaster's Soulscythe",
+      "tier": "7.0",
+      "item_power": 1050,
+      "identifier": "T7_2H_TWINSCYTHE_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T7_2H_TWINSCYTHE_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 14,
+        "name": "Quarterstaff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 419,
+      "name": "Grandmaster's Staff of Balance",
+      "tier": "7.0",
+      "item_power": 1075,
+      "identifier": "T7_2H_ROCKSTAFF_KEEPER",
+      "icon": "https://render.albiononline.com/v1/item/T7_2H_ROCKSTAFF_KEEPER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 14,
+        "name": "Quarterstaff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 420,
+      "name": "Grandmaster's Grailseeker",
+      "tier": "7.0",
+      "item_power": 1100,
+      "identifier": "T7_2H_QUARTERSTAFF_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T7_2H_QUARTERSTAFF_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 14,
+        "name": "Quarterstaff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 421,
+      "name": "Elder's Quarterstaff",
+      "tier": "8.0",
+      "item_power": 1100,
+      "identifier": "T8_2H_QUARTERSTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T8_2H_QUARTERSTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 14,
+        "name": "Quarterstaff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 422,
+      "name": "Elder's Iron-clad Staff",
+      "tier": "8.0",
+      "item_power": 1100,
+      "identifier": "T8_2H_IRONCLADEDSTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T8_2H_IRONCLADEDSTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 14,
+        "name": "Quarterstaff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 423,
+      "name": "Elder's Double Bladed Staff",
+      "tier": "8.0",
+      "item_power": 1100,
+      "identifier": "T8_2H_DOUBLEBLADEDSTAFF",
+      "icon": "https://render.albiononline.com/v1/item/T8_2H_DOUBLEBLADEDSTAFF@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 14,
+        "name": "Quarterstaff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 424,
+      "name": "Elder's Black Monk Stave",
+      "tier": "8.0",
+      "item_power": 1125,
+      "identifier": "T8_2H_COMBATSTAFF_MORGANA",
+      "icon": "https://render.albiononline.com/v1/item/T8_2H_COMBATSTAFF_MORGANA@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 14,
+        "name": "Quarterstaff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 425,
+      "name": "Elder's Soulscythe",
+      "tier": "8.0",
+      "item_power": 1150,
+      "identifier": "T8_2H_TWINSCYTHE_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T8_2H_TWINSCYTHE_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 14,
+        "name": "Quarterstaff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 426,
+      "name": "Elder's Staff of Balance",
+      "tier": "8.0",
+      "item_power": 1175,
+      "identifier": "T8_2H_ROCKSTAFF_KEEPER",
+      "icon": "https://render.albiononline.com/v1/item/T8_2H_ROCKSTAFF_KEEPER@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 14,
+        "name": "Quarterstaff",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 427,
+      "name": "Elder's Grailseeker",
+      "tier": "8.0",
+      "item_power": 1200,
+      "identifier": "T8_2H_QUARTERSTAFF_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T8_2H_QUARTERSTAFF_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 9,
+        "name": "Hunter Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 14,
+        "name": "Quarterstaff",
+        "type": "weapon"
+      }
+    }
+  ]
+}

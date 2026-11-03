@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Novice's Cape",
+      "tier": "2.0",
+      "item_power": 300,
+      "identifier": "T2_CAPE",
+      "icon": "https://render.albiononline.com/v1/item/T2_CAPE@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 35,
+        "name": "Cape",
+        "type": "accessory"
+      },
+      "subcategory": {
+        "id": 37,
+        "name": "Normal Capes",
+        "type": "accessory"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Journeyman's Cape",
+      "tier": "3.0",
+      "item_power": 500,
+      "identifier": "T3_CAPE",
+      "icon": "https://render.albiononline.com/v1/item/T3_CAPE@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 35,
+        "name": "Cape",
+        "type": "accessory"
+      },
+      "subcategory": {
+        "id": 37,
+        "name": "Normal Capes",
+        "type": "accessory"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Adept's Cape",
+      "tier": "4.0",
+      "item_power": 700,
+      "identifier": "T4_CAPE",
+      "icon": "https://render.albiononline.com/v1/item/T4_CAPE@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 35,
+        "name": "Cape",
+        "type": "accessory"
+      },
+      "subcategory": {
+        "id": 37,
+        "name": "Normal Capes",
+        "type": "accessory"
+      }
+    },
+    {
+      "id": 17,
+      "name": "Expert's Cape",
+      "tier": "5.0",
+      "item_power": 800,
+      "identifier": "T5_CAPE",
+      "icon": "https://render.albiononline.com/v1/item/T5_CAPE@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 35,
+        "name": "Cape",
+        "type": "accessory"
+      },
+      "subcategory": {
+        "id": 37,
+        "name": "Normal Capes",
+        "type": "accessory"
+      }
+    },
+    {
+      "id": 29,
+      "name": "Master's Cape",
+      "tier": "6.0",
+      "item_power": 900,
+      "identifier": "T6_CAPE",
+      "icon": "https://render.albiononline.com/v1/item/T6_CAPE@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 35,
+        "name": "Cape",
+        "type": "accessory"
+      },
+      "subcategory": {
+        "id": 37,
+        "name": "Normal Capes",
+        "type": "accessory"
+      }
+    },
+    {
+      "id": 41,
+      "name": "Grandmaster's Cape",
+      "tier": "7.0",
+      "item_power": 1000,
+      "identifier": "T7_CAPE",
+      "icon": "https://render.albiononline.com/v1/item/T7_CAPE@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 35,
+        "name": "Cape",
+        "type": "accessory"
+      },
+      "subcategory": {
+        "id": 37,
+        "name": "Normal Capes",
+        "type": "accessory"
+      }
+    },
+    {
+      "id": 53,
+      "name": "Elder's Cape",
+      "tier": "8.0",
+      "item_power": 1100,
+      "identifier": "T8_CAPE",
+      "icon": "https://render.albiononline.com/v1/item/T8_CAPE@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 35,
+        "name": "Cape",
+        "type": "accessory"
+      },
+      "subcategory": {
+        "id": 37,
+        "name": "Normal Capes",
+        "type": "accessory"
+      }
+    }
+  ]
+}

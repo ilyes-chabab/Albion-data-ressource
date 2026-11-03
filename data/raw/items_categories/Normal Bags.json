@@ -1,0 +1,166 @@
+{
+  "data": [
+    {
+      "id": 63,
+      "name": "Adept's Satchel of Insight",
+      "tier": "4.0",
+      "item_power": 700,
+      "identifier": "T4_BAG_INSIGHT",
+      "icon": "https://render.albiononline.com/v1/item/T4_BAG_INSIGHT@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 36,
+        "name": "Bag",
+        "type": "accessory"
+      },
+      "subcategory": {
+        "id": 39,
+        "name": "Normal Bags",
+        "type": "accessory"
+      }
+    },
+    {
+      "id": 64,
+      "name": "Expert's Bag",
+      "tier": "5.0",
+      "item_power": 800,
+      "identifier": "T5_BAG",
+      "icon": "https://render.albiononline.com/v1/item/T5_BAG@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 36,
+        "name": "Bag",
+        "type": "accessory"
+      },
+      "subcategory": {
+        "id": 39,
+        "name": "Normal Bags",
+        "type": "accessory"
+      }
+    },
+    {
+      "id": 65,
+      "name": "Expert's Satchel of Insight",
+      "tier": "5.0",
+      "item_power": 800,
+      "identifier": "T5_BAG_INSIGHT",
+      "icon": "https://render.albiononline.com/v1/item/T5_BAG_INSIGHT@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 36,
+        "name": "Bag",
+        "type": "accessory"
+      },
+      "subcategory": {
+        "id": 39,
+        "name": "Normal Bags",
+        "type": "accessory"
+      }
+    },
+    {
+      "id": 66,
+      "name": "Master's Bag",
+      "tier": "6.0",
+      "item_power": 900,
+      "identifier": "T6_BAG",
+      "icon": "https://render.albiononline.com/v1/item/T6_BAG@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 36,
+        "name": "Bag",
+        "type": "accessory"
+      },
+      "subcategory": {
+        "id": 39,
+        "name": "Normal Bags",
+        "type": "accessory"
+      }
+    },
+    {
+      "id": 67,
+      "name": "Master's Satchel of Insight",
+      "tier": "6.0",
+      "item_power": 900,
+      "identifier": "T6_BAG_INSIGHT",
+      "icon": "https://render.albiononline.com/v1/item/T6_BAG_INSIGHT@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 36,
+        "name": "Bag",
+        "type": "accessory"
+      },
+      "subcategory": {
+        "id": 39,
+        "name": "Normal Bags",
+        "type": "accessory"
+      }
+    },
+    {
+      "id": 68,
+      "name": "Grandmaster's Bag",
+      "tier": "7.0",
+      "item_power": 1000,
+      "identifier": "T7_BAG",
+      "icon": "https://render.albiononline.com/v1/item/T7_BAG@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 36,
+        "name": "Bag",
+        "type": "accessory"
+      },
+      "subcategory": {
+        "id": 39,
+        "name": "Normal Bags",
+        "type": "accessory"
+      }
+    },
+    {
+      "id": 69,
+      "name": "Grandmaster's Satchel of Insight",
+      "tier": "7.0",
+      "item_power": 1000,
+      "identifier": "T7_BAG_INSIGHT",
+      "icon": "https://render.albiononline.com/v1/item/T7_BAG_INSIGHT@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 36,
+        "name": "Bag",
+        "type": "accessory"
+      },
+      "subcategory": {
+        "id": 39,
+        "name": "Normal Bags",
+        "type": "accessory"
+      }
+    },
+    {
+      "id": 70,
+      "name": "Elder's Bag",
+      "tier": "8.0",
+      "item_power": 1100,
+      "identifier": "T8_BAG",
+      "icon": "https://render.albiononline.com/v1/item/T8_BAG@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 36,
+        "name": "Bag",
+        "type": "accessory"
+      },
+      "subcategory": {
+        "id": 39,
+        "name": "Normal Bags",
+        "type": "accessory"
+      }
+    },
+    {
+      "id": 71,
+      "name": "Elder's Satchel of Insight",
+      "tier": "8.0",
+      "item_power": 1100,
+      "identifier": "T8_BAG_INSIGHT",
+      "icon": "https://render.albiononline.com/v1/item/T8_BAG_INSIGHT@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 36,
+        "name": "Bag",
+        "type": "accessory"
+      },
+      "subcategory": {
+        "id": 39,
+        "name": "Normal Bags",
+        "type": "accessory"
+      }
+    }
+  ]
+}

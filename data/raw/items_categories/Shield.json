@@ -1,0 +1,508 @@
+{
+  "data": [
+    {
+      "id": 219,
+      "name": "Beginner's Shield",
+      "tier": "1.0",
+      "item_power": 100,
+      "identifier": "T1_OFF_SHIELD",
+      "icon": "https://render.albiononline.com/v1/item/T1_OFF_SHIELD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 8,
+        "name": "Shield",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 220,
+      "name": "Novice's Shield",
+      "tier": "2.0",
+      "item_power": 300,
+      "identifier": "T2_OFF_SHIELD",
+      "icon": "https://render.albiononline.com/v1/item/T2_OFF_SHIELD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 8,
+        "name": "Shield",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 221,
+      "name": "Journeyman's Shield",
+      "tier": "3.0",
+      "item_power": 500,
+      "identifier": "T3_OFF_SHIELD",
+      "icon": "https://render.albiononline.com/v1/item/T3_OFF_SHIELD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 8,
+        "name": "Shield",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 222,
+      "name": "Adept's Shield",
+      "tier": "4.0",
+      "item_power": 700,
+      "identifier": "T4_OFF_SHIELD",
+      "icon": "https://render.albiononline.com/v1/item/T4_OFF_SHIELD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 8,
+        "name": "Shield",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 223,
+      "name": "Adept's Sarcophagus",
+      "tier": "4.0",
+      "item_power": 725,
+      "identifier": "T4_OFF_TOWERSHIELD_UNDEAD",
+      "icon": "https://render.albiononline.com/v1/item/T4_OFF_TOWERSHIELD_UNDEAD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 8,
+        "name": "Shield",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 224,
+      "name": "Adept's Caitiff Shield",
+      "tier": "4.0",
+      "item_power": 750,
+      "identifier": "T4_OFF_SHIELD_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T4_OFF_SHIELD_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 8,
+        "name": "Shield",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 225,
+      "name": "Adept's Facebreaker",
+      "tier": "4.0",
+      "item_power": 775,
+      "identifier": "T4_OFF_SPIKEDSHIELD_MORGANA",
+      "icon": "https://render.albiononline.com/v1/item/T4_OFF_SPIKEDSHIELD_MORGANA@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 8,
+        "name": "Shield",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 226,
+      "name": "Adept's Astral Aegis",
+      "tier": "4.0",
+      "item_power": 800,
+      "identifier": "T4_OFF_SHIELD_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T4_OFF_SHIELD_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 8,
+        "name": "Shield",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 227,
+      "name": "Expert's Shield",
+      "tier": "5.0",
+      "item_power": 800,
+      "identifier": "T5_OFF_SHIELD",
+      "icon": "https://render.albiononline.com/v1/item/T5_OFF_SHIELD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 8,
+        "name": "Shield",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 228,
+      "name": "Expert's Sarcophagus",
+      "tier": "5.0",
+      "item_power": 825,
+      "identifier": "T5_OFF_TOWERSHIELD_UNDEAD",
+      "icon": "https://render.albiononline.com/v1/item/T5_OFF_TOWERSHIELD_UNDEAD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 8,
+        "name": "Shield",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 229,
+      "name": "Expert's Caitiff Shield",
+      "tier": "5.0",
+      "item_power": 850,
+      "identifier": "T5_OFF_SHIELD_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T5_OFF_SHIELD_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 8,
+        "name": "Shield",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 230,
+      "name": "Expert's Facebreaker",
+      "tier": "5.0",
+      "item_power": 875,
+      "identifier": "T5_OFF_SPIKEDSHIELD_MORGANA",
+      "icon": "https://render.albiononline.com/v1/item/T5_OFF_SPIKEDSHIELD_MORGANA@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 8,
+        "name": "Shield",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 231,
+      "name": "Expert's Astral Aegis",
+      "tier": "5.0",
+      "item_power": 900,
+      "identifier": "T5_OFF_SHIELD_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T5_OFF_SHIELD_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 8,
+        "name": "Shield",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 232,
+      "name": "Master's Shield",
+      "tier": "6.0",
+      "item_power": 900,
+      "identifier": "T6_OFF_SHIELD",
+      "icon": "https://render.albiononline.com/v1/item/T6_OFF_SHIELD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 8,
+        "name": "Shield",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 233,
+      "name": "Master's Sarcophagus",
+      "tier": "6.0",
+      "item_power": 925,
+      "identifier": "T6_OFF_TOWERSHIELD_UNDEAD",
+      "icon": "https://render.albiononline.com/v1/item/T6_OFF_TOWERSHIELD_UNDEAD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 8,
+        "name": "Shield",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 234,
+      "name": "Master's Caitiff Shield",
+      "tier": "6.0",
+      "item_power": 950,
+      "identifier": "T6_OFF_SHIELD_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T6_OFF_SHIELD_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 8,
+        "name": "Shield",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 235,
+      "name": "Master's Facebreaker",
+      "tier": "6.0",
+      "item_power": 975,
+      "identifier": "T6_OFF_SPIKEDSHIELD_MORGANA",
+      "icon": "https://render.albiononline.com/v1/item/T6_OFF_SPIKEDSHIELD_MORGANA@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 8,
+        "name": "Shield",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 236,
+      "name": "Master's Astral Aegis",
+      "tier": "6.0",
+      "item_power": 1000,
+      "identifier": "T6_OFF_SHIELD_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T6_OFF_SHIELD_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 8,
+        "name": "Shield",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 237,
+      "name": "Grandmaster's Shield",
+      "tier": "7.0",
+      "item_power": 1000,
+      "identifier": "T7_OFF_SHIELD",
+      "icon": "https://render.albiononline.com/v1/item/T7_OFF_SHIELD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 8,
+        "name": "Shield",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 238,
+      "name": "Grandmaster's Sarcophagus",
+      "tier": "7.0",
+      "item_power": 1025,
+      "identifier": "T7_OFF_TOWERSHIELD_UNDEAD",
+      "icon": "https://render.albiononline.com/v1/item/T7_OFF_TOWERSHIELD_UNDEAD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 8,
+        "name": "Shield",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 239,
+      "name": "Grandmaster's Caitiff Shield",
+      "tier": "7.0",
+      "item_power": 1050,
+      "identifier": "T7_OFF_SHIELD_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T7_OFF_SHIELD_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 8,
+        "name": "Shield",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 240,
+      "name": "Grandmaster's Facebreaker",
+      "tier": "7.0",
+      "item_power": 1075,
+      "identifier": "T7_OFF_SPIKEDSHIELD_MORGANA",
+      "icon": "https://render.albiononline.com/v1/item/T7_OFF_SPIKEDSHIELD_MORGANA@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 8,
+        "name": "Shield",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 241,
+      "name": "Grandmaster's Astral Aegis",
+      "tier": "7.0",
+      "item_power": 1100,
+      "identifier": "T7_OFF_SHIELD_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T7_OFF_SHIELD_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 8,
+        "name": "Shield",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 242,
+      "name": "Elder's Shield",
+      "tier": "8.0",
+      "item_power": 1100,
+      "identifier": "T8_OFF_SHIELD",
+      "icon": "https://render.albiononline.com/v1/item/T8_OFF_SHIELD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 8,
+        "name": "Shield",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 243,
+      "name": "Elder's Sarcophagus",
+      "tier": "8.0",
+      "item_power": 1125,
+      "identifier": "T8_OFF_TOWERSHIELD_UNDEAD",
+      "icon": "https://render.albiononline.com/v1/item/T8_OFF_TOWERSHIELD_UNDEAD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 8,
+        "name": "Shield",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 244,
+      "name": "Elder's Caitiff Shield",
+      "tier": "8.0",
+      "item_power": 1150,
+      "identifier": "T8_OFF_SHIELD_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T8_OFF_SHIELD_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 8,
+        "name": "Shield",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 245,
+      "name": "Elder's Facebreaker",
+      "tier": "8.0",
+      "item_power": 1175,
+      "identifier": "T8_OFF_SPIKEDSHIELD_MORGANA",
+      "icon": "https://render.albiononline.com/v1/item/T8_OFF_SPIKEDSHIELD_MORGANA@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 8,
+        "name": "Shield",
+        "type": "weapon"
+      }
+    },
+    {
+      "id": 246,
+      "name": "Elder's Astral Aegis",
+      "tier": "8.0",
+      "item_power": 1200,
+      "identifier": "T8_OFF_SHIELD_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T8_OFF_SHIELD_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 1,
+        "name": "Warrior Weapons",
+        "type": "weapon"
+      },
+      "subcategory": {
+        "id": 8,
+        "name": "Shield",
+        "type": "weapon"
+      }
+    }
+  ]
+}

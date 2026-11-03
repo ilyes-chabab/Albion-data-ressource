@@ -1,0 +1,868 @@
+{
+  "data": [
+    {
+      "id": 144,
+      "name": "Beginner's Mercenary Shoes",
+      "tier": "1.0",
+      "item_power": 100,
+      "identifier": "T1_SHOES_LEATHER_SET1",
+      "icon": "https://render.albiononline.com/v1/item/T1_SHOES_LEATHER_SET1@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 30,
+        "name": "Shoes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 145,
+      "name": "Novice's Mercenary Shoes",
+      "tier": "2.0",
+      "item_power": 300,
+      "identifier": "T2_SHOES_LEATHER_SET1",
+      "icon": "https://render.albiononline.com/v1/item/T2_SHOES_LEATHER_SET1@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 30,
+        "name": "Shoes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 146,
+      "name": "Journeyman's Mercenary Shoes",
+      "tier": "3.0",
+      "item_power": 500,
+      "identifier": "T3_SHOES_LEATHER_SET1",
+      "icon": "https://render.albiononline.com/v1/item/T3_SHOES_LEATHER_SET1@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 30,
+        "name": "Shoes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 147,
+      "name": "Adept's Assassin Shoes",
+      "tier": "4.0",
+      "item_power": 700,
+      "identifier": "T4_SHOES_LEATHER_SET3",
+      "icon": "https://render.albiononline.com/v1/item/T4_SHOES_LEATHER_SET3@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 30,
+        "name": "Shoes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 148,
+      "name": "Adept's Hellion Shoes",
+      "tier": "4.0",
+      "item_power": 750,
+      "identifier": "T4_SHOES_LEATHER_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T4_SHOES_LEATHER_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 30,
+        "name": "Shoes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 149,
+      "name": "Adept's Hunter Shoes",
+      "tier": "4.0",
+      "item_power": 700,
+      "identifier": "T4_SHOES_LEATHER_SET2",
+      "icon": "https://render.albiononline.com/v1/item/T4_SHOES_LEATHER_SET2@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 30,
+        "name": "Shoes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 150,
+      "name": "Adept's Mercenary Shoes",
+      "tier": "4.0",
+      "item_power": 700,
+      "identifier": "T4_SHOES_LEATHER_SET1",
+      "icon": "https://render.albiononline.com/v1/item/T4_SHOES_LEATHER_SET1@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 30,
+        "name": "Shoes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 151,
+      "name": "Adept's Mistwalker Shoes",
+      "tier": "4.0",
+      "item_power": 775,
+      "identifier": "T4_SHOES_LEATHER_FEY",
+      "icon": "https://render.albiononline.com/v1/item/T4_SHOES_LEATHER_FEY@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 30,
+        "name": "Shoes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 152,
+      "name": "Adept's Royal Shoes",
+      "tier": "4.0",
+      "item_power": 725,
+      "identifier": "T4_SHOES_LEATHER_ROYAL",
+      "icon": "https://render.albiononline.com/v1/item/T4_SHOES_LEATHER_ROYAL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 30,
+        "name": "Shoes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 153,
+      "name": "Adept's Shoes of Tenacity",
+      "tier": "4.0",
+      "item_power": 800,
+      "identifier": "T4_SHOES_LEATHER_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T4_SHOES_LEATHER_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 30,
+        "name": "Shoes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 154,
+      "name": "Adept's Specter Shoes",
+      "tier": "4.0",
+      "item_power": 775,
+      "identifier": "T4_SHOES_LEATHER_UNDEAD",
+      "icon": "https://render.albiononline.com/v1/item/T4_SHOES_LEATHER_UNDEAD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 30,
+        "name": "Shoes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 155,
+      "name": "Adept's Stalker Shoes",
+      "tier": "4.0",
+      "item_power": 725,
+      "identifier": "T4_SHOES_LEATHER_MORGANA",
+      "icon": "https://render.albiononline.com/v1/item/T4_SHOES_LEATHER_MORGANA@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 30,
+        "name": "Shoes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 156,
+      "name": "Expert's Assassin Shoes",
+      "tier": "5.0",
+      "item_power": 800,
+      "identifier": "T5_SHOES_LEATHER_SET3",
+      "icon": "https://render.albiononline.com/v1/item/T5_SHOES_LEATHER_SET3@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 30,
+        "name": "Shoes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 157,
+      "name": "Expert's Hellion Shoes",
+      "tier": "5.0",
+      "item_power": 850,
+      "identifier": "T5_SHOES_LEATHER_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T5_SHOES_LEATHER_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 30,
+        "name": "Shoes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 158,
+      "name": "Expert's Hunter Shoes",
+      "tier": "5.0",
+      "item_power": 800,
+      "identifier": "T5_SHOES_LEATHER_SET2",
+      "icon": "https://render.albiononline.com/v1/item/T5_SHOES_LEATHER_SET2@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 30,
+        "name": "Shoes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 159,
+      "name": "Expert's Mercenary Shoes",
+      "tier": "5.0",
+      "item_power": 800,
+      "identifier": "T5_SHOES_LEATHER_SET1",
+      "icon": "https://render.albiononline.com/v1/item/T5_SHOES_LEATHER_SET1@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 30,
+        "name": "Shoes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 160,
+      "name": "Expert's Mistwalker Shoes",
+      "tier": "5.0",
+      "item_power": 875,
+      "identifier": "T5_SHOES_LEATHER_FEY",
+      "icon": "https://render.albiononline.com/v1/item/T5_SHOES_LEATHER_FEY@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 30,
+        "name": "Shoes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 161,
+      "name": "Expert's Royal Shoes",
+      "tier": "5.0",
+      "item_power": 825,
+      "identifier": "T5_SHOES_LEATHER_ROYAL",
+      "icon": "https://render.albiononline.com/v1/item/T5_SHOES_LEATHER_ROYAL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 30,
+        "name": "Shoes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 162,
+      "name": "Expert's Shoes of Tenacity",
+      "tier": "5.0",
+      "item_power": 900,
+      "identifier": "T5_SHOES_LEATHER_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T5_SHOES_LEATHER_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 30,
+        "name": "Shoes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 163,
+      "name": "Expert's Specter Shoes",
+      "tier": "5.0",
+      "item_power": 875,
+      "identifier": "T5_SHOES_LEATHER_UNDEAD",
+      "icon": "https://render.albiononline.com/v1/item/T5_SHOES_LEATHER_UNDEAD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 30,
+        "name": "Shoes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 164,
+      "name": "Expert's Stalker Shoes",
+      "tier": "5.0",
+      "item_power": 825,
+      "identifier": "T5_SHOES_LEATHER_MORGANA",
+      "icon": "https://render.albiononline.com/v1/item/T5_SHOES_LEATHER_MORGANA@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 30,
+        "name": "Shoes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 165,
+      "name": "Master's Assassin Shoes",
+      "tier": "6.0",
+      "item_power": 900,
+      "identifier": "T6_SHOES_LEATHER_SET3",
+      "icon": "https://render.albiononline.com/v1/item/T6_SHOES_LEATHER_SET3@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 30,
+        "name": "Shoes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 166,
+      "name": "Master's Hellion Shoes",
+      "tier": "6.0",
+      "item_power": 950,
+      "identifier": "T6_SHOES_LEATHER_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T6_SHOES_LEATHER_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 30,
+        "name": "Shoes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 167,
+      "name": "Master's Hunter Shoes",
+      "tier": "6.0",
+      "item_power": 900,
+      "identifier": "T6_SHOES_LEATHER_SET2",
+      "icon": "https://render.albiononline.com/v1/item/T6_SHOES_LEATHER_SET2@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 30,
+        "name": "Shoes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 168,
+      "name": "Master's Mercenary Shoes",
+      "tier": "6.0",
+      "item_power": 900,
+      "identifier": "T6_SHOES_LEATHER_SET1",
+      "icon": "https://render.albiononline.com/v1/item/T6_SHOES_LEATHER_SET1@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 30,
+        "name": "Shoes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 169,
+      "name": "Master's Mistwalker Shoes",
+      "tier": "6.0",
+      "item_power": 975,
+      "identifier": "T6_SHOES_LEATHER_FEY",
+      "icon": "https://render.albiononline.com/v1/item/T6_SHOES_LEATHER_FEY@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 30,
+        "name": "Shoes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 170,
+      "name": "Master's Royal Shoes",
+      "tier": "6.0",
+      "item_power": 925,
+      "identifier": "T6_SHOES_LEATHER_ROYAL",
+      "icon": "https://render.albiononline.com/v1/item/T6_SHOES_LEATHER_ROYAL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 30,
+        "name": "Shoes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 171,
+      "name": "Master's Shoes of Tenacity",
+      "tier": "6.0",
+      "item_power": 1000,
+      "identifier": "T6_SHOES_LEATHER_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T6_SHOES_LEATHER_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 30,
+        "name": "Shoes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 172,
+      "name": "Master's Specter Shoes",
+      "tier": "6.0",
+      "item_power": 975,
+      "identifier": "T6_SHOES_LEATHER_UNDEAD",
+      "icon": "https://render.albiononline.com/v1/item/T6_SHOES_LEATHER_UNDEAD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 30,
+        "name": "Shoes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 173,
+      "name": "Master's Stalker Shoes",
+      "tier": "6.0",
+      "item_power": 925,
+      "identifier": "T6_SHOES_LEATHER_MORGANA",
+      "icon": "https://render.albiononline.com/v1/item/T6_SHOES_LEATHER_MORGANA@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 30,
+        "name": "Shoes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 174,
+      "name": "Grandmaster's Assassin Shoes",
+      "tier": "7.0",
+      "item_power": 1000,
+      "identifier": "T7_SHOES_LEATHER_SET3",
+      "icon": "https://render.albiononline.com/v1/item/T7_SHOES_LEATHER_SET3@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 30,
+        "name": "Shoes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 175,
+      "name": "Grandmaster's Hellion Shoes",
+      "tier": "7.0",
+      "item_power": 1050,
+      "identifier": "T7_SHOES_LEATHER_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T7_SHOES_LEATHER_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 30,
+        "name": "Shoes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 176,
+      "name": "Grandmaster's Hunter Shoes",
+      "tier": "7.0",
+      "item_power": 1000,
+      "identifier": "T7_SHOES_LEATHER_SET2",
+      "icon": "https://render.albiononline.com/v1/item/T7_SHOES_LEATHER_SET2@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 30,
+        "name": "Shoes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 177,
+      "name": "Grandmaster's Mercenary Shoes",
+      "tier": "7.0",
+      "item_power": 1000,
+      "identifier": "T7_SHOES_LEATHER_SET1",
+      "icon": "https://render.albiononline.com/v1/item/T7_SHOES_LEATHER_SET1@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 30,
+        "name": "Shoes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 178,
+      "name": "Grandmaster's Mistwalker Shoes",
+      "tier": "7.0",
+      "item_power": 1075,
+      "identifier": "T7_SHOES_LEATHER_FEY",
+      "icon": "https://render.albiononline.com/v1/item/T7_SHOES_LEATHER_FEY@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 30,
+        "name": "Shoes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 179,
+      "name": "Grandmaster's Royal Shoes",
+      "tier": "7.0",
+      "item_power": 1025,
+      "identifier": "T7_SHOES_LEATHER_ROYAL",
+      "icon": "https://render.albiononline.com/v1/item/T7_SHOES_LEATHER_ROYAL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 30,
+        "name": "Shoes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 180,
+      "name": "Grandmaster's Shoes of Tenacity",
+      "tier": "7.0",
+      "item_power": 1100,
+      "identifier": "T7_SHOES_LEATHER_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T7_SHOES_LEATHER_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 30,
+        "name": "Shoes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 181,
+      "name": "Grandmaster's Specter Shoes",
+      "tier": "7.0",
+      "item_power": 1075,
+      "identifier": "T7_SHOES_LEATHER_UNDEAD",
+      "icon": "https://render.albiononline.com/v1/item/T7_SHOES_LEATHER_UNDEAD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 30,
+        "name": "Shoes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 182,
+      "name": "Grandmaster's Stalker Shoes",
+      "tier": "7.0",
+      "item_power": 1025,
+      "identifier": "T7_SHOES_LEATHER_MORGANA",
+      "icon": "https://render.albiononline.com/v1/item/T7_SHOES_LEATHER_MORGANA@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 30,
+        "name": "Shoes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 183,
+      "name": "Elder's Assassin Shoes",
+      "tier": "8.0",
+      "item_power": 1100,
+      "identifier": "T8_SHOES_LEATHER_SET3",
+      "icon": "https://render.albiononline.com/v1/item/T8_SHOES_LEATHER_SET3@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 30,
+        "name": "Shoes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 184,
+      "name": "Elder's Hellion Shoes",
+      "tier": "8.0",
+      "item_power": 1150,
+      "identifier": "T8_SHOES_LEATHER_HELL",
+      "icon": "https://render.albiononline.com/v1/item/T8_SHOES_LEATHER_HELL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 30,
+        "name": "Shoes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 185,
+      "name": "Elder's Hunter Shoes",
+      "tier": "8.0",
+      "item_power": 1100,
+      "identifier": "T8_SHOES_LEATHER_SET2",
+      "icon": "https://render.albiononline.com/v1/item/T8_SHOES_LEATHER_SET2@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 30,
+        "name": "Shoes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 186,
+      "name": "Elder's Mercenary Shoes",
+      "tier": "8.0",
+      "item_power": 1100,
+      "identifier": "T8_SHOES_LEATHER_SET1",
+      "icon": "https://render.albiononline.com/v1/item/T8_SHOES_LEATHER_SET1@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 30,
+        "name": "Shoes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 187,
+      "name": "Elder's Mistwalker Shoes",
+      "tier": "8.0",
+      "item_power": 1175,
+      "identifier": "T8_SHOES_LEATHER_FEY",
+      "icon": "https://render.albiononline.com/v1/item/T8_SHOES_LEATHER_FEY@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 30,
+        "name": "Shoes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 188,
+      "name": "Elder's Royal Shoes",
+      "tier": "8.0",
+      "item_power": 1125,
+      "identifier": "T8_SHOES_LEATHER_ROYAL",
+      "icon": "https://render.albiononline.com/v1/item/T8_SHOES_LEATHER_ROYAL@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 30,
+        "name": "Shoes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 189,
+      "name": "Elder's Shoes of Tenacity",
+      "tier": "8.0",
+      "item_power": 1200,
+      "identifier": "T8_SHOES_LEATHER_AVALON",
+      "icon": "https://render.albiononline.com/v1/item/T8_SHOES_LEATHER_AVALON@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 30,
+        "name": "Shoes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 190,
+      "name": "Elder's Specter Shoes",
+      "tier": "8.0",
+      "item_power": 1175,
+      "identifier": "T8_SHOES_LEATHER_UNDEAD",
+      "icon": "https://render.albiononline.com/v1/item/T8_SHOES_LEATHER_UNDEAD@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 30,
+        "name": "Shoes",
+        "type": "armor"
+      }
+    },
+    {
+      "id": 191,
+      "name": "Elder's Stalker Shoes",
+      "tier": "8.0",
+      "item_power": 1125,
+      "identifier": "T8_SHOES_LEATHER_MORGANA",
+      "icon": "https://render.albiononline.com/v1/item/T8_SHOES_LEATHER_MORGANA@0.png?quality=0&size=217&locale=en",
+      "category": {
+        "id": 27,
+        "name": "Leather Armor",
+        "type": "armor"
+      },
+      "subcategory": {
+        "id": 30,
+        "name": "Shoes",
+        "type": "armor"
+      }
+    }
+  ]
+}

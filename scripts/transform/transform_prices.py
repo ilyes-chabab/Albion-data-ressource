@@ -6,7 +6,7 @@ from datetime import datetime
 import pyarrow as pa
 import pyarrow.parquet as pq
 
-from validation import validate_record
+from scripts.transform.validation import validate_record
 
 
 # Fichiers source et destination
